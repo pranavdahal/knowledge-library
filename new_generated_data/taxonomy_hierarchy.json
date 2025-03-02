@@ -1,0 +1,106 @@
+{
+    "Governance and Risk Management": [
+        "Risk Management",
+        "Audit Assurance",
+        "ESG (Environmental, Social, and Governance)",
+        "Organizational Security Structure"
+    ],
+    "Policy Management": [
+        "Acceptable Use Policy",
+        "Security Policies",
+        "Legal and Compliance Requirements"
+    ],
+    "Identity and Access Management": [
+        "Access Control",
+        "Password Policy and Authentication Procedures",
+        "Privileged Access Management",
+        "Session Management"
+    ],
+    "Human Resources Security": [
+        "Security Awareness and Training",
+        "Personnel Security",
+        "HR Security Practices"
+    ],
+    "Asset Management": [
+        "Asset Inventory and Classification",
+        "Media Management",
+        "Asset Lifecycle Management"
+    ],
+    "Data Governance": [
+        "Data Governance and Classification",
+        "Data Retention and Deletion",
+        "Data Security",
+        "Privacy and Compliance"
+    ],
+    "Encryption and Key Management": [
+        "Cryptographic Controls",
+        "Key Management",
+        "Certificate Management"
+    ],
+    "Network Security": [
+        "Network Architecture",
+        "Network Controls",
+        "Wireless Security",
+        "Perimeter Security"
+    ],
+    "Endpoint Security": [
+        "Anti-virus and Malware Control",
+        "Mobile Device Security",
+        "Server Security",
+        "Patch Management"
+    ],
+    "Application Security": [
+        "Application Design and Development",
+        "Software Development Life Cycle",
+        "API Security",
+        "Artificial Intelligence Security"
+    ],
+    "Vulnerability and Threat Management": [
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Threat Intelligence",
+        "Remediation Management"
+    ],
+    "Logging, Monitoring and Security Operations": [
+        "Security Event Monitoring",
+        "Audit Trails",
+        "Security Analytics",
+        "Security Operations Center"
+    ],
+    "Incident Management": [
+        "Incident Response",
+        "Incident Investigation",
+        "Incident Reporting",
+        "Lessons Learned"
+    ],
+    "Change and Configuration Management": [
+        "Change Control",
+        "Configuration Management",
+        "Release Management",
+        "System Hardening"
+    ],
+    "Business Continuity and Disaster Recovery": [
+        "Business Impact Analysis",
+        "Continuity Planning",
+        "Backup Policy and Procedures",
+        "Disaster Recovery Testing"
+    ],
+    "Physical and Environmental Security": [
+        "Facility Security",
+        "Environmental Controls",
+        "Physical Access Management",
+        "Equipment Security"
+    ],
+    "Third-Party Management": [
+        "Supply Chain/Vendor Management",
+        "Vendor Assessment",
+        "Cloud Service Providers",
+        "Hosting Security"
+    ],
+    "System Integration and Interoperability": [
+        "Integration Security",
+        "Interoperability and Portability",
+        "API Integration Management",
+        "System Interfaces"
+    ]
+}

@@ -1,0 +1,204 @@
+question,category,subcategory
+"Does your organization have a documented policy for third-party risk management, specifically addressing supply chain and vendor risks?",Third-Party Management,Supply Chain/Vendor Management
+"Do you maintain an inventory of all third-party vendors and suppliers, including a classification of their risk level based on the sensitivity of data they handle or the criticality of services they provide?",Third-Party Management,Supply Chain/Vendor Management
+What criteria does your organization use to determine the inherent risk associated with a new or existing vendor?,Third-Party Management,Supply Chain/Vendor Management
+"Does your organization perform due diligence assessments of potential vendors before engaging them, including reviewing their security policies, procedures, and certifications (e.g., ISO 27001, SOC 2)?",Third-Party Management,Supply Chain/Vendor Management
+"How often are vendor risk assessments performed (e.g., annually, bi-annually)?",Third-Party Management,Supply Chain/Vendor Management
+Are vendor risk assessments tailored to the specific services provided and the data accessed by each vendor?,Third-Party Management,Supply Chain/Vendor Management
+"Does your organization require vendors to comply with specific security standards or frameworks, such as ISO 27001, NIST SP 800-53, or CIS Controls?",Third-Party Management,Supply Chain/Vendor Management
+"Do your vendor contracts include security requirements, such as data protection clauses, incident response obligations, and audit rights?",Third-Party Management,Supply Chain/Vendor Management
+Does your organization conduct regular audits of vendor security practices to ensure compliance with contractual obligations and security standards?,Third-Party Management,Supply Chain/Vendor Management
+"What mechanisms are in place to monitor vendor performance against agreed-upon service level agreements (SLAs), including security-related metrics?",Third-Party Management,Supply Chain/Vendor Management
+How does your organization manage the risk of data breaches or security incidents originating from third-party vendors?,Third-Party Management,Supply Chain/Vendor Management
+Does your incident response plan include procedures for notifying and coordinating with vendors in the event of a security incident?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a process for securely terminating contracts with vendors and retrieving or destroying sensitive data held by them?,Third-Party Management,Supply Chain/Vendor Management
+How are changes to a vendor's security posture or control environment communicated and assessed by your organization?,Third-Party Management,Supply Chain/Vendor Management
+"What controls are in place to manage access to your organization's systems and data by third-party vendors, including the principle of least privilege?",Third-Party Management,Supply Chain/Vendor Management
+Does your organization require vendors to implement multi-factor authentication (MFA) for accessing its systems and data?,Third-Party Management,Supply Chain/Vendor Management
+"How does your organization ensure that vendors adequately protect the confidentiality, integrity, and availability of your data?",Third-Party Management,Supply Chain/Vendor Management
+What data encryption methods are required for data at rest and in transit when handled by vendors?,Third-Party Management,Supply Chain/Vendor Management
+"How does your organization ensure that vendors comply with data privacy regulations, such as GDPR or CCPA?",Third-Party Management,Supply Chain/Vendor Management
+Does your organization require vendors to provide regular security awareness training to their employees who handle your data?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization manage the risks associated with subcontractors used by its vendors?,Third-Party Management,Supply Chain/Vendor Management
+What controls are in place to prevent unauthorized access to your systems and data by vendor employees or subcontractors?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization require vendors to have cyber liability insurance to cover potential losses resulting from security breaches?,Third-Party Management,Supply Chain/Vendor Management
+How are security vulnerabilities identified and remediated in vendor-supplied software or hardware?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization participate in threat intelligence sharing programs to stay informed about potential risks associated with vendors?,Third-Party Management,Supply Chain/Vendor Management
+Does your vendor management process include a formal review and approval process for new vendors?,Third-Party Management,Supply Chain/Vendor Management
+Are security considerations explicitly included in the evaluation criteria for selecting vendors?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a defined process for tracking and managing vendor security exceptions?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization ensure that vendor systems are regularly patched and updated to address known vulnerabilities?,Third-Party Management,Supply Chain/Vendor Management
+What controls are in place to prevent data leakage or exfiltration from vendor systems?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization require vendors to undergo penetration testing or vulnerability assessments?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization verify that vendors are implementing appropriate security controls based on their risk assessment results?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a designated individual or team responsible for overseeing vendor risk management?,Third-Party Management,Supply Chain/Vendor Management
+How is vendor risk management integrated into your overall enterprise risk management framework?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a formal communication plan for keeping stakeholders informed about vendor risks and security incidents?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization ensure that vendors are aware of and comply with all applicable legal and regulatory requirements?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a process for managing the security risks associated with open-source software used by vendors?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization monitor vendor compliance with its data retention and disposal policies?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization conduct background checks on vendor employees who have access to sensitive data or systems?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization manage the security risks associated with vendors located in different geographic regions or countries?,Third-Party Management,Supply Chain/Vendor Management
+What controls are in place to prevent vendors from using your data for unauthorized purposes?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization ensure that vendors have appropriate security controls in place to protect against ransomware attacks?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a business continuity plan that addresses potential disruptions to services provided by vendors?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization manage the security risks associated with vendors who provide cloud-based services?,Third-Party Management,Supply Chain/Vendor Management
+"Does your organization require vendors to comply with industry-specific regulations, such as HIPAA or PCI DSS?",Third-Party Management,Supply Chain/Vendor Management
+How does your organization ensure that vendors are using secure coding practices when developing software for your organization?,Third-Party Management,Supply Chain/Vendor Management
+What controls are in place to prevent vendors from introducing malware or other malicious code into your systems?,Third-Party Management,Supply Chain/Vendor Management
+How does your organization manage the security risks associated with vendors who have access to your physical facilities?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a process for verifying the identity and authorization of vendor personnel before granting them access to your systems or facilities?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a feedback mechanism for vendors to report potential security vulnerabilities or incidents?,Third-Party Management,Supply Chain/Vendor Management
+Does your organization have a documented escalation process for addressing vendor security issues that are not resolved in a timely manner?,Third-Party Management,Supply Chain/Vendor Management
+"Does your organization have a formal, documented vendor risk management program that includes a vendor assessment process?",Third-Party Management,Vendor Assessment
+Does your organization conduct due diligence on potential vendors prior to engaging their services?,Third-Party Management,Vendor Assessment
+"What type of information security expertise/certification do you have? (e.g. ISO 27001 Lead Auditor, CISSP, etc.)",Third-Party Management,Vendor Assessment
+"How often do you conduct security risk assessments of your vendors, and what methodology do you use?",Third-Party Management,Vendor Assessment
+"Does your organization require vendors to undergo independent security audits (e.g., SOC 2, ISO 27001) and provide the results?",Third-Party Management,Vendor Assessment
+"What is your organization's process for reviewing and approving vendor security documentation (e.g., policies, procedures, security architecture diagrams)?",Third-Party Management,Vendor Assessment
+"Does your vendor assessment process include evaluating the vendor's compliance with relevant legal and regulatory requirements (e.g., GDPR, CCPA, HIPAA)?",Third-Party Management,Vendor Assessment
+How does your organization assess the data security practices of vendors who handle sensitive data?,Third-Party Management,Vendor Assessment
+Do you verify that your vendors adhere to the principle of least privilege when accessing your systems and data?,Third-Party Management,Vendor Assessment
+What security controls are in place to protect our data at rest and in transit while it is being processed or stored by your organization?,Third-Party Management,Vendor Assessment
+Does your vendor assessment include a review of the vendor's incident response plan and capabilities?,Third-Party Management,Vendor Assessment
+How does your organization assess the physical security controls of vendors who have physical access to our facilities or equipment?,Third-Party Management,Vendor Assessment
+Does your organization require vendors to have cybersecurity insurance coverage?,Third-Party Management,Vendor Assessment
+What is your organization's process for managing and terminating vendor access to our systems and data when the relationship ends?,Third-Party Management,Vendor Assessment
+Does your organization monitor vendor performance against agreed-upon security service level agreements (SLAs)?,Third-Party Management,Vendor Assessment
+Do you have a process for escalating security incidents to your clients?,Third-Party Management,Vendor Assessment
+What kind of cybersecurity training do your employees take (how often)?,Third-Party Management,Vendor Assessment
+How does your organization track and manage vulnerabilities identified in vendor systems and applications?,Third-Party Management,Vendor Assessment
+Does your organization conduct penetration testing of vendor systems and applications?,Third-Party Management,Vendor Assessment
+Do you use MFA to access client assets?,Third-Party Management,Vendor Assessment
+What is your organization's process for managing and controlling changes to vendor systems and configurations?,Third-Party Management,Vendor Assessment
+"Do you have a method to discover unknown assets? (e.g., rouge servers or systems)",Third-Party Management,Vendor Assessment
+Does your vendor assessment process include evaluating the vendor's business continuity and disaster recovery plans?,Third-Party Management,Vendor Assessment
+How does your organization ensure that vendors comply with your organization's security policies and standards?,Third-Party Management,Vendor Assessment
+Does your organization have a process for reviewing and updating vendor security assessments periodically?,Third-Party Management,Vendor Assessment
+What mechanisms does your organization use to ensure that vendors protect our intellectual property?,Third-Party Management,Vendor Assessment
+Can you provide evidence of your organization's security awareness training program for employees?,Third-Party Management,Vendor Assessment
+How does your vendor contract address liability in the event of a security breach or data loss?,Third-Party Management,Vendor Assessment
+Does your organization require vendors to notify you of any security breaches or incidents that may affect your data?,Third-Party Management,Vendor Assessment
+What is your organization's process for verifying that vendors have implemented security controls effectively?,Third-Party Management,Vendor Assessment
+Can you provide a copy of your organization's information security policy?,Third-Party Management,Vendor Assessment
+"Is there a formal process to validate inputs that validate the information, and is this process periodically tested?",Third-Party Management,Vendor Assessment
+Does your vendor assessment include evaluating the vendor's supply chain security practices?,Third-Party Management,Vendor Assessment
+What steps does your organization take to ensure that its own vendors (subcontractors) meet your security requirements?,Third-Party Management,Vendor Assessment
+"Can you share your latest independent security audit report (e.g., SOC 2, ISO 27001)?",Third-Party Management,Vendor Assessment
+How does your organization handle data encryption both in transit and at rest?,Third-Party Management,Vendor Assessment
+What is your organization's data retention and disposal policy?,Third-Party Management,Vendor Assessment
+What is your organization's approach to data segregation and access control?,Third-Party Management,Vendor Assessment
+Do you perform network security testing to validate your security measures?,Third-Party Management,Vendor Assessment
+Do you require annual attestation from your Acceptable Use Policy?,Third-Party Management,Vendor Assessment
+"Can you provide documentation of your vulnerability management program, including scanning frequency and remediation timelines?",Third-Party Management,Vendor Assessment
+Do you have a documented procedure for granting priviledge access to users?,Third-Party Management,Vendor Assessment
+Do you have controls to prevent malicious software from being downloaded by users?,Third-Party Management,Vendor Assessment
+Does your organization have a process for terminating vendor access to our systems and data when an employee leaves the vendor's organization?,Third-Party Management,Vendor Assessment
+Does your organization have a formal risk acceptance process for accepting security risks associated with vendors?,Third-Party Management,Vendor Assessment
+Are you running outdated operating systems or applications and what are the business justifications?,Third-Party Management,Vendor Assessment
+Does your organization have a process to monitor for Computer Emergency Response Team (CERT) notifications?,Third-Party Management,Vendor Assessment
+Are you able to provide an overall attestation of compliance to the critical security control set?,Third-Party Management,Vendor Assessment
+Can you provide evidence of security operations team or personnel to establish log monitoring and Incident Response (IR) triage if an event occurs?,Third-Party Management,Vendor Assessment
+Can your business conduct background checks on employees with access to organization's data or systems?,Third-Party Management,Vendor Assessment
+"Does your organization have a documented cloud security strategy aligned with business objectives and risk appetite, as recommended by ISO 27017?",Third-Party Management,Cloud Service Providers
+"Have you identified and documented the shared responsibility model for security between your organization and the cloud service provider (CSP), according to NIST SP 800-53?",Third-Party Management,Cloud Service Providers
+"What security certifications and attestations (e.g., ISO 27001, SOC 2, FedRAMP) does your organization maintain for its cloud services, demonstrating compliance with industry standards?",Third-Party Management,Cloud Service Providers
+"How does your organization ensure data residency and compliance with relevant data privacy regulations (e.g., GDPR, CCPA) when using cloud services?",Third-Party Management,Cloud Service Providers
+"Does your organization perform due diligence and risk assessments of cloud service providers prior to engagement, considering factors such as security posture, data protection practices, and incident response capabilities?",Third-Party Management,Cloud Service Providers
+"How does your organization manage and monitor cloud service provider access to your data and systems, implementing the principle of least privilege?",Third-Party Management,Cloud Service Providers
+"Does your organization enforce multi-factor authentication (MFA) for all users accessing cloud environments, as a CIS Control best practice?",Third-Party Management,Cloud Service Providers
+"How does your organization ensure the secure configuration of cloud resources and services, following industry best practices and hardening guidelines?",Third-Party Management,Cloud Service Providers
+"Does your organization implement encryption for data at rest and in transit within the cloud environment, protecting sensitive information from unauthorized access?",Third-Party Management,Cloud Service Providers
+"How does your organization manage cryptographic keys used for encryption in the cloud, ensuring proper key rotation, storage, and access controls?",Third-Party Management,Cloud Service Providers
+"Does your organization have a documented process for vulnerability management in the cloud, including regular scanning, patching, and remediation of identified weaknesses?",Third-Party Management,Cloud Service Providers
+"How does your organization monitor and log security events in the cloud environment, using a SIEM or other security monitoring tool to detect and respond to threats?",Third-Party Management,Cloud Service Providers
+"Does your organization have a cloud-specific incident response plan that outlines procedures for detecting, containing, and recovering from security incidents in the cloud?",Third-Party Management,Cloud Service Providers
+"How does your organization ensure the secure deletion and disposal of data stored in the cloud, adhering to data retention policies and compliance requirements?",Third-Party Management,Cloud Service Providers
+Does your organization conduct regular security audits and penetration testing of its cloud environment to identify and address security vulnerabilities?,Third-Party Management,Cloud Service Providers
+"How does your organization manage access control to cloud resources, using role-based access control (RBAC) and identity and access management (IAM) tools?",Third-Party Management,Cloud Service Providers
+"Does your organization implement network segmentation in the cloud environment to isolate sensitive workloads and limit the impact of potential breaches, as per NIST recommendations?",Third-Party Management,Cloud Service Providers
+"How does your organization protect against DDoS attacks and other network-based threats in the cloud, using web application firewalls (WAFs) and intrusion detection/prevention systems (IDS/IPS)?",Third-Party Management,Cloud Service Providers
+"Does your organization have a documented process for managing changes to cloud configurations and services, ensuring that security controls are maintained?",Third-Party Management,Cloud Service Providers
+"How does your organization ensure the security of containerized workloads and Kubernetes environments in the cloud, implementing appropriate security policies and controls?",Third-Party Management,Cloud Service Providers
+Does your organization have a cloud-specific data backup and recovery plan to ensure business continuity in the event of a disaster or service outage?,Third-Party Management,Cloud Service Providers
+"How does your organization monitor the performance and availability of cloud services, identifying and addressing potential issues that could impact security?",Third-Party Management,Cloud Service Providers
+"Does your organization have a cloud security awareness training program for employees, educating them about cloud security risks and best practices?",Third-Party Management,Cloud Service Providers
+"How does your organization manage the security of mobile devices accessing cloud services, implementing MDM and other security controls?",Third-Party Management,Cloud Service Providers
+"Does your organization have a documented process for onboarding and offboarding cloud service users, ensuring that access is properly provisioned and revoked?",Third-Party Management,Cloud Service Providers
+Does your organization's cloud service provider offer adequate visibility and control over the security of the underlying infrastructure and services?,Third-Party Management,Cloud Service Providers
+"How does your organization ensure compliance with industry-specific regulations (e.g., HIPAA, PCI DSS) when using cloud services to store and process sensitive data?",Third-Party Management,Cloud Service Providers
+"Does your organization have a documented process for selecting and evaluating cloud service providers, considering their security posture and compliance certifications?",Third-Party Management,Cloud Service Providers
+How does your organization manage the security of third-party applications and integrations used within the cloud environment?,Third-Party Management,Cloud Service Providers
+Does your organization have a documented process for monitoring and auditing the activities of privileged users in the cloud environment?,Third-Party Management,Cloud Service Providers
+What controls are in place to prevent data exfiltration from the cloud environment?,Third-Party Management,Cloud Service Providers
+How does your organization manage the risks associated with shadow IT and unauthorized cloud service usage?,Third-Party Management,Cloud Service Providers
+Does your organization have a cloud security architecture that defines security requirements and controls for different cloud services and deployments?,Third-Party Management,Cloud Service Providers
+"How does your organization ensure the security of data stored in cloud storage services (e.g., AWS S3, Azure Blob Storage, Google Cloud Storage)?",Third-Party Management,Cloud Service Providers
+Does your organization have a documented process for responding to data breaches and security incidents in the cloud?,Third-Party Management,Cloud Service Providers
+How does your organization manage the security of APIs used to access cloud services?,Third-Party Management,Cloud Service Providers
+"Does your organization have a cloud security governance framework that defines roles, responsibilities, and policies for cloud security management?",Third-Party Management,Cloud Service Providers
+How does your organization ensure the security of cloud-based virtual desktops and applications?,Third-Party Management,Cloud Service Providers
+Does your organization have a documented process for managing the security of serverless computing environments in the cloud?,Third-Party Management,Cloud Service Providers
+How does your organization protect against insider threats in the cloud environment?,Third-Party Management,Cloud Service Providers
+Does your organization perform regular security assessments of its cloud service provider's security controls?,Third-Party Management,Cloud Service Providers
+How does your organization manage the security of data in transit between on-premises systems and the cloud?,Third-Party Management,Cloud Service Providers
+Does your organization have a documented process for managing the security of cloud-based databases?,Third-Party Management,Cloud Service Providers
+How does your organization ensure the security of data processed by cloud-based machine learning and artificial intelligence services?,Third-Party Management,Cloud Service Providers
+Does your organization have a documented process for managing the security of cloud-based identity and access management (IAM) systems?,Third-Party Management,Cloud Service Providers
+How does your organization protect against malware and other endpoint threats in the cloud environment?,Third-Party Management,Cloud Service Providers
+Does your organization have a cloud-specific security incident simulation program to test incident response capabilities?,Third-Party Management,Cloud Service Providers
+How does your organization ensure the security of cloud-based DevOps pipelines and CI/CD processes?,Third-Party Management,Cloud Service Providers
+Does your organization have a documented process for managing the security of cloud-based IoT devices and applications?,Third-Party Management,Cloud Service Providers
+How does your organization ensure the security of data shared with third parties through cloud services?,Third-Party Management,Cloud Service Providers
+"Does the hosting provider possess relevant certifications (e.g., ISO 27001, SOC 2) demonstrating adherence to security standards?",Third-Party Management,Hosting Security
+"What security standards and frameworks does your hosting provider comply with (e.g., NIST 800-53, PCI DSS)? Please provide evidence of compliance.",Third-Party Management,Hosting Security
+"How does the hosting provider ensure physical security of the data center facilities (e.g., access control, surveillance, environmental controls)?",Third-Party Management,Hosting Security
+"Describe the hosting provider's vulnerability management program, including scanning frequency, remediation SLAs, and reporting mechanisms.",Third-Party Management,Hosting Security
+Does the hosting provider conduct regular penetration testing of their infrastructure and applications?,Third-Party Management,Hosting Security
+"What is the hosting provider's incident response plan, and how does it align with your organization's incident response procedures?",Third-Party Management,Hosting Security
+How does the hosting provider handle data breaches or security incidents impacting your hosted environment?,Third-Party Management,Hosting Security
+"Does the hosting provider offer data encryption at rest and in transit, and what encryption algorithms are used?",Third-Party Management,Hosting Security
+What key management practices does the hosting provider employ for encryption keys?,Third-Party Management,Hosting Security
+"How does the hosting provider ensure segregation of your data from other customers' data (e.g., logical separation, virtualization security)?",Third-Party Management,Hosting Security
+"Describe the hosting provider's access control policies and procedures, including authentication and authorization mechanisms.",Third-Party Management,Hosting Security
+Does the hosting provider enforce multi-factor authentication for administrative access to the hosted environment?,Third-Party Management,Hosting Security
+How are privileged access rights managed and monitored within the hosting environment?,Third-Party Management,Hosting Security
+What logging and monitoring capabilities are provided by the hosting provider for security events and anomalies?,Third-Party Management,Hosting Security
+How is log data protected and retained by the hosting provider?,Third-Party Management,Hosting Security
+What security information and event management (SIEM) capabilities does the hosting provider offer?,Third-Party Management,Hosting Security
+"Describe the hosting provider's patch management process for operating systems, applications, and firmware.",Third-Party Management,Hosting Security
+How does the hosting provider ensure the integrity and availability of your hosted systems and data?,Third-Party Management,Hosting Security
+What backup and recovery procedures are in place to protect against data loss or system failures?,Third-Party Management,Hosting Security
+"Does the hosting provider offer disaster recovery capabilities, and what are the recovery time objectives (RTOs) and recovery point objectives (RPOs)?",Third-Party Management,Hosting Security
+How frequently are disaster recovery exercises performed?,Third-Party Management,Hosting Security
+What are the hosting provider's change management procedures for infrastructure and application changes?,Third-Party Management,Hosting Security
+How does the hosting provider handle vendor security risks associated with their own suppliers and subcontractors?,Third-Party Management,Hosting Security
+Does the hosting provider conduct background checks on their employees with access to your data?,Third-Party Management,Hosting Security
+What data residency and data sovereignty requirements does the hosting provider support?,Third-Party Management,Hosting Security
+What is the process for requesting and implementing security controls or changes within the hosted environment?,Third-Party Management,Hosting Security
+"How does the hosting provider support your organization's compliance with relevant regulations (e.g., GDPR, HIPAA)?",Third-Party Management,Hosting Security
+Does the hosting provider provide a right to audit their security practices and controls?,Third-Party Management,Hosting Security
+"What is the hosting provider's process for notifying you of security incidents, vulnerabilities, or other security-related events?",Third-Party Management,Hosting Security
+How does the hosting provider ensure business continuity in the event of a disruption to their services?,Third-Party Management,Hosting Security
+"What service level agreements (SLAs) are in place for security-related services, such as incident response and vulnerability remediation?",Third-Party Management,Hosting Security
+What contractual clauses are in place regarding data security and privacy?,Third-Party Management,Hosting Security
+How does the hosting provider address the security of virtualized environments?,Third-Party Management,Hosting Security
+Does the hosting provider provide network segmentation options to isolate sensitive data?,Third-Party Management,Hosting Security
+What type of firewalls and intrusion detection/prevention systems (IDS/IPS) are used by the hosting provider?,Third-Party Management,Hosting Security
+How are web application firewalls (WAFs) configured and managed to protect hosted applications?,Third-Party Management,Hosting Security
+Does the hosting provider offer data loss prevention (DLP) capabilities to prevent sensitive data from leaving the environment?,Third-Party Management,Hosting Security
+How does the hosting provider handle the secure disposal of data and hardware at the end of their lifecycle?,Third-Party Management,Hosting Security
+What are the hosting provider's policies regarding remote access to the hosted environment?,Third-Party Management,Hosting Security
+Does the hosting provider provide security awareness training to their employees?,Third-Party Management,Hosting Security
+What is the process for escalating security concerns or incidents to the hosting provider?,Third-Party Management,Hosting Security
+How does the hosting provider manage and secure API access to their services?,Third-Party Management,Hosting Security
+Does the hosting provider offer a bug bounty program to encourage responsible disclosure of vulnerabilities?,Third-Party Management,Hosting Security
+What is the hosting provider's approach to supply chain risk management?,Third-Party Management,Hosting Security
+How does the hosting provider ensure the security of their development and deployment pipelines?,Third-Party Management,Hosting Security
+Does the hosting provider have a formal information security management system (ISMS) in place?,Third-Party Management,Hosting Security
+How does the hosting provider ensure the availability and integrity of security tools and systems?,Third-Party Management,Hosting Security
+Does the hosting provider use automated tools for security monitoring and incident detection?,Third-Party Management,Hosting Security
+How does the hosting provider validate the effectiveness of their security controls?,Third-Party Management,Hosting Security
+What is the frequency of independent security audits conducted on the hosting provider's environment?,Third-Party Management,Hosting Security
+How does the hosting provider handle compliance with data retention policies?,Third-Party Management,Hosting Security
+How does the hosting provider stay abreast of emerging threats and vulnerabilities?,Third-Party Management,Hosting Security

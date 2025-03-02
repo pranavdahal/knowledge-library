@@ -1,0 +1,201 @@
+question,category,subcategory
+Does the organization have a documented Secure Development Lifecycle (SDLC) that incorporates security considerations from the initial design phase?,Application Security,Application Design and Development
+"Are security requirements explicitly defined and documented for each application development project, referencing relevant standards like NIST SP 800-53 or ISO 27001?",Application Security,Application Design and Development
+Are threat modeling exercises conducted during the application design phase to identify potential security vulnerabilities and attack vectors?,Application Security,Application Design and Development
+"Is there a formal process for code review, including static and dynamic analysis, performed by individuals with security expertise?",Application Security,Application Design and Development
+"Are secure coding guidelines, based on industry best practices (e.g., OWASP), provided to developers and enforced during the development process?",Application Security,Application Design and Development
+"Does the application design incorporate the principle of least privilege, ensuring users only have access to the resources and data necessary for their roles?",Application Security,Application Design and Development
+"Are input validation techniques implemented to prevent injection attacks such as SQL injection, cross-site scripting (XSS), and command injection?",Application Security,Application Design and Development
+Is proper output encoding applied to prevent XSS vulnerabilities when displaying data to users?,Application Security,Application Design and Development
+"Are authentication and authorization mechanisms designed and implemented securely, incorporating multi-factor authentication (MFA) where appropriate?",Application Security,Application Design and Development
+Does the application design include robust error handling and logging mechanisms to facilitate incident detection and response?,Application Security,Application Design and Development
+"Is sensitive data (e.g., passwords, credit card information) encrypted both in transit and at rest, using strong encryption algorithms and key management practices?",Application Security,Application Design and Development
+Are session management techniques implemented to prevent session hijacking and other session-related attacks?,Application Security,Application Design and Development
+"Does the application architecture include defense-in-depth principles, such as network segmentation and firewalls, to limit the impact of potential security breaches?",Application Security,Application Design and Development
+Are secure APIs used for communication between application components and external systems?,Application Security,Application Design and Development
+Is access to application resources and data logged and monitored for suspicious activity?,Application Security,Application Design and Development
+Are regular penetration tests and vulnerability assessments performed to identify security weaknesses in the application?,Application Security,Application Design and Development
+"Does the development team follow a secure configuration management process, including version control and change management procedures?",Application Security,Application Design and Development
+Are third-party libraries and components used in the application assessed for security vulnerabilities before integration?,Application Security,Application Design and Development
+"Is the application designed to comply with relevant regulatory requirements, such as GDPR or HIPAA?",Application Security,Application Design and Development
+Are security considerations incorporated into the application's disaster recovery and business continuity plans?,Application Security,Application Design and Development
+Does the organization utilize a security champion program within the development team to promote secure coding practices and awareness?,Application Security,Application Design and Development
+Is there a process for developers to report security vulnerabilities they discover during the development process?,Application Security,Application Design and Development
+Are developers trained on secure coding practices and common security vulnerabilities?,Application Security,Application Design and Development
+Is there a mechanism in place to automatically detect and alert on deviations from secure coding standards?,Application Security,Application Design and Development
+Does the application design include mechanisms to prevent denial-of-service (DoS) attacks?,Application Security,Application Design and Development
+Are rate limiting and other controls implemented to prevent abuse of application APIs?,Application Security,Application Design and Development
+Is the application designed to prevent brute-force attacks on authentication mechanisms?,Application Security,Application Design and Development
+Does the application handle Personally Identifiable Information (PII) in accordance with privacy regulations and organizational policies?,Application Security,Application Design and Development
+Are data retention policies implemented to ensure that sensitive data is not stored longer than necessary?,Application Security,Application Design and Development
+Does the application design support secure auditing and logging to facilitate forensic investigations?,Application Security,Application Design and Development
+Are there automated security tests integrated into the continuous integration/continuous deployment (CI/CD) pipeline?,Application Security,Application Design and Development
+Is the application designed to be resistant to social engineering attacks?,Application Security,Application Design and Development
+Does the application utilize secure communication protocols such as HTTPS for all sensitive data transmissions?,Application Security,Application Design and Development
+Are secure cookies used to prevent session hijacking and other cookie-related attacks?,Application Security,Application Design and Development
+Does the application implement measures to prevent clickjacking attacks?,Application Security,Application Design and Development
+"Is the application designed to be resilient to common web application vulnerabilities, such as cross-site request forgery (CSRF)?",Application Security,Application Design and Development
+Are secure file upload mechanisms implemented to prevent malicious file uploads?,Application Security,Application Design and Development
+Does the application design address potential vulnerabilities in its dependencies?,Application Security,Application Design and Development
+Are security considerations included in the application's user interface (UI) design?,Application Security,Application Design and Development
+Is the application designed to prevent information leakage through error messages or other channels?,Application Security,Application Design and Development
+Does the development team use a secure code repository to store and manage the application's source code?,Application Security,Application Design and Development
+Are access controls implemented to restrict access to the application's source code and build artifacts?,Application Security,Application Design and Development
+Is the application designed to be easily updated and patched in response to security vulnerabilities?,Application Security,Application Design and Development
+Does the organization have a formal vulnerability disclosure policy to handle reports of security vulnerabilities in the application?,Application Security,Application Design and Development
+Are security metrics tracked and reported to management to monitor the application's security posture?,Application Security,Application Design and Development
+Does the application integrate with the organization's security information and event management (SIEM) system?,Application Security,Application Design and Development
+Is the application designed to be easily integrated with other security tools and technologies?,Application Security,Application Design and Development
+Are security considerations documented in the application's architecture and design documentation?,Application Security,Application Design and Development
+Does the organization conduct regular security audits of the application to ensure compliance with security standards and policies?,Application Security,Application Design and Development
+"Is the application designed to be deployed in a secure environment, such as a hardened server or container?",Application Security,Application Design and Development
+Does the organization have an established and documented Secure Development Lifecycle (SDLC) policy?,Application Security,Software Development Life Cycle
+"Does the SDLC incorporate security requirements throughout all phases of development, from planning to deployment?",Application Security,Software Development Life Cycle
+Are security requirements explicitly defined and documented for each software project within the SDLC?,Application Security,Software Development Life Cycle
+Is a designated security champion or team responsible for overseeing and enforcing security practices within the SDLC?,Application Security,Software Development Life Cycle
+Are threat modeling exercises conducted as part of the SDLC to identify potential security vulnerabilities early in the development process?,Application Security,Software Development Life Cycle
+"Are secure coding standards (e.g., OWASP guidelines, CERT coding standards) adopted and enforced throughout the software development process?",Application Security,Software Development Life Cycle
+Are developers trained on secure coding practices and common security vulnerabilities relevant to the technologies they use?,Application Security,Software Development Life Cycle
+Does the SDLC include a process for regularly reviewing and updating security requirements and coding standards based on emerging threats and vulnerabilities?,Application Security,Software Development Life Cycle
+Is static code analysis performed to automatically identify potential security flaws in the source code?,Application Security,Software Development Life Cycle
+Is dynamic application security testing (DAST) conducted to identify vulnerabilities in running applications?,Application Security,Software Development Life Cycle
+Are both static and dynamic analysis tools integrated into the continuous integration/continuous delivery (CI/CD) pipeline?,Application Security,Software Development Life Cycle
+Does the SDLC include penetration testing by qualified security professionals to identify exploitable vulnerabilities?,Application Security,Software Development Life Cycle
+"Are the results of security testing (static analysis, DAST, penetration testing) documented and tracked?",Application Security,Software Development Life Cycle
+Is there a defined process for prioritizing and remediating identified security vulnerabilities based on risk?,Application Security,Software Development Life Cycle
+Is verification testing performed after remediation to ensure that vulnerabilities have been effectively addressed?,Application Security,Software Development Life Cycle
+Does the SDLC include a process for managing third-party components and dependencies to ensure they are secure and up-to-date?,Application Security,Software Development Life Cycle
+Is a software bill of materials (SBOM) generated and maintained for each application to track all dependencies?,Application Security,Software Development Life Cycle
+Are third-party libraries and components regularly scanned for known vulnerabilities?,Application Security,Software Development Life Cycle
+Does the organization have a vulnerability disclosure policy that outlines how security vulnerabilities in its software should be reported?,Application Security,Software Development Life Cycle
+Is there a process for responding to and remediating reported security vulnerabilities in a timely manner?,Application Security,Software Development Life Cycle
+Are code reviews performed by peers or security experts to identify potential security flaws?,Application Security,Software Development Life Cycle
+Are code review checklists used to ensure that common security vulnerabilities are addressed during code reviews?,Application Security,Software Development Life Cycle
+Is access to source code repositories and build environments restricted based on the principle of least privilege?,Application Security,Software Development Life Cycle
+Are code repositories and build environments protected with multi-factor authentication?,Application Security,Software Development Life Cycle
+Is there a process for securely managing and storing cryptographic keys and secrets used by applications?,Application Security,Software Development Life Cycle
+Are cryptographic keys rotated regularly and stored in a secure hardware security module (HSM) or key management system?,Application Security,Software Development Life Cycle
+Is input validation performed on all user-supplied data to prevent injection attacks?,Application Security,Software Development Life Cycle
+Is output encoding performed to prevent cross-site scripting (XSS) attacks?,Application Security,Software Development Life Cycle
+Are authentication and authorization mechanisms implemented securely to prevent unauthorized access to sensitive data and functionality?,Application Security,Software Development Life Cycle
+Are session management controls in place to prevent session hijacking and other session-related attacks?,Application Security,Software Development Life Cycle
+Are error messages designed to avoid disclosing sensitive information that could be used by attackers?,Application Security,Software Development Life Cycle
+Are logging and monitoring mechanisms implemented to detect and respond to security incidents?,Application Security,Software Development Life Cycle
+Are security logs regularly reviewed for suspicious activity?,Application Security,Software Development Life Cycle
+Is incident response planning integrated into the SDLC to ensure that security incidents can be effectively addressed?,Application Security,Software Development Life Cycle
+Is there a process for performing security regression testing after code changes or updates?,Application Security,Software Development Life Cycle
+Are secure configuration management practices used to ensure that systems are configured securely?,Application Security,Software Development Life Cycle
+"Are systems hardened according to industry best practices and security benchmarks (e.g., CIS benchmarks)?",Application Security,Software Development Life Cycle
+Is change management performed to ensure that changes to systems and applications are properly reviewed and approved?,Application Security,Software Development Life Cycle
+Are regular backups performed to protect against data loss?,Application Security,Software Development Life Cycle
+Are backups stored securely and tested regularly to ensure they can be restored successfully?,Application Security,Software Development Life Cycle
+Is disaster recovery planning integrated into the SDLC to ensure that systems can be recovered in the event of a disaster?,Application Security,Software Development Life Cycle
+Are disaster recovery plans tested regularly to ensure their effectiveness?,Application Security,Software Development Life Cycle
+Does the SDLC include a process for securely decommissioning systems and applications at the end of their lifecycle?,Application Security,Software Development Life Cycle
+Is data securely wiped or destroyed from decommissioned systems and storage media?,Application Security,Software Development Life Cycle
+"Are compliance requirements (e.g., PCI DSS, HIPAA, GDPR) considered throughout the SDLC?",Application Security,Software Development Life Cycle
+Is evidence of compliance with security requirements and SDLC processes maintained?,Application Security,Software Development Life Cycle
+Are security metrics tracked and reported to management to monitor the effectiveness of security practices within the SDLC?,Application Security,Software Development Life Cycle
+Is there a process for continuously improving the SDLC based on lessons learned and feedback from security incidents and audits?,Application Security,Software Development Life Cycle
+Are version control systems used for managing source code and configuration files?,Application Security,Software Development Life Cycle
+Are branching strategies employed to isolate development efforts and reduce the risk of introducing security vulnerabilities?,Application Security,Software Development Life Cycle
+Does your organization have a documented API security policy?,Application Security,API Security
+Is there a defined process for authenticating and authorizing API requests?,Application Security,API Security
+Are API keys and secrets securely managed and rotated?,Application Security,API Security
+Do you enforce rate limiting on API endpoints to prevent abuse and denial-of-service attacks?,Application Security,API Security
+"Are API inputs validated to prevent injection attacks (e.g., SQL injection, command injection)?",Application Security,API Security
+Do you use a Web Application Firewall (WAF) to protect APIs against common web attacks?,Application Security,API Security
+Is data transmitted over APIs encrypted using TLS/SSL?,Application Security,API Security
+Do you log API requests and responses for auditing and security monitoring purposes?,Application Security,API Security
+Are API logs regularly reviewed for suspicious activity?,Application Security,API Security
+Do you conduct regular penetration testing on your APIs?,Application Security,API Security
+Are API vulnerabilities tracked and remediated in a timely manner?,Application Security,API Security
+Is there a defined process for managing API versions and deprecating older versions?,Application Security,API Security
+Do you have a system in place to monitor API availability and performance?,Application Security,API Security
+"Are APIs designed with the principle of least privilege in mind, granting only necessary access to data and resources?",Application Security,API Security
+Do you use OAuth 2.0 or other industry-standard protocols for API authorization?,Application Security,API Security
+Are API access tokens securely stored and managed?,Application Security,API Security
+Do you validate the origin of API requests to prevent cross-site request forgery (CSRF) attacks?,Application Security,API Security
+Are API endpoints protected against brute-force attacks?,Application Security,API Security
+Do you use Content Security Policy (CSP) to mitigate cross-site scripting (XSS) attacks in APIs?,Application Security,API Security
+Are API errors handled gracefully and do they avoid exposing sensitive information?,Application Security,API Security
+Do you perform static and dynamic code analysis on API code to identify security vulnerabilities?,Application Security,API Security
+Are your API dependencies regularly updated to address known vulnerabilities?,Application Security,API Security
+Do you have a bug bounty program to encourage external security researchers to report API vulnerabilities?,Application Security,API Security
+"Are your APIs compliant with relevant industry standards and regulations (e.g., PCI DSS, HIPAA)?",Application Security,API Security
+Do you have a documented incident response plan for API security breaches?,Application Security,API Security
+Are API security best practices incorporated into your secure software development lifecycle (SDLC)?,Application Security,API Security
+Do you provide security training for developers who work on APIs?,Application Security,API Security
+Do you use API gateways to manage and secure API traffic?,Application Security,API Security
+Are API authentication mechanisms regularly reviewed and updated to address evolving threats?,Application Security,API Security
+Do you monitor API performance and usage metrics to detect anomalies that may indicate a security issue?,Application Security,API Security
+Are API access controls regularly reviewed and updated to ensure they remain appropriate?,Application Security,API Security
+Does your organization use mutual TLS (mTLS) for enhanced API authentication?,Application Security,API Security
+"Are your API definitions (e.g., OpenAPI/Swagger) kept up-to-date and used to enforce security policies?",Application Security,API Security
+"Do you have a process for securely transmitting sensitive data (e.g., Personally Identifiable Information - PII) via APIs?",Application Security,API Security
+Do you use API versioning to manage changes and ensure backward compatibility?,Application Security,API Security
+Are APIs designed with consideration for data residency and data sovereignty requirements?,Application Security,API Security
+Do you have a mechanism for revoking API access tokens in case of compromise?,Application Security,API Security
+Are API security audits performed regularly by internal or external auditors?,Application Security,API Security
+Do you implement data masking or tokenization techniques to protect sensitive data exposed through APIs?,Application Security,API Security
+Are your API endpoints protected against XML External Entity (XXE) attacks?,Application Security,API Security
+Do you enforce strong password policies for API users?,Application Security,API Security
+Are API endpoints protected against Server-Side Request Forgery (SSRF) attacks?,Application Security,API Security
+Do you use JSON Web Tokens (JWT) for API authentication and authorization?,Application Security,API Security
+Are JWTs properly validated and verified?,Application Security,API Security
+Do you have a process for managing API access keys for third-party applications?,Application Security,API Security
+Are you using multi-factor authentication for administrative access to API management systems?,Application Security,API Security
+Does your API documentation include security considerations and best practices?,Application Security,API Security
+"Are your APIs protected against GraphQL injection attacks, if applicable?",Application Security,API Security
+Do you have a mechanism to detect and prevent bots from abusing your APIs?,Application Security,API Security
+Are the responses from your APIs properly sanitized to prevent information leakage?,Application Security,API Security
+"Does your organization have a documented policy that specifically addresses the security risks associated with the development, deployment, and use of Artificial Intelligence (AI) systems?",Application Security,Artificial Intelligence Security
+"Have you identified and documented potential security threats and vulnerabilities specific to your AI/ML models (e.g., adversarial attacks, data poisoning, model inversion)?",Application Security,Artificial Intelligence Security
+"Do you conduct regular security risk assessments for AI/ML systems, considering factors such as data sensitivity, model complexity, and deployment environment?",Application Security,Artificial Intelligence Security
+"Are there established procedures for securely acquiring, storing, and processing data used to train AI/ML models, in accordance with relevant data governance and privacy policies (e.g., GDPR, CCPA)?",Application Security,Artificial Intelligence Security
+"Do you have controls in place to prevent unauthorized access, modification, or disclosure of data used for training AI models?",Application Security,Artificial Intelligence Security
+"Are AI/ML model training datasets regularly scanned for malware, vulnerabilities, and other security threats?",Application Security,Artificial Intelligence Security
+Is there a process to ensure the integrity and provenance of training data used for AI models?,Application Security,Artificial Intelligence Security
+Do you employ techniques such as differential privacy or federated learning to protect the privacy of data used in AI/ML training?,Application Security,Artificial Intelligence Security
+Are AI/ML models regularly tested for bias and fairness to prevent discriminatory outcomes and potential security vulnerabilities?,Application Security,Artificial Intelligence Security
+Does your organization use threat modeling to identify potential attack vectors against AI/ML systems?,Application Security,Artificial Intelligence Security
+Have you implemented security measures to protect against adversarial attacks that could manipulate AI/ML model behavior?,Application Security,Artificial Intelligence Security
+Do you have controls in place to detect and respond to anomalies in AI/ML model performance that could indicate a security compromise?,Application Security,Artificial Intelligence Security
+Are AI/ML models monitored for signs of data poisoning attacks?,Application Security,Artificial Intelligence Security
+Do you have a documented process for validating the integrity and security of AI/ML models before deployment?,Application Security,Artificial Intelligence Security
+Are AI/ML models deployed in secure environments with appropriate access controls and security configurations?,Application Security,Artificial Intelligence Security
+Are AI/ML systems regularly patched and updated to address known vulnerabilities?,Application Security,Artificial Intelligence Security
+Do you log and monitor security-relevant events related to AI/ML systems?,Application Security,Artificial Intelligence Security
+Do you have an incident response plan that specifically addresses security incidents involving AI/ML systems?,Application Security,Artificial Intelligence Security
+Is there a defined process for securely decommissioning or disposing of AI/ML models and associated data?,Application Security,Artificial Intelligence Security
+Are employees and developers trained on security best practices for AI/ML development and deployment?,Application Security,Artificial Intelligence Security
+Do you conduct code reviews of AI/ML model code to identify potential security vulnerabilities?,Application Security,Artificial Intelligence Security
+Are you using automated tools to scan AI/ML model code for common security flaws?,Application Security,Artificial Intelligence Security
+Have you implemented controls to ensure the secure communication between AI/ML models and other systems or applications?,Application Security,Artificial Intelligence Security
+Do you have a mechanism to audit the activities of AI/ML models to ensure compliance with security policies?,Application Security,Artificial Intelligence Security
+Are AI/ML model outputs validated to prevent the dissemination of inaccurate or malicious information?,Application Security,Artificial Intelligence Security
+Do you have a process for managing and securing the keys and certificates used by AI/ML systems?,Application Security,Artificial Intelligence Security
+Do you utilize intrusion detection and prevention systems (IDS/IPS) to monitor network traffic to and from AI/ML systems?,Application Security,Artificial Intelligence Security
+Have you implemented controls to prevent unauthorized access to AI/ML model APIs?,Application Security,Artificial Intelligence Security
+Do you have a policy addressing the ethical considerations and potential security implications of using AI/ML in specific applications?,Application Security,Artificial Intelligence Security
+"Are you using AI/ML to enhance your overall security posture, such as threat detection or vulnerability management?",Application Security,Artificial Intelligence Security
+How does your organization manage the risk of AI/ML-driven automation leading to unintended security consequences?,Application Security,Artificial Intelligence Security
+Do you have a process for assessing the impact of AI/ML system failures on business operations and security?,Application Security,Artificial Intelligence Security
+"Are you considering the potential for AI/ML systems to be used for malicious purposes (e.g., deepfakes, automated attacks)?",Application Security,Artificial Intelligence Security
+Do you have controls to prevent AI/ML systems from being used to generate or disseminate disinformation?,Application Security,Artificial Intelligence Security
+Are you involved in any AI/ML security research or information sharing initiatives?,Application Security,Artificial Intelligence Security
+Does your organization participate in industry-specific AI/ML security working groups?,Application Security,Artificial Intelligence Security
+Have you documented the roles and responsibilities related to AI/ML security within your organization?,Application Security,Artificial Intelligence Security
+Do you have a formal process for documenting AI/ML system architecture and data flows?,Application Security,Artificial Intelligence Security
+Are you using encryption to protect sensitive data used by AI/ML systems?,Application Security,Artificial Intelligence Security
+Have you implemented strong authentication mechanisms for accessing AI/ML systems and data?,Application Security,Artificial Intelligence Security
+Do you have a data loss prevention (DLP) strategy in place to protect sensitive data used by AI/ML systems?,Application Security,Artificial Intelligence Security
+Are you monitoring AI/ML systems for signs of unauthorized data exfiltration?,Application Security,Artificial Intelligence Security
+Do you have a process for securely storing and managing AI/ML model versions?,Application Security,Artificial Intelligence Security
+Are you using a secure code repository for managing AI/ML model code?,Application Security,Artificial Intelligence Security
+Have you implemented a change management process for AI/ML model deployments?,Application Security,Artificial Intelligence Security
+Are you conducting penetration testing of AI/ML systems to identify exploitable vulnerabilities?,Application Security,Artificial Intelligence Security
+Do you have a process for reporting and tracking AI/ML security vulnerabilities?,Application Security,Artificial Intelligence Security
+Are you using a vulnerability management system to track and remediate AI/ML security vulnerabilities?,Application Security,Artificial Intelligence Security
+Do you have a process for regularly reviewing and updating your AI/ML security policies and procedures?,Application Security,Artificial Intelligence Security
+How does your AI/ML security program align with your overall information security management system (ISMS) based on standards like ISO 27001?,Application Security,Artificial Intelligence Security

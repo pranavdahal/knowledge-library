@@ -1,0 +1,202 @@
+question,category,subcategory
+"Does your organization have a documented policy for secure system integration, addressing data handling, authentication, and authorization between integrated systems (ISO 27001 A.8.10)?",System Integration and Interoperability,Integration Security
+Are security requirements explicitly defined and documented as part of the system integration planning process (NIST SP 800-53 SA-4)?,System Integration and Interoperability,Integration Security
+How does your organization ensure that security configurations are consistent across all integrated systems (CIS Control 5)?,System Integration and Interoperability,Integration Security
+Is there a process in place for regularly reviewing and updating security configurations of integrated systems to address new vulnerabilities (NIST SP 800-53 RA-5)?,System Integration and Interoperability,Integration Security
+"Does your organization conduct security testing of integrated systems, including vulnerability assessments and penetration testing, before deployment (NIST SP 800-53 SA-11)?",System Integration and Interoperability,Integration Security
+"How does your organization manage access controls for integrated systems, including user authentication, authorization, and role-based access control (ISO 27001 A.9.2)?",System Integration and Interoperability,Integration Security
+"Are there specific procedures for handling sensitive data during system integration, including data encryption, masking, or tokenization (NIST SP 800-53 MP-7)?",System Integration and Interoperability,Integration Security
+"How does your organization ensure data integrity during system integration, including data validation and error handling (ISO 27001 A.8.13)?",System Integration and Interoperability,Integration Security
+Is there a documented process for managing and monitoring API access points used in system integrations (CIS Control 14)?,System Integration and Interoperability,Integration Security
+"How does your organization handle logging and auditing for integrated systems, including security events and access attempts (NIST SP 800-53 AU-2)?",System Integration and Interoperability,Integration Security
+Does your organization have an incident response plan that addresses security incidents involving integrated systems (ISO 27001 A.16.1)?,System Integration and Interoperability,Integration Security
+How does your organization ensure that all integrated systems are included in the organization's vulnerability management program (CIS Control 3)?,System Integration and Interoperability,Integration Security
+Are security patches and updates applied promptly to all integrated systems (NIST SP 800-53 SI-2)?,System Integration and Interoperability,Integration Security
+"How does your organization manage change control for integrated systems, including testing and approval processes (ISO 27001 A.12.1)?",System Integration and Interoperability,Integration Security
+"Are there specific security considerations addressed during the decommissioning of integrated systems, including data sanitization and access revocation (NIST SP 800-53 CM-6)?",System Integration and Interoperability,Integration Security
+How does your organization ensure that third-party vendors involved in system integration adhere to the organization's security policies (ISO 27001 A.15.1)?,System Integration and Interoperability,Integration Security
+Are there security requirements included in contracts with third-party vendors involved in system integration (NIST SP 800-53 CA-3)?,System Integration and Interoperability,Integration Security
+Does your organization perform security audits of third-party vendors involved in system integration (CIS Control 17)?,System Integration and Interoperability,Integration Security
+How does your organization ensure that data exchanged between integrated systems is protected in transit using encryption protocols (ISO 27001 A.10.1)?,System Integration and Interoperability,Integration Security
+Are there mechanisms in place to prevent data leakage during system integration (NIST SP 800-53 MP-4)?,System Integration and Interoperability,Integration Security
+"How does your organization manage session management for integrated systems, including session timeouts and authentication refresh (CIS Control 16)?",System Integration and Interoperability,Integration Security
+Are there measures in place to prevent cross-site scripting (XSS) and other common web application vulnerabilities in integrated systems (NIST SP 800-53 SA-10)?,System Integration and Interoperability,Integration Security
+How does your organization handle input validation for data exchanged between integrated systems to prevent injection attacks (ISO 27001 A.14.2)?,System Integration and Interoperability,Integration Security
+Are there mechanisms in place to prevent denial-of-service (DoS) attacks on integrated systems (NIST SP 800-53 CP-9)?,System Integration and Interoperability,Integration Security
+How does your organization manage access to sensitive configuration files for integrated systems (CIS Control 5)?,System Integration and Interoperability,Integration Security
+Are there regular reviews of user access privileges to integrated systems to ensure least privilege principles are followed (ISO 27001 A.9.2.2)?,System Integration and Interoperability,Integration Security
+How does your organization ensure that all integrated systems are included in the organization's business continuity and disaster recovery plans (NIST SP 800-53 CP-2)?,System Integration and Interoperability,Integration Security
+Are there regular backups performed for all integrated systems (CIS Control 10)?,System Integration and Interoperability,Integration Security
+How does your organization test the recoverability of integrated systems from backups (NIST SP 800-53 CP-4)?,System Integration and Interoperability,Integration Security
+Are there procedures in place to securely store and manage encryption keys used for integrated systems (ISO 27001 A.10.1)?,System Integration and Interoperability,Integration Security
+How does your organization manage digital certificates used for authentication and encryption in integrated systems (NIST SP 800-53 IA-5)?,System Integration and Interoperability,Integration Security
+Are there regular security awareness training programs for employees involved in system integration (ISO 27001 A.7.2)?,System Integration and Interoperability,Integration Security
+How does your organization ensure that security considerations are integrated into the system development life cycle (SDLC) for integrated systems (NIST SP 800-53 SDLC)?,System Integration and Interoperability,Integration Security
+Are there defined security roles and responsibilities for personnel involved in system integration (ISO 27001 A.6.1)?,System Integration and Interoperability,Integration Security
+How does your organization enforce password policies for user accounts on integrated systems (CIS Control 16)?,System Integration and Interoperability,Integration Security
+Are there multi-factor authentication (MFA) requirements for access to critical integrated systems (NIST SP 800-53 IA-2)?,System Integration and Interoperability,Integration Security
+How does your organization monitor network traffic to and from integrated systems for suspicious activity (CIS Control 7)?,System Integration and Interoperability,Integration Security
+Are there intrusion detection and prevention systems (IDS/IPS) in place to protect integrated systems (NIST SP 800-53 SI-4)?,System Integration and Interoperability,Integration Security
+How does your organization segment the network to isolate integrated systems from other systems (ISO 27001 A.13.1)?,System Integration and Interoperability,Integration Security
+Are there firewalls in place to control network traffic between integrated systems (CIS Control 4)?,System Integration and Interoperability,Integration Security
+How does your organization handle data residency requirements for integrated systems (NIST SP 800-53 MP-5)?,System Integration and Interoperability,Integration Security
+Are there data loss prevention (DLP) tools in place to prevent sensitive data from leaving integrated systems (ISO 27001 A.8.2)?,System Integration and Interoperability,Integration Security
+How does your organization ensure compliance with relevant regulations and standards for integrated systems (NIST SP 800-53 AC-1)?,System Integration and Interoperability,Integration Security
+Are there regular audits performed to assess the security of integrated systems (CIS Control 18)?,System Integration and Interoperability,Integration Security
+How does your organization track and manage vulnerabilities in integrated systems (ISO 27001 A.12.6)?,System Integration and Interoperability,Integration Security
+Are there service level agreements (SLAs) in place with third-party vendors involved in system integration that address security requirements (NIST SP 800-53 CA-9)?,System Integration and Interoperability,Integration Security
+How does your organization handle data mapping and transformation during system integration (ISO 27001 A.8.13)?,System Integration and Interoperability,Integration Security
+Are there defined data retention policies for data stored on integrated systems (NIST SP 800-53 AU-6)?,System Integration and Interoperability,Integration Security
+How does your organization handle data disposal for integrated systems (CIS Control 14)?,System Integration and Interoperability,Integration Security
+Are there secure coding practices followed for custom applications used in integrated systems (NIST SP 800-53 SA-11)?,System Integration and Interoperability,Integration Security
+Does the organization have a documented policy outlining standards for system interoperability and data portability?,System Integration and Interoperability,Interoperability and Portability
+"Does the organization use standardized data formats (e.g., XML, JSON) to facilitate interoperability between systems?",System Integration and Interoperability,Interoperability and Portability
+"Are there established procedures for ensuring data integrity during system integration and data exchange processes, aligning with ISO 27001 standards?",System Integration and Interoperability,Interoperability and Portability
+Is there a defined process for mapping data elements between systems to ensure accurate and consistent data transfer?,System Integration and Interoperability,Interoperability and Portability
+Does the organization utilize data dictionaries or metadata repositories to promote consistent data definitions across integrated systems?,System Integration and Interoperability,Interoperability and Portability
+"Are there mechanisms in place to ensure compliance with relevant data privacy regulations (e.g., GDPR, CCPA) when transferring data between systems?",System Integration and Interoperability,Interoperability and Portability
+"Does the organization conduct security risk assessments specifically related to system integration and interoperability, as recommended by NIST SP 800-53?",System Integration and Interoperability,Interoperability and Portability
+"Are security controls implemented to protect data during transmission between systems, such as encryption or secure protocols?",System Integration and Interoperability,Interoperability and Portability
+Are access controls configured to ensure that only authorized users and systems can access sensitive data exchanged between integrated systems?,System Integration and Interoperability,Interoperability and Portability
+Is there a process for logging and monitoring data exchange activities to detect potential security incidents or data breaches?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a change management process that includes security considerations for system integration and interoperability changes?,System Integration and Interoperability,Interoperability and Portability
+Are security tests performed to validate the security of integrated systems and data exchange processes?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a vulnerability management program that addresses vulnerabilities in integrated systems and data exchange interfaces?,System Integration and Interoperability,Interoperability and Portability
+"Are system interfaces secured against common web application vulnerabilities, such as SQL injection and cross-site scripting?",System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for managing and securing API integrations to prevent unauthorized access and data breaches?,System Integration and Interoperability,Interoperability and Portability
+Are API keys and other credentials securely managed and protected from unauthorized access?,System Integration and Interoperability,Interoperability and Portability
+Are API endpoints properly authenticated and authorized to prevent unauthorized access to data?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for rate limiting API calls to prevent denial-of-service attacks?,System Integration and Interoperability,Interoperability and Portability
+Are input validation controls implemented to prevent malicious data from being injected into integrated systems through APIs?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for monitoring API traffic for suspicious activity and potential security threats?,System Integration and Interoperability,Interoperability and Portability
+Does the organization adhere to the principle of least privilege when granting access to integrated systems and data exchange interfaces?,System Integration and Interoperability,Interoperability and Portability
+Are regular security audits conducted to assess the effectiveness of security controls for system integration and interoperability?,System Integration and Interoperability,Interoperability and Portability
+Does the organization use secure coding practices during the development of system integration components?,System Integration and Interoperability,Interoperability and Portability
+Are code reviews conducted to identify potential security vulnerabilities in system integration code?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for securely disposing of data when systems are decommissioned or data is no longer needed?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a data retention policy that complies with relevant legal and regulatory requirements?,System Integration and Interoperability,Interoperability and Portability
+Are data backups securely stored and protected from unauthorized access?,System Integration and Interoperability,Interoperability and Portability
+Are data backups regularly tested to ensure that data can be recovered in the event of a disaster?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a disaster recovery plan that addresses system integration and interoperability considerations?,System Integration and Interoperability,Interoperability and Portability
+Are system integration and interoperability components included in the organization's business continuity plan?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for managing the security of third-party systems and services that are integrated with its own systems?,System Integration and Interoperability,Interoperability and Portability
+Are vendor security assessments conducted to evaluate the security posture of third-party systems and services?,System Integration and Interoperability,Interoperability and Portability
+Are service level agreements (SLAs) in place with third-party vendors that address security requirements for system integration and interoperability?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for monitoring vendor compliance with security requirements?,System Integration and Interoperability,Interoperability and Portability
+Does the organization leverage threat intelligence feeds to identify potential threats to integrated systems and data exchange processes?,System Integration and Interoperability,Interoperability and Portability
+Does the organization use security information and event management (SIEM) systems to monitor and analyze security events related to system integration and interoperability?,System Integration and Interoperability,Interoperability and Portability
+Are security alerts configured to notify security personnel of suspicious activity and potential security threats?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have an incident response plan that addresses security incidents related to system integration and interoperability?,System Integration and Interoperability,Interoperability and Portability
+Are incident response procedures regularly tested to ensure their effectiveness?,System Integration and Interoperability,Interoperability and Portability
+Does the organization provide security awareness training to employees on system integration and interoperability security risks?,System Integration and Interoperability,Interoperability and Portability
+Are employees trained on secure coding practices and data handling procedures?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a data classification policy that defines the sensitivity of data exchanged between systems?,System Integration and Interoperability,Interoperability and Portability
+Are data access controls implemented based on data classification?,System Integration and Interoperability,Interoperability and Portability
+Does the organization use data loss prevention (DLP) tools to prevent sensitive data from being exfiltrated from integrated systems?,System Integration and Interoperability,Interoperability and Portability
+Are data masking techniques used to protect sensitive data when it is accessed or displayed by unauthorized users?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a data governance framework that defines roles and responsibilities for data management?,System Integration and Interoperability,Interoperability and Portability
+Are data quality checks performed to ensure the accuracy and completeness of data exchanged between systems?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for resolving data quality issues?,System Integration and Interoperability,Interoperability and Portability
+Are data integration processes designed to minimize the risk of data corruption?,System Integration and Interoperability,Interoperability and Portability
+Does the organization have a process for auditing data integration activities to ensure compliance with security policies and procedures?,System Integration and Interoperability,Interoperability and Portability
+"Does the organization maintain an inventory of all APIs, including internal, partner, and public-facing APIs, as per NIST SP 800-53 CM-8?",System Integration and Interoperability,API Integration Management
+"Are API keys and secrets managed and rotated regularly, adhering to ISO 27001 A.9.4.4?",System Integration and Interoperability,API Integration Management
+Does the API management platform enforce authentication and authorization for all API requests?,System Integration and Interoperability,API Integration Management
+"Are API usage quotas and rate limiting implemented to prevent abuse and denial-of-service attacks, as recommended by CIS Control 7.4?",System Integration and Interoperability,API Integration Management
+"Are APIs designed with security in mind, incorporating principles of least privilege and secure coding practices?",System Integration and Interoperability,API Integration Management
+"Does the organization perform regular security testing (e.g., penetration testing, static/dynamic code analysis) of its APIs?",System Integration and Interoperability,API Integration Management
+"Is there a formal process for vulnerability management specific to APIs, including timely patching and remediation?",System Integration and Interoperability,API Integration Management
+"Does the organization monitor API traffic for suspicious activity, such as unusual request patterns or unauthorized access attempts?",System Integration and Interoperability,API Integration Management
+Are API logs regularly reviewed and analyzed for security incidents?,System Integration and Interoperability,API Integration Management
+"Is data transmitted through APIs encrypted using secure protocols (e.g., TLS/SSL)?",System Integration and Interoperability,API Integration Management
+"Does the organization validate and sanitize all data inputs to APIs to prevent injection attacks, as per OWASP API Security Top 10?",System Integration and Interoperability,API Integration Management
+Are API responses carefully crafted to avoid exposing sensitive information or internal system details?,System Integration and Interoperability,API Integration Management
+"Is there a documented API security policy that outlines requirements for authentication, authorization, data protection, and monitoring?",System Integration and Interoperability,API Integration Management
+Does the organization conduct regular security awareness training for developers and administrators working with APIs?,System Integration and Interoperability,API Integration Management
+"Are API access controls based on the principle of least privilege, granting users only the necessary permissions?",System Integration and Interoperability,API Integration Management
+Does the organization enforce multi-factor authentication (MFA) for privileged accounts accessing the API management platform?,System Integration and Interoperability,API Integration Management
+"Is there a formal change management process for API deployments and updates, ensuring security is considered at each stage?",System Integration and Interoperability,API Integration Management
+"Are API versions managed effectively, and are deprecated APIs retired promptly to reduce attack surface?",System Integration and Interoperability,API Integration Management
+Does the organization have a process for managing and revoking API access for terminated employees or contractors?,System Integration and Interoperability,API Integration Management
+Are APIs integrated with a web application firewall (WAF) or API gateway to provide additional security protection?,System Integration and Interoperability,API Integration Management
+Does the organization use API analytics to identify security trends and potential vulnerabilities?,System Integration and Interoperability,API Integration Management
+Is there a documented incident response plan specific to API security incidents?,System Integration and Interoperability,API Integration Management
+"Are API security incidents reported and investigated promptly, following established procedures?",System Integration and Interoperability,API Integration Management
+"Does the organization comply with relevant data privacy regulations (e.g., GDPR, CCPA) when handling personal data through APIs?",System Integration and Interoperability,API Integration Management
+Are data retention policies applied to API logs and data transmitted through APIs?,System Integration and Interoperability,API Integration Management
+Does the organization conduct regular audits of its API security controls to ensure effectiveness?,System Integration and Interoperability,API Integration Management
+Are third-party APIs assessed for security risks before integration?,System Integration and Interoperability,API Integration Management
+Does the organization have contracts with third-party API providers that outline security responsibilities and liabilities?,System Integration and Interoperability,API Integration Management
+Is there a process for monitoring the security posture of third-party API providers?,System Integration and Interoperability,API Integration Management
+Does the organization use API proxies to mask the internal architecture and protect backend systems?,System Integration and Interoperability,API Integration Management
+"Are API endpoints protected against common web application vulnerabilities, such as cross-site scripting (XSS) and SQL injection?",System Integration and Interoperability,API Integration Management
+"Is there a mechanism for detecting and preventing API abuse, such as excessive requests or malicious payloads?",System Integration and Interoperability,API Integration Management
+Does the organization use API security testing tools to automate vulnerability detection?,System Integration and Interoperability,API Integration Management
+Are API security requirements integrated into the software development lifecycle (SDLC)?,System Integration and Interoperability,API Integration Management
+Does the organization have a designated API security team or individual responsible for overseeing API security?,System Integration and Interoperability,API Integration Management
+Are API access logs correlated with other security logs to provide a comprehensive view of security events?,System Integration and Interoperability,API Integration Management
+Does the organization use threat intelligence feeds to identify potential API attacks?,System Integration and Interoperability,API Integration Management
+Are APIs designed with idempotency in mind to prevent unintended consequences from repeated requests?,System Integration and Interoperability,API Integration Management
+Does the organization have a process for securely storing and managing API keys and secrets in a hardware security module (HSM)?,System Integration and Interoperability,API Integration Management
+"Are API calls authenticated using industry-standard protocols, such as OAuth 2.0 or OpenID Connect?",System Integration and Interoperability,API Integration Management
+Does the organization have a formal API documentation process that includes security considerations?,System Integration and Interoperability,API Integration Management
+"Are API specifications (e.g., OpenAPI/Swagger) kept up-to-date and accurate?",System Integration and Interoperability,API Integration Management
+Does the organization have a process for managing API dependencies and ensuring that they are patched against known vulnerabilities?,System Integration and Interoperability,API Integration Management
+Are API endpoints protected against brute-force attacks by implementing account lockout policies?,System Integration and Interoperability,API Integration Management
+Does the organization use API monitoring tools to track performance metrics and identify anomalies?,System Integration and Interoperability,API Integration Management
+Are API security configurations regularly reviewed and updated to reflect changes in the threat landscape?,System Integration and Interoperability,API Integration Management
+Does the organization have a process for securely decommissioning APIs that are no longer in use?,System Integration and Interoperability,API Integration Management
+Are API security controls tested during disaster recovery exercises?,System Integration and Interoperability,API Integration Management
+Does the organization have a process for managing API traffic during peak load periods to prevent performance degradation and security vulnerabilities?,System Integration and Interoperability,API Integration Management
+Are API error messages sanitized to prevent information leakage?,System Integration and Interoperability,API Integration Management
+"Are all system interfaces documented, including data formats, protocols, and security mechanisms, as per ISO 27001 Annex A.8.33?",System Integration and Interoperability,System Interfaces
+"Is there a defined process for approving and documenting changes to system interfaces, aligning with CIS Control 4.1?",System Integration and Interoperability,System Interfaces
+"Are all system interfaces subject to regular vulnerability assessments and penetration testing, in accordance with NIST SP 800-53 RA-5?",System Integration and Interoperability,System Interfaces
+"Do you have a formal process for managing and controlling access to system interfaces, adhering to ISO 27001 Annex A.9.1.2?",System Integration and Interoperability,System Interfaces
+"Are system interfaces monitored for unauthorized access or malicious activity, as per NIST SP 800-53 AU-2?",System Integration and Interoperability,System Interfaces
+"Is data transmitted across system interfaces encrypted using strong cryptographic algorithms, aligning with ISO 27001 Annex A.8.24?",System Integration and Interoperability,System Interfaces
+"Are input validation and output encoding techniques employed at system interfaces to prevent injection attacks, as recommended by OWASP?",System Integration and Interoperability,System Interfaces
+"Do you have a mechanism for securely storing and managing credentials used by system interfaces, in line with CIS Control 16.1?",System Integration and Interoperability,System Interfaces
+"Are system interfaces designed with the principle of least privilege in mind, granting only necessary permissions to connected systems?",System Integration and Interoperability,System Interfaces
+"Are there procedures for handling errors and exceptions that occur at system interfaces, including logging and alerting mechanisms?",System Integration and Interoperability,System Interfaces
+"Is there a process for regularly reviewing and updating security configurations on systems exposing interfaces, following NIST SP 800-53 CM-6?",System Integration and Interoperability,System Interfaces
+Are all systems connected via interfaces synchronized for time to ensure proper log correlation and incident investigation?,System Integration and Interoperability,System Interfaces
+Do you have a data loss prevention (DLP) solution in place to monitor and prevent sensitive data from being transmitted across system interfaces?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to prevent denial-of-service (DoS) attacks through rate limiting and other security mechanisms?,System Integration and Interoperability,System Interfaces
+Is there a process for managing and revoking access to system interfaces when systems are decommissioned or no longer require access?,System Integration and Interoperability,System Interfaces
+"Do you maintain an inventory of all system interfaces, including their purpose, connected systems, and security controls?",System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support audit logging and reporting capabilities for security events?,System Integration and Interoperability,System Interfaces
+"Do you have a process for securely transferring data across system interfaces, including verification of data integrity and authenticity?",System Integration and Interoperability,System Interfaces
+Are system interfaces designed to be resilient to failures and support failover mechanisms to maintain business continuity?,System Integration and Interoperability,System Interfaces
+Do you have a process for regularly testing the security of system interfaces through simulated attacks and vulnerability assessments?,System Integration and Interoperability,System Interfaces
+"Are system interfaces designed to comply with relevant industry standards and regulations, such as PCI DSS, HIPAA, and GDPR?",System Integration and Interoperability,System Interfaces
+Is there a dedicated team or individual responsible for managing and securing system interfaces?,System Integration and Interoperability,System Interfaces
+"Are system interfaces designed to support secure remote access for authorized users, using multi-factor authentication and encryption?",System Integration and Interoperability,System Interfaces
+Do you have a process for patching and updating systems exposing interfaces to address known vulnerabilities?,System Integration and Interoperability,System Interfaces
+"Are system interfaces designed to support secure data exchange with third-party systems, including contractual agreements and security assessments?",System Integration and Interoperability,System Interfaces
+Is there a process for monitoring and analyzing network traffic associated with system interfaces to detect suspicious activity?,System Integration and Interoperability,System Interfaces
+Do you use intrusion detection and prevention systems (IDS/IPS) to monitor system interfaces for malicious traffic?,System Integration and Interoperability,System Interfaces
+"Are system interfaces designed to support secure authentication and authorization mechanisms, such as OAuth and SAML?",System Integration and Interoperability,System Interfaces
+Do you have a process for managing and rotating cryptographic keys used to secure system interfaces?,System Integration and Interoperability,System Interfaces
+"Are system interfaces designed to support secure communication protocols, such as TLS/SSL and SSH?",System Integration and Interoperability,System Interfaces
+"Is there a process for securely storing and managing sensitive data transmitted across system interfaces, such as encryption and tokenization?",System Integration and Interoperability,System Interfaces
+Do you have a data classification policy in place to determine the sensitivity of data transmitted across system interfaces?,System Integration and Interoperability,System Interfaces
+"Are system interfaces designed to support secure data storage and retrieval mechanisms, such as encryption and access controls?",System Integration and Interoperability,System Interfaces
+"Do you have a process for securely disposing of data that is no longer needed on system interfaces, such as data wiping and shredding?",System Integration and Interoperability,System Interfaces
+"Are system interfaces designed to support secure data archiving and retention policies, in compliance with legal and regulatory requirements?",System Integration and Interoperability,System Interfaces
+Is there a process for regularly backing up data stored on system interfaces to ensure data availability and business continuity?,System Integration and Interoperability,System Interfaces
+Do you have a disaster recovery plan in place for system interfaces in the event of a major disruption?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support secure access to cloud-based resources and services?,System Integration and Interoperability,System Interfaces
+Do you have a process for managing and monitoring security configurations on cloud-based system interfaces?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support secure access to mobile devices and applications?,System Integration and Interoperability,System Interfaces
+Do you have a process for managing and monitoring security configurations on mobile devices that access system interfaces?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support secure access to Internet of Things (IoT) devices and systems?,System Integration and Interoperability,System Interfaces
+Do you have a process for managing and monitoring security configurations on IoT devices that access system interfaces?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support secure access to industrial control systems (ICS) and operational technology (OT) environments?,System Integration and Interoperability,System Interfaces
+Do you have a process for managing and monitoring security configurations on ICS/OT systems that access system interfaces?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support secure data exchange with legacy systems and applications?,System Integration and Interoperability,System Interfaces
+Do you have a process for managing and monitoring security configurations on legacy systems that access system interfaces?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support secure access to mainframe systems and applications?,System Integration and Interoperability,System Interfaces
+Do you have a process for managing and monitoring security configurations on mainframe systems that access system interfaces?,System Integration and Interoperability,System Interfaces
+Are system interfaces designed to support secure data exchange with artificial intelligence (AI) and machine learning (ML) systems?,System Integration and Interoperability,System Interfaces
+Do you have a process for managing and monitoring security configurations on AI/ML systems that access system interfaces?,System Integration and Interoperability,System Interfaces

@@ -1,0 +1,331 @@
+{
+    "standard": "CIS Controls",
+    "version": "8",
+    "domains": [
+        {
+            "domain_id": "1",
+            "domain_name": "Inventory and Control of Hardware Assets",
+            "controls": [
+                {
+                    "control_id": "1.1",
+                    "title": "Establish and Maintain a Detailed Enterprise Hardware Inventory",
+                    "description": "Actively manage (inventory, track, and correct) all enterprise assets (end-user devices, including portable and mobile; network devices, non-computing/IoT devices; and servers) connected to the infrastructure physically, virtually, remotely, and those within cloud environments, in order to accurately identify all assets; manage, mitigate, and remediate vulnerabilities; and reduce the attack surface.  A detailed inventory will include the hardware address, asset owner, date acquired, purchase price, and serial number of all devices.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "1.2",
+                    "title": "Ensure Hardware Assets are Securely Managed",
+                    "description": "Use the hardware inventory to correct and manage assets. For each asset, record the software residing on the system, including the name, version, patch level, and a measure of its configuration compared against a secure baseline (e.g., using a secure configuration tool).",
+                    "related_controls": [
+                        "1.1",
+                        "4.1"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "2",
+            "domain_name": "Inventory and Control of Software Assets",
+            "controls": [
+                {
+                    "control_id": "2.1",
+                    "title": "Establish and Maintain a Detailed Enterprise Software Inventory",
+                    "description": "Actively manage (inventory, track, and correct) all software installed on enterprise assets (end-user devices, including portable and mobile; network devices; non-computing/IoT devices; and servers) in order to accurately identify all software; manage, mitigate, and remediate vulnerabilities; and reduce the attack surface.  A detailed inventory will include the software name, version, patch level, and source (if known).",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "2.2",
+                    "title": "Ensure Software Assets are Securely Managed",
+                    "description": "Use the software inventory to correct and manage assets. For each asset, record the software residing on the system, including the name, version, patch level, and a measure of its configuration compared against a secure baseline (e.g., using a secure configuration tool).",
+                    "related_controls": [
+                        "2.1",
+                        "4.1"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "3",
+            "domain_name": "Data Protection",
+            "controls": [
+                {
+                    "control_id": "3.1",
+                    "title": "Establish and Maintain a Data Management Process",
+                    "description": "Develop and maintain a data management process that defines data owners, data stewards, and data custodians, and their respective roles and responsibilities in protecting data. Identify data location, format, and sensitivity of data stored, processed, or transmitted by the organization's systems. Develop a data classification scheme that categorizes data based on its sensitivity and criticality to the organization.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "3.2",
+                    "title": "Implement Data Loss Prevention (DLP) Techniques",
+                    "description": "Implement data loss prevention (DLP) techniques to detect and prevent data exfiltration. These techniques should include, but are not limited to, monitoring network traffic, endpoint activity, and cloud storage for sensitive data.  Implement controls to prevent data leakage through removable media, email, and other communication channels.",
+                    "related_controls": [
+                        "3.1"
+                    ]
+                },
+                {
+                    "control_id": "3.3",
+                    "title": "Enforce Data Encryption",
+                    "description": "Encrypt sensitive data at rest and in transit. Implement strong encryption algorithms and key management practices to protect data confidentiality and integrity.",
+                    "related_controls": [
+                        "3.1",
+                        "3.2"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "4",
+            "domain_name": "Secure Configuration of Enterprise Assets and Software",
+            "controls": [
+                {
+                    "control_id": "4.1",
+                    "title": "Establish and Maintain Secure Configurations",
+                    "description": "Establish and maintain secure configurations for all enterprise assets (end-user devices, including portable and mobile; network devices; non-computing/IoT devices; and servers) and software (operating systems, applications, security tools, and middleware) by implementing a rigorous configuration management and change control process.  Implement a process for regularly assessing and remediating configuration vulnerabilities.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "4.2",
+                    "title": "Implement Automated Configuration Management Tools",
+                    "description": "Implement automated configuration management tools to ensure that enterprise assets and software are consistently configured according to established secure configuration standards.  Use these tools to detect and remediate configuration drift.",
+                    "related_controls": [
+                        "4.1"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "5",
+            "domain_name": "Account Management",
+            "controls": [
+                {
+                    "control_id": "5.1",
+                    "title": "Establish and Maintain an Inventory of Accounts",
+                    "description": "Establish and maintain an inventory of all accounts, including user accounts, service accounts, and privileged accounts.  Regularly review the inventory to identify and remove inactive accounts.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "5.2",
+                    "title": "Enforce Strong Password Management",
+                    "description": "Enforce strong password management policies, including password complexity, password history, and password aging.  Implement multi-factor authentication (MFA) for all accounts, especially privileged accounts.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "5.3",
+                    "title": "Manage and Control Privileged Access",
+                    "description": "Manage and control privileged access to enterprise assets and software.  Implement the principle of least privilege, and regularly review and revoke privileged access when it is no longer needed.",
+                    "related_controls": [
+                        "5.1",
+                        "5.2"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "6",
+            "domain_name": "Access Control Management",
+            "controls": [
+                {
+                    "control_id": "6.1",
+                    "title": "Implement Least Privilege Access",
+                    "description": "Limit access to enterprise assets and software to only those users who require access to perform their job duties.  Implement the principle of least privilege, and regularly review and revoke access when it is no longer needed.",
+                    "related_controls": [
+                        "5.1",
+                        "5.2",
+                        "5.3"
+                    ]
+                },
+                {
+                    "control_id": "6.2",
+                    "title": "Implement Role-Based Access Control (RBAC)",
+                    "description": "Implement role-based access control (RBAC) to manage access to enterprise assets and software.  Define roles based on job functions, and assign users to roles.  Regularly review and update roles as job functions change.",
+                    "related_controls": [
+                        "6.1"
+                    ]
+                },
+                {
+                    "control_id": "6.3",
+                    "title": "Implement Access Control Lists (ACLs)",
+                    "description": "Implement access control lists (ACLs) to control access to files, folders, and other resources.  Regularly review and update ACLs to ensure that they are consistent with the principle of least privilege.",
+                    "related_controls": [
+                        "6.1",
+                        "6.2"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "7",
+            "domain_name": "Continuous Vulnerability Management",
+            "controls": [
+                {
+                    "control_id": "7.1",
+                    "title": "Perform Automated Vulnerability Scans",
+                    "description": "Perform automated vulnerability scans of enterprise assets (end-user devices, including portable and mobile; network devices; non-computing/IoT devices; and servers) on a regular basis (e.g., weekly or monthly).  Use vulnerability scanners that are up-to-date with the latest vulnerability information.",
+                    "related_controls": [
+                        "1.1",
+                        "2.1",
+                        "4.1"
+                    ]
+                },
+                {
+                    "control_id": "7.2",
+                    "title": "Remediate Identified Vulnerabilities",
+                    "description": "Remediate identified vulnerabilities in a timely manner based on their severity.  Implement a vulnerability management process that includes prioritization, tracking, and remediation verification.  Apply patches and updates as soon as they are available.",
+                    "related_controls": [
+                        "7.1"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "8",
+            "domain_name": "Audit Log Management",
+            "controls": [
+                {
+                    "control_id": "8.1",
+                    "title": "Establish and Maintain Audit Logging",
+                    "description": "Enable and maintain audit logging for all enterprise assets and software.  Collect and analyze audit logs to detect security incidents, policy violations, and other anomalies.  Ensure that audit logs are protected from unauthorized access and modification.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "8.2",
+                    "title": "Centralize Audit Log Management",
+                    "description": "Centralize audit log management to facilitate analysis and correlation of events across the enterprise.  Implement a security information and event management (SIEM) system to collect, analyze, and report on audit logs.",
+                    "related_controls": [
+                        "8.1"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "9",
+            "domain_name": "Email and Web Browser Protections",
+            "controls": [
+                {
+                    "control_id": "9.1",
+                    "title": "Implement Email Security Controls",
+                    "description": "Implement email security controls to prevent malware, phishing, and other email-borne threats.  These controls should include, but are not limited to, spam filtering, anti-malware scanning, and phishing awareness training.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "9.2",
+                    "title": "Implement Web Browser Security Controls",
+                    "description": "Implement web browser security controls to prevent malware, phishing, and other web-borne threats.  These controls should include, but are not limited to, web filtering, browser hardening, and anti-malware scanning.",
+                    "related_controls": []
+                }
+            ]
+        },
+        {
+            "domain_id": "10",
+            "domain_name": "Malware Defenses",
+            "controls": [
+                {
+                    "control_id": "10.1",
+                    "title": "Implement Anti-Malware Software",
+                    "description": "Implement anti-malware software on all enterprise assets (end-user devices, including portable and mobile; network devices; non-computing/IoT devices; and servers).  Ensure that anti-malware software is up-to-date with the latest malware signatures.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "10.2",
+                    "title": "Implement Endpoint Detection and Response (EDR)",
+                    "description": "Implement endpoint detection and response (EDR) to detect and respond to advanced malware threats that bypass traditional anti-malware software.  EDR should provide visibility into endpoint activity and allow for rapid response to security incidents.",
+                    "related_controls": [
+                        "10.1",
+                        "8.1",
+                        "8.2"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "11",
+            "domain_name": "Data Recovery",
+            "controls": [
+                {
+                    "control_id": "11.1",
+                    "title": "Establish and Maintain a Data Recovery Plan",
+                    "description": "Establish and maintain a data recovery plan to ensure that data can be restored in the event of a disaster or other data loss event.  The data recovery plan should include procedures for backing up data, restoring data, and testing the data recovery process.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "11.2",
+                    "title": "Perform Regular Data Backups",
+                    "description": "Perform regular data backups of all critical data.  Store backups in a secure location that is physically separated from the primary data storage location.  Test backups regularly to ensure that they can be restored successfully.",
+                    "related_controls": [
+                        "11.1"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "12",
+            "domain_name": "Network Infrastructure Management",
+            "controls": [
+                {
+                    "control_id": "12.1",
+                    "title": "Establish and Maintain a Network Inventory",
+                    "description": "Establish and maintain a detailed network inventory, including all network devices (routers, switches, firewalls, intrusion detection systems, and wireless access points) and network connections.  Regularly review the inventory to identify and remove unauthorized devices and connections.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "12.2",
+                    "title": "Segment the Network",
+                    "description": "Segment the network to isolate critical systems and data from less critical systems.  Use firewalls and intrusion detection systems to control traffic flow between network segments.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "12.3",
+                    "title": "Harden Network Devices",
+                    "description": "Harden network devices by disabling unnecessary services, changing default passwords, and implementing strong access control policies.",
+                    "related_controls": [
+                        "4.1"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "13",
+            "domain_name": "Network Monitoring and Defense",
+            "controls": [
+                {
+                    "control_id": "13.1",
+                    "title": "Implement Network Intrusion Detection and Prevention Systems (IDS/IPS)",
+                    "description": "Implement network intrusion detection and prevention systems (IDS/IPS) to detect and prevent malicious activity on the network.  IDS/IPS should be configured to monitor network traffic for known attack signatures and anomalous behavior.",
+                    "related_controls": [
+                        "12.2"
+                    ]
+                },
+                {
+                    "control_id": "13.2",
+                    "title": "Implement Network Traffic Analysis",
+                    "description": "Implement network traffic analysis to identify and investigate suspicious network activity.  Network traffic analysis tools can be used to identify anomalies, track communication patterns, and detect malware infections.",
+                    "related_controls": [
+                        "13.1",
+                        "8.1",
+                        "8.2"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "14",
+            "domain_name": "Security Awareness and Training Programs",
+            "controls": [
+                {
+                    "control_id": "14.1",
+                    "title": "Conduct Security Awareness Training",
+                    "description": "Conduct regular security awareness training for all employees, contractors, and other users.  Training should cover topics such as phishing, malware, social engineering, and password security.",
+                    "related_controls": []
+                },
+                {
+                    "control_id": "14.2",
+                    "title": "Simulate Phishing Attacks",
+                    "description": "Simulate phishing attacks to test employees' ability to identify and report phishing emails.  Use the results of phishing simulations to identify areas where employees need additional training.",
+                    "related_controls": [
+                        "14.1"
+                    ]
+                }
+            ]
+        }
+    ]
+}

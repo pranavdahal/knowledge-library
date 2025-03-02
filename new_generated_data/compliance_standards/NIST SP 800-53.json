@@ -1,0 +1,732 @@
+{
+    "standard": "NIST SP 800-53",
+    "version": "Revision 5",
+    "domains": [
+        {
+            "domain_id": "AC",
+            "domain_name": "Access Control",
+            "controls": [
+                {
+                    "control_id": "AC-1",
+                    "title": "Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, access control policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the access control policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Access control policies and procedures address access restrictions, access authorization, monitoring access activities, account management, and access revocation.",
+                    "enhancements": [
+                        "AC-1(1)",
+                        "AC-1(2)",
+                        "AC-1(3)",
+                        "AC-1(4)"
+                    ]
+                },
+                {
+                    "control_id": "AC-2",
+                    "title": "Account Management",
+                    "description": "Establish and manage information system accounts, including establishing account authorization; activating accounts; deactivating accounts; reviewing accounts; modifying accounts; monitoring accounts; and notifying account managers when accounts are no longer required.  Automate account creation, modification, enabling, disabling, and removal processes. Implement least privilege by: authorizing access to only the information and information system resources required to perform assigned duties; limiting access to privileged functions and information system resources to only the authorized personnel; and specifying authorized privileges. Limit the number of concurrent sessions for each account. Control information system access using multifactor authentication. Employ cryptographic mechanisms to protect the authenticity and integrity of account credentials. Authorize wireless access to the information system prior to allowing such connections.",
+                    "related_controls": [
+                        "AC-1",
+                        "AU-9",
+                        "CM-7",
+                        "IA-5",
+                        "IA-8",
+                        "IR-4",
+                        "SC-8",
+                        "SC-12"
+                    ],
+                    "supplemental_guidance": "Least privilege and separation of duties are related concepts. Least privilege requires that each subject be granted the most restrictive set of privileges (or lowest level of authorization) needed for the performance of assigned tasks. Separation of duties ensures that no individual has all of the privileges and permissions to carry out malicious or negligent actions without detection.",
+                    "enhancements": [
+                        "AC-2(1)",
+                        "AC-2(2)",
+                        "AC-2(3)",
+                        "AC-2(4)",
+                        "AC-2(5)",
+                        "AC-2(6)",
+                        "AC-2(7)",
+                        "AC-2(8)",
+                        "AC-2(9)",
+                        "AC-2(10)"
+                    ]
+                },
+                {
+                    "control_id": "AC-3",
+                    "title": "Access Enforcement",
+                    "description": "The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable policy.",
+                    "related_controls": [
+                        "AC-4",
+                        "CM-6",
+                        "IA-5",
+                        "SC-7"
+                    ],
+                    "supplemental_guidance": "Access enforcement mechanisms can be implemented in a variety of ways, including access control lists, access control matrices, and cryptographic methods.",
+                    "enhancements": [
+                        "AC-3(1)",
+                        "AC-3(2)",
+                        "AC-3(3)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "AU",
+            "domain_name": "Audit and Accountability",
+            "controls": [
+                {
+                    "control_id": "AU-1",
+                    "title": "Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, audit and accountability policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the audit and accountability policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Audit and accountability policies and procedures address the logging of auditable events, retention requirements for audit records, and protection of audit information.",
+                    "enhancements": [
+                        "AU-1(1)",
+                        "AU-1(2)",
+                        "AU-1(3)",
+                        "AU-1(4)"
+                    ]
+                },
+                {
+                    "control_id": "AU-2",
+                    "title": "Audit Events",
+                    "description": "Determine, based on a risk assessment, the events to be audited. Coordinate the security audit function with other organizational entities requiring audit-related information to support their missions. Provide a rationale for why each event is selected for auditing purposes.",
+                    "related_controls": [
+                        "AC-6",
+                        "CM-3",
+                        "IR-4",
+                        "RA-5"
+                    ],
+                    "supplemental_guidance": "Auditable events include, for example, successful and unsuccessful login attempts, privileged account usage, access to sensitive data, configuration changes, software installations, and system restarts. The selection of events to audit is based on the organization's risk assessment and the potential impact of unauthorized access or misuse.",
+                    "enhancements": [
+                        "AU-2(1)",
+                        "AU-2(2)",
+                        "AU-2(3)",
+                        "AU-2(4)",
+                        "AU-2(5)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "CA",
+            "domain_name": "Assessment, Authorization and Monitoring",
+            "controls": [
+                {
+                    "control_id": "CA-1",
+                    "title": "Security Assessment and Authorization Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, security assessment and authorization policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the security assessment and authorization policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Security assessment and authorization policies and procedures address the process for assessing and authorizing information systems, including the frequency of assessments, the roles and responsibilities of personnel involved, and the criteria for authorization.",
+                    "enhancements": [
+                        "CA-1(1)",
+                        "CA-1(2)",
+                        "CA-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "CA-2",
+                    "title": "Security Assessments",
+                    "description": "Assess the security controls in the information system to determine if the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements. Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in the information system. Monitor security control implementation.  Conduct assessments [at least annually].",
+                    "related_controls": [
+                        "AR-3",
+                        "CM-3",
+                        "CM-6",
+                        "IR-2",
+                        "RA-5",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Security assessments can include vulnerability scanning, penetration testing, security audits, and other methods to identify weaknesses in the information system.",
+                    "enhancements": [
+                        "CA-2(1)",
+                        "CA-2(2)",
+                        "CA-2(3)",
+                        "CA-2(4)",
+                        "CA-2(5)",
+                        "CA-2(6)",
+                        "CA-2(7)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "CM",
+            "domain_name": "Configuration Management",
+            "controls": [
+                {
+                    "control_id": "CM-1",
+                    "title": "Configuration Management Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, configuration management policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the configuration management policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Configuration management policies and procedures address the identification, control, status accounting, and auditing of system configurations.",
+                    "enhancements": [
+                        "CM-1(1)",
+                        "CM-1(2)",
+                        "CM-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "CM-2",
+                    "title": "Baseline Configuration",
+                    "description": "Establish and maintain baseline configurations and inventories of organizational information systems including descriptions of the information system; the information system components; the information system boundary; data flows; the information system interfaces; and the information system connectivity.  Maintain the baseline configuration under configuration control.  Review and update the baseline configuration [at least annually].",
+                    "related_controls": [
+                        "CM-3",
+                        "CM-4",
+                        "CM-5",
+                        "SA-9"
+                    ],
+                    "supplemental_guidance": "A baseline configuration is a known and trusted state of the information system. It serves as a reference point for subsequent changes and allows the organization to identify unauthorized modifications to the system.",
+                    "enhancements": [
+                        "CM-2(1)",
+                        "CM-2(2)",
+                        "CM-2(3)",
+                        "CM-2(4)",
+                        "CM-2(5)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "IA",
+            "domain_name": "Identification and Authentication",
+            "controls": [
+                {
+                    "control_id": "IA-1",
+                    "title": "Identification and Authentication Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, identification and authentication policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the identification and authentication policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Identification and authentication policies and procedures address the methods for identifying users and devices, verifying identities, and managing credentials.",
+                    "enhancements": [
+                        "IA-1(1)",
+                        "IA-1(2)",
+                        "IA-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "IA-2",
+                    "title": "Identification and Authentication (Organizational Users)",
+                    "description": "Identify and authenticate organizational users. Assign a unique identifier to each organizational user. Employ authentication mechanisms using multifactor authentication for network access to privileged accounts and for network access to non-privileged accounts. Manage cryptographic keys used for identification and authentication.",
+                    "related_controls": [
+                        "AC-2",
+                        "CM-7",
+                        "IR-4",
+                        "SC-8"
+                    ],
+                    "supplemental_guidance": "Multifactor authentication provides a higher level of assurance than single-factor authentication. It requires users to present multiple credentials, such as a password and a biometric scan, to verify their identity.",
+                    "enhancements": [
+                        "IA-2(1)",
+                        "IA-2(2)",
+                        "IA-2(3)",
+                        "IA-2(4)",
+                        "IA-2(5)",
+                        "IA-2(6)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "IR",
+            "domain_name": "Incident Response",
+            "controls": [
+                {
+                    "control_id": "IR-1",
+                    "title": "Incident Response Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, incident response policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the incident response policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Incident response policies and procedures address the detection, analysis, containment, eradication, and recovery from security incidents.",
+                    "enhancements": [
+                        "IR-1(1)",
+                        "IR-1(2)",
+                        "IR-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "IR-2",
+                    "title": "Incident Response Training",
+                    "description": "Provide incident response training to organizational personnel.  Train personnel [at least annually].",
+                    "related_controls": [
+                        "AT-2",
+                        "CM-7",
+                        "PL-2"
+                    ],
+                    "supplemental_guidance": "Incident response training includes topics such as incident identification, reporting procedures, and the roles and responsibilities of personnel involved in incident response.",
+                    "enhancements": [
+                        "IR-2(1)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "MA",
+            "domain_name": "Maintenance",
+            "controls": [
+                {
+                    "control_id": "MA-1",
+                    "title": "Maintenance Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, maintenance policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the maintenance policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Maintenance policies and procedures address the performance of maintenance tasks, including the authorization, monitoring, and auditing of maintenance activities.",
+                    "enhancements": [
+                        "MA-1(1)",
+                        "MA-1(2)",
+                        "MA-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "MA-2",
+                    "title": "Controlled Maintenance",
+                    "description": "Establish and implement controls over maintenance activities on organizational information systems and components.  Authorize personnel conducting maintenance activities. Supervise personnel conducting maintenance activities.  Monitor maintenance activities.",
+                    "related_controls": [
+                        "AC-3",
+                        "CM-6",
+                        "IA-5",
+                        "PL-8",
+                        "SA-12"
+                    ],
+                    "supplemental_guidance": "Controlled maintenance helps to ensure that maintenance activities do not introduce new vulnerabilities or compromise the security of the information system.",
+                    "enhancements": [
+                        "MA-2(1)",
+                        "MA-2(2)",
+                        "MA-2(3)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "MP",
+            "domain_name": "Media Protection",
+            "controls": [
+                {
+                    "control_id": "MP-1",
+                    "title": "Media Protection Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, media protection policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the media protection policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Media protection policies and procedures address the protection of information system media, including storage, handling, and disposal.",
+                    "enhancements": [
+                        "MP-1(1)",
+                        "MP-1(2)",
+                        "MP-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "MP-2",
+                    "title": "Media Access",
+                    "description": "Restrict access to information system media to authorized personnel.  Monitor access to information system media.",
+                    "related_controls": [
+                        "AC-3",
+                        "AC-6",
+                        "AU-9",
+                        "CM-3",
+                        "CM-6"
+                    ],
+                    "supplemental_guidance": "Restricting access to media prevents unauthorized individuals from accessing sensitive information. Monitoring media access provides a means to detect and respond to unauthorized activity.",
+                    "enhancements": [
+                        "MP-2(1)",
+                        "MP-2(2)",
+                        "MP-2(3)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "PE",
+            "domain_name": "Physical and Environmental Protection",
+            "controls": [
+                {
+                    "control_id": "PE-1",
+                    "title": "Physical and Environmental Protection Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, physical and environmental protection policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the physical and environmental protection policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Physical and environmental protection policies and procedures address the protection of information systems and facilities from physical threats and environmental hazards.",
+                    "enhancements": [
+                        "PE-1(1)",
+                        "PE-1(2)",
+                        "PE-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "PE-2",
+                    "title": "Physical Access Authorizations",
+                    "description": "Limit physical access to the information system, information system components, and related areas to authorized individuals. Authenticate individuals prior to granting physical access to the information system, information system components, and related areas. Control physical access to areas housing information systems and components.",
+                    "related_controls": [
+                        "AC-2",
+                        "AC-3",
+                        "CM-3"
+                    ],
+                    "supplemental_guidance": "Physical access controls help to prevent unauthorized individuals from accessing information systems and data.",
+                    "enhancements": [
+                        "PE-2(1)",
+                        "PE-2(2)",
+                        "PE-2(3)",
+                        "PE-2(4)",
+                        "PE-2(5)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "PL",
+            "domain_name": "Planning",
+            "controls": [
+                {
+                    "control_id": "PL-1",
+                    "title": "Planning Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, planning policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the planning policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Planning policies and procedures address the organization's approach to information security planning, including the development of security plans, contingency plans, and other related documents.",
+                    "enhancements": [
+                        "PL-1(1)",
+                        "PL-1(2)",
+                        "PL-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "PL-2",
+                    "title": "System Security Plan",
+                    "description": "Develop and maintain a system security plan that describes the information system, its security requirements, the security controls in place or planned, and the personnel responsible for security.  Review and update the system security plan [at least annually].",
+                    "related_controls": [
+                        "AR-1",
+                        "AT-1",
+                        "CA-1",
+                        "CM-7",
+                        "PM-1",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "The system security plan provides a comprehensive overview of the security posture of the information system.",
+                    "enhancements": [
+                        "PL-2(1)",
+                        "PL-2(2)",
+                        "PL-2(3)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "PM",
+            "domain_name": "Program Management",
+            "controls": [
+                {
+                    "control_id": "PM-1",
+                    "title": "Information Security Program Plan",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, an information security program plan that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the information security program plan [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "The information security program plan outlines the organization's overall approach to information security, including policies, procedures, and training.",
+                    "enhancements": [
+                        "PM-1(1)",
+                        "PM-1(2)",
+                        "PM-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "PM-2",
+                    "title": "Senior Management Official(s)",
+                    "description": "Identify and assign responsibility and accountability for information security to a senior management official(s).",
+                    "related_controls": [
+                        "AT-1",
+                        "PL-2",
+                        "PS-3",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "The senior management official(s) is responsible for overseeing the organization's information security program and ensuring that it is effectively implemented.",
+                    "enhancements": [
+                        "PM-2(1)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "PS",
+            "domain_name": "Personnel Security",
+            "controls": [
+                {
+                    "control_id": "PS-1",
+                    "title": "Personnel Security Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, personnel security policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the personnel security policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Personnel security policies and procedures address the screening, training, and monitoring of personnel who have access to information systems.",
+                    "enhancements": [
+                        "PS-1(1)",
+                        "PS-1(2)",
+                        "PS-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "PS-2",
+                    "title": "Position Risk Designation",
+                    "description": "Designate positions as to the level of risk, considering the potential for harm should the individual occupying the position be untrustworthy.",
+                    "related_controls": [
+                        "MP-5",
+                        "PM-2",
+                        "PS-3",
+                        "PS-4",
+                        "PS-5",
+                        "PS-6"
+                    ],
+                    "supplemental_guidance": "Position risk designation helps to determine the level of security clearance and background checks required for personnel.",
+                    "enhancements": [
+                        "PS-2(1)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "RA",
+            "domain_name": "Risk Assessment",
+            "controls": [
+                {
+                    "control_id": "RA-1",
+                    "title": "Risk Assessment Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, risk assessment policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the risk assessment policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "Risk assessment policies and procedures address the organization's approach to identifying, analyzing, and mitigating security risks.",
+                    "enhancements": [
+                        "RA-1(1)",
+                        "RA-1(2)",
+                        "RA-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "RA-2",
+                    "title": "Security Categorization",
+                    "description": "Categorize the information system and the information processed, stored, and transmitted by that system based on the potential impact of loss of confidentiality, integrity, and availability.",
+                    "related_controls": [
+                        "PL-2",
+                        "PM-2"
+                    ],
+                    "supplemental_guidance": "Security categorization helps to determine the appropriate level of security controls for the information system.",
+                    "enhancements": [
+                        "RA-2(1)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "SA",
+            "domain_name": "System and Services Acquisition",
+            "controls": [
+                {
+                    "control_id": "SA-1",
+                    "title": "System and Services Acquisition Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, system and services acquisition policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the system and services acquisition policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3"
+                    ],
+                    "supplemental_guidance": "System and services acquisition policies and procedures address the security considerations that are incorporated into the acquisition process.",
+                    "enhancements": [
+                        "SA-1(1)",
+                        "SA-1(2)",
+                        "SA-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "SA-2",
+                    "title": "Security Requirements Definition",
+                    "description": "Identify and document security requirements for the information system and for the environment in which the system will operate.  Analyze security requirements to ensure that the requirements are complete and consistent.  Prioritize security requirements.",
+                    "related_controls": [
+                        "CM-3",
+                        "CM-7",
+                        "PM-3",
+                        "RA-5"
+                    ],
+                    "supplemental_guidance": "Security requirements definition helps to ensure that the information system is designed and implemented with appropriate security controls.",
+                    "enhancements": [
+                        "SA-2(1)",
+                        "SA-2(2)",
+                        "SA-2(3)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "SC",
+            "domain_name": "System and Communications Protection",
+            "controls": [
+                {
+                    "control_id": "SC-1",
+                    "title": "System and Communications Protection Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, system and communications protection policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the system and communications protection policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "System and communications protection policies and procedures address the security controls that are used to protect information systems and communications.",
+                    "enhancements": [
+                        "SC-1(1)",
+                        "SC-1(2)",
+                        "SC-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "SC-2",
+                    "title": "Connection Establishment and Management",
+                    "description": "Establish and manage connections to external systems and networks. Implement network segmentation to isolate the information system from other systems and networks.",
+                    "related_controls": [
+                        "AC-4",
+                        "CM-3",
+                        "CM-6",
+                        "IA-5"
+                    ],
+                    "supplemental_guidance": "Connection establishment and management helps to prevent unauthorized access to information systems and data. Network segmentation helps to limit the impact of security breaches.",
+                    "enhancements": [
+                        "SC-2(1)",
+                        "SC-2(2)",
+                        "SC-2(3)",
+                        "SC-2(4)"
+                    ]
+                }
+            ]
+        },
+        {
+            "domain_id": "SI",
+            "domain_name": "System and Information Integrity",
+            "controls": [
+                {
+                    "control_id": "SI-1",
+                    "title": "System and Information Integrity Policy and Procedures",
+                    "description": "Develop, document, and disseminate to defined personnel or roles, system and information integrity policy and procedures that address purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance. Review and update the system and information integrity policy and procedures [at least annually].",
+                    "related_controls": [
+                        "AT-1",
+                        "CM-7",
+                        "IA-1",
+                        "PM-5",
+                        "PS-6",
+                        "RA-3",
+                        "SA-4"
+                    ],
+                    "supplemental_guidance": "System and information integrity policies and procedures address the controls used to maintain the accuracy, completeness, and reliability of information systems and data.",
+                    "enhancements": [
+                        "SI-1(1)",
+                        "SI-1(2)",
+                        "SI-1(3)"
+                    ]
+                },
+                {
+                    "control_id": "SI-2",
+                    "title": "Flaw Remediation",
+                    "description": "Identify, report, and correct information system flaws in a timely manner. Test software and firmware updates related to flaw remediation for effectiveness prior to installation. Install security-relevant software and firmware updates. Monitor flaw remediation activities.",
+                    "related_controls": [
+                        "CA-2",
+                        "CM-3",
+                        "CM-5",
+                        "IR-4",
+                        "RA-5"
+                    ],
+                    "supplemental_guidance": "Flaw remediation helps to prevent attackers from exploiting known vulnerabilities in information systems and software.",
+                    "enhancements": [
+                        "SI-2(1)",
+                        "SI-2(2)",
+                        "SI-2(3)",
+                        "SI-2(4)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

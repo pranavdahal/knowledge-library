@@ -1,0 +1,987 @@
+{
+  "Governance and Risk Management": {
+    "description": "Encompasses the oversight, direction, and control of information security activities, including risk identification, assessment, and mitigation strategies.",
+    "keywords": [
+      "governance",
+      "risk",
+      "compliance",
+      "strategy",
+      "oversight",
+      "framework",
+      "leadership"
+    ],
+    "subcategories": [
+      {
+        "name": "Risk Management",
+        "description": "Processes to identify, assess, prioritize, and address security risks to the organization.",
+        "keywords": [
+          "risk assessment",
+          "risk treatment",
+          "risk register",
+          "risk appetite",
+          "risk tolerance"
+        ]
+      },
+      {
+        "name": "Audit Assurance",
+        "description": "Activities for providing independent verification of security controls and compliance status.",
+        "keywords": [
+          "internal audit",
+          "external audit",
+          "evidence collection",
+          "attestation",
+          "assurance reporting"
+        ]
+      },
+      {
+        "name": "ESG (Environmental, Social, and Governance)",
+        "description": "Framework addressing sustainability, social responsibility, and ethical governance concerns.",
+        "keywords": [
+          "sustainability",
+          "corporate responsibility",
+          "ethical governance",
+          "social impact",
+          "environmental controls"
+        ]
+      },
+      {
+        "name": "Organizational Security Structure",
+        "description": "Formal structure defining security roles, responsibilities, and reporting relationships.",
+        "keywords": [
+          "security organization",
+          "CISO",
+          "security committee",
+          "roles and responsibilities",
+          "accountability"
+        ]
+      }
+    ]
+  },
+  "Policy Management": {
+    "description": "Development, implementation, and maintenance of security policies, standards, and procedures.",
+    "keywords": [
+      "policy",
+      "standard",
+      "procedure",
+      "guideline",
+      "documentation",
+      "compliance"
+    ],
+    "subcategories": [
+      {
+        "name": "Acceptable Use Policy",
+        "description": "Guidelines for appropriate use of information systems and assets by employees and users.",
+        "keywords": [
+          "acceptable use",
+          "user behavior",
+          "proper usage",
+          "prohibited activities",
+          "system usage"
+        ]
+      },
+      {
+        "name": "Security Policies",
+        "description": "Formal statements of rules and guidelines for protecting information assets.",
+        "keywords": [
+          "information security policy",
+          "policy framework",
+          "security directives",
+          "policy enforcement",
+          "policy review"
+        ]
+      },
+      {
+        "name": "Legal and Compliance Requirements",
+        "description": "Addresses legal obligations, regulatory requirements, and contractual commitments.",
+        "keywords": [
+          "regulatory compliance",
+          "legal obligations",
+          "contractual requirements",
+          "statutory requirements",
+          "compliance program"
+        ]
+      }
+    ]
+  },
+  "Identity and Access Management": {
+    "description": "Processes and technologies to ensure appropriate access to resources by managing digital identities and entitlements.",
+    "keywords": [
+      "IAM",
+      "access control",
+      "authentication",
+      "authorization",
+      "identity",
+      "privileges"
+    ],
+    "subcategories": [
+      {
+        "name": "Access Control",
+        "description": "Mechanisms to regulate who can view or use resources in a computing environment.",
+        "keywords": [
+          "access rights",
+          "permissions",
+          "role-based access",
+          "least privilege",
+          "segregation of duties"
+        ]
+      },
+      {
+        "name": "Password Policy and Authentication Procedures",
+        "description": "Standards for credential management and verification of user identities.",
+        "keywords": [
+          "password complexity",
+          "MFA",
+          "authentication factors",
+          "password rotation",
+          "identity verification"
+        ]
+      },
+      {
+        "name": "Privileged Access Management",
+        "description": "Controls for managing and securing elevated access rights to critical systems.",
+        "keywords": [
+          "privileged accounts",
+          "admin access",
+          "superuser",
+          "elevated privileges",
+          "just-in-time access"
+        ]
+      },
+      {
+        "name": "Session Management",
+        "description": "Processes to secure user sessions and prevent unauthorized access through session hijacking.",
+        "keywords": [
+          "session timeout",
+          "session tokens",
+          "session encryption",
+          "concurrent sessions",
+          "session validation"
+        ]
+      }
+    ]
+  },
+  "Human Resources Security": {
+    "description": "Security practices related to employees throughout their employment lifecycle, from hiring to termination.",
+    "keywords": [
+      "personnel",
+      "employees",
+      "training",
+      "awareness",
+      "hiring",
+      "termination"
+    ],
+    "subcategories": [
+      {
+        "name": "Security Awareness and Training",
+        "description": "Programs to educate staff about security threats and their responsibilities.",
+        "keywords": [
+          "security training",
+          "awareness program",
+          "phishing simulations",
+          "security culture",
+          "user education"
+        ]
+      },
+      {
+        "name": "Personnel Security",
+        "description": "Processes to ensure employees meet security requirements throughout employment.",
+        "keywords": [
+          "background checks",
+          "security clearance",
+          "non-disclosure agreements",
+          "personnel screening",
+          "security vetting"
+        ]
+      },
+      {
+        "name": "HR Security Practices",
+        "description": "Security measures during hiring, employment changes, and termination processes.",
+        "keywords": [
+          "onboarding",
+          "offboarding",
+          "role changes",
+          "disciplinary process",
+          "exit interviews"
+        ]
+      }
+    ]
+  },
+  "Asset Management": {
+    "description": "Processes for identifying, tracking, and protecting information assets throughout their lifecycle.",
+    "keywords": [
+      "assets",
+      "inventory",
+      "ownership",
+      "classification",
+      "lifecycle",
+      "media"
+    ],
+    "subcategories": [
+      {
+        "name": "Asset Inventory and Classification",
+        "description": "Identifying, documenting, and categorizing information assets based on value and sensitivity.",
+        "keywords": [
+          "asset register",
+          "information classification",
+          "data inventory",
+          "asset tagging",
+          "sensitivity labeling"
+        ]
+      },
+      {
+        "name": "Media Management",
+        "description": "Controls for handling physical and electronic media containing sensitive information.",
+        "keywords": [
+          "media sanitization",
+          "secure disposal",
+          "media handling",
+          "media transfer",
+          "removable media"
+        ]
+      },
+      {
+        "name": "Asset Lifecycle Management",
+        "description": "Processes for managing assets from acquisition through retirement and disposal.",
+        "keywords": [
+          "asset procurement",
+          "asset maintenance",
+          "end-of-life",
+          "secure disposal",
+          "asset retirement"
+        ]
+      }
+    ]
+  },
+  "Data Governance": {
+    "description": "Framework for managing data assets to ensure availability, usability, integrity, and security.",
+    "keywords": [
+      "data",
+      "information",
+      "classification",
+      "privacy",
+      "retention",
+      "protection"
+    ],
+    "subcategories": [
+      {
+        "name": "Data Governance and Classification",
+        "description": "Framework for defining data ownership, access rights, and sensitivity levels.",
+        "keywords": [
+          "data stewardship",
+          "data ownership",
+          "information taxonomy",
+          "data catalog",
+          "classification scheme"
+        ]
+      },
+      {
+        "name": "Data Retention and Deletion",
+        "description": "Policies governing how long information is kept and procedures for secure disposal.",
+        "keywords": [
+          "retention schedule",
+          "data disposal",
+          "secure deletion",
+          "data archiving",
+          "information lifecycle"
+        ]
+      },
+      {
+        "name": "Data Security",
+        "description": "Measures to protect data confidentiality, integrity, and availability.",
+        "keywords": [
+          "data protection",
+          "DLP",
+          "database security",
+          "data masking",
+          "information security"
+        ]
+      },
+      {
+        "name": "Privacy and Compliance",
+        "description": "Controls to ensure adherence to privacy regulations and protection of personal information.",
+        "keywords": [
+          "GDPR",
+          "CCPA",
+          "privacy impact assessment",
+          "data subject rights",
+          "consent management"
+        ]
+      }
+    ]
+  },
+  "Encryption and Key Management": {
+    "description": "Implementation and management of cryptographic solutions to protect information confidentiality and integrity.",
+    "keywords": [
+      "cryptography",
+      "encryption",
+      "keys",
+      "certificates",
+      "PKI",
+      "hashing"
+    ],
+    "subcategories": [
+      {
+        "name": "Cryptographic Controls",
+        "description": "Implementation of encryption algorithms and protocols to protect information.",
+        "keywords": [
+          "encryption algorithms",
+          "cryptographic protocols",
+          "hash functions",
+          "digital signatures",
+          "TLS/SSL"
+        ]
+      },
+      {
+        "name": "Key Management",
+        "description": "Processes for generating, storing, protecting, and rotating cryptographic keys.",
+        "keywords": [
+          "key rotation",
+          "key storage",
+          "key generation",
+          "key recovery",
+          "key escrow"
+        ]
+      },
+      {
+        "name": "Certificate Management",
+        "description": "Administration of digital certificates throughout their lifecycle.",
+        "keywords": [
+          "PKI",
+          "certificate authority",
+          "certificate validation",
+          "certificate revocation",
+          "SSL/TLS certificates"
+        ]
+      }
+    ]
+  },
+  "Network Security": {
+    "description": "Protection of network infrastructure and data transmission from unauthorized access and attacks.",
+    "keywords": [
+      "network",
+      "perimeter",
+      "firewall",
+      "segmentation",
+      "traffic",
+      "DMZ"
+    ],
+    "subcategories": [
+      {
+        "name": "Network Architecture",
+        "description": "Design of network components and topology with security considerations.",
+        "keywords": [
+          "network segmentation",
+          "defense in depth",
+          "network design",
+          "network topology",
+          "secure architecture"
+        ]
+      },
+      {
+        "name": "Network Controls",
+        "description": "Technologies and processes to monitor, filter, and secure network traffic.",
+        "keywords": [
+          "firewalls",
+          "IDS/IPS",
+          "network monitoring",
+          "traffic analysis",
+          "network access control"
+        ]
+      },
+      {
+        "name": "Wireless Security",
+        "description": "Protections for wireless network infrastructure and communications.",
+        "keywords": [
+          "WiFi security",
+          "WPA",
+          "wireless encryption",
+          "rogue access points",
+          "wireless scanning"
+        ]
+      },
+      {
+        "name": "Perimeter Security",
+        "description": "Defenses at network boundaries to prevent unauthorized access.",
+        "keywords": [
+          "DMZ",
+          "border protection",
+          "gateway security",
+          "perimeter defenses",
+          "edge security"
+        ]
+      }
+    ]
+  },
+  "Endpoint Security": {
+    "description": "Protection of end-user devices such as laptops, desktops, mobile devices, and servers from threats.",
+    "keywords": [
+      "endpoint",
+      "device",
+      "malware",
+      "antivirus",
+      "patch",
+      "mobile"
+    ],
+    "subcategories": [
+      {
+        "name": "Anti-virus and Malware Control",
+        "description": "Tools and processes to prevent, detect, and remove malicious software.",
+        "keywords": [
+          "malware protection",
+          "antivirus",
+          "endpoint protection",
+          "malware scanning",
+          "virus definitions"
+        ]
+      },
+      {
+        "name": "Mobile Device Security",
+        "description": "Controls to secure smartphones, tablets, and other portable computing devices.",
+        "keywords": [
+          "MDM",
+          "BYOD",
+          "mobile app security",
+          "containerization",
+          "remote wipe"
+        ]
+      },
+      {
+        "name": "Server Security",
+        "description": "Hardening and protection measures for server infrastructure.",
+        "keywords": [
+          "server hardening",
+          "server configuration",
+          "OS security",
+          "baseline configuration",
+          "security updates"
+        ]
+      },
+      {
+        "name": "Patch Management",
+        "description": "Processes for identifying, testing, and applying software updates and security patches.",
+        "keywords": [
+          "security patches",
+          "software updates",
+          "vulnerability remediation",
+          "patch deployment",
+          "patch testing"
+        ]
+      }
+    ]
+  },
+  "Application Security": {
+    "description": "Practices to improve software security throughout the development lifecycle and in production.",
+    "keywords": [
+      "applications",
+      "software",
+      "SDLC",
+      "secure coding",
+      "APIs",
+      "development"
+    ],
+    "subcategories": [
+      {
+        "name": "Application Design and Development",
+        "description": "Security practices integrated into application design and development processes.",
+        "keywords": [
+          "secure design",
+          "secure coding",
+          "code review",
+          "threat modeling",
+          "security requirements"
+        ]
+      },
+      {
+        "name": "Software Development Life Cycle",
+        "description": "Security activities throughout the software development process.",
+        "keywords": [
+          "secure SDLC",
+          "security testing",
+          "security gates",
+          "development security",
+          "DevSecOps"
+        ]
+      },
+      {
+        "name": "API Security",
+        "description": "Controls to protect application programming interfaces from attacks and misuse.",
+        "keywords": [
+          "API authentication",
+          "API authorization",
+          "rate limiting",
+          "input validation",
+          "API gateway"
+        ]
+      },
+      {
+        "name": "Artificial Intelligence Security",
+        "description": "Security measures for AI systems including machine learning models and algorithms.",
+        "keywords": [
+          "AI ethics",
+          "ML security",
+          "data poisoning",
+          "model security",
+          "algorithmic bias"
+        ]
+      }
+    ]
+  },
+  "Vulnerability and Threat Management": {
+    "description": "Processes to identify, assess, prioritize, and remediate security vulnerabilities and threats.",
+    "keywords": [
+      "vulnerability",
+      "threat",
+      "scanning",
+      "penetration testing",
+      "remediation",
+      "exploits"
+    ],
+    "subcategories": [
+      {
+        "name": "Vulnerability Assessment",
+        "description": "Systematic evaluation of security weaknesses in systems and applications.",
+        "keywords": [
+          "vulnerability scanning",
+          "security assessment",
+          "vulnerability identification",
+          "vulnerability database",
+          "security testing"
+        ]
+      },
+      {
+        "name": "Penetration Testing",
+        "description": "Authorized simulated attacks to identify exploitable security weaknesses.",
+        "keywords": [
+          "ethical hacking",
+          "security testing",
+          "red team",
+          "exploitation",
+          "security assessment"
+        ]
+      },
+      {
+        "name": "Threat Intelligence",
+        "description": "Collection and analysis of information about potential and current threats.",
+        "keywords": [
+          "threat feeds",
+          "intelligence sharing",
+          "threat actors",
+          "IOCs",
+          "threat analysis"
+        ]
+      },
+      {
+        "name": "Remediation Management",
+        "description": "Processes for addressing and resolving identified security vulnerabilities.",
+        "keywords": [
+          "vulnerability remediation",
+          "patching",
+          "risk acceptance",
+          "mitigation plans",
+          "fix verification"
+        ]
+      }
+    ]
+  },
+  "Logging, Monitoring and Security Operations": {
+    "description": "Continuous surveillance of systems and network activities to detect and respond to security events.",
+    "keywords": [
+      "logs",
+      "monitoring",
+      "SIEM",
+      "alerts",
+      "detection",
+      "surveillance",
+      "SOC"
+    ],
+    "subcategories": [
+      {
+        "name": "Security Event Monitoring",
+        "description": "Real-time observation of security-relevant activities and events.",
+        "keywords": [
+          "SIEM",
+          "security alerts",
+          "event correlation",
+          "security dashboards",
+          "real-time monitoring"
+        ]
+      },
+      {
+        "name": "Audit Trails",
+        "description": "Chronological records of system activities for reconstruction, review, and examination.",
+        "keywords": [
+          "log management",
+          "audit logging",
+          "log retention",
+          "log integrity",
+          "event logs"
+        ]
+      },
+      {
+        "name": "Security Analytics",
+        "description": "Advanced analysis of security data to identify patterns, anomalies, and potential threats.",
+        "keywords": [
+          "behavioral analytics",
+          "anomaly detection",
+          "security metrics",
+          "trend analysis",
+          "predictive security"
+        ]
+      },
+      {
+        "name": "Security Operations Center",
+        "description": "Centralized function for continuous security monitoring and incident response.",
+        "keywords": [
+          "SOC",
+          "security operations",
+          "24x7 monitoring",
+          "incident triage",
+          "alert management"
+        ]
+      }
+    ]
+  },
+  "Incident Management": {
+    "description": "Processes to identify, respond to, and recover from security incidents while minimizing impact.",
+    "keywords": [
+      "incident",
+      "response",
+      "breach",
+      "investigation",
+      "forensics",
+      "recovery"
+    ],
+    "subcategories": [
+      {
+        "name": "Incident Response",
+        "description": "Organized approach to addressing and managing the aftermath of security breaches.",
+        "keywords": [
+          "incident response plan",
+          "containment",
+          "eradication",
+          "recovery",
+          "response team"
+        ]
+      },
+      {
+        "name": "Incident Investigation",
+        "description": "Examination of security incidents to determine cause, scope, and impact.",
+        "keywords": [
+          "digital forensics",
+          "root cause analysis",
+          "evidence collection",
+          "chain of custody",
+          "forensic analysis"
+        ]
+      },
+      {
+        "name": "Incident Reporting",
+        "description": "Documentation and communication of security incidents to stakeholders.",
+        "keywords": [
+          "breach notification",
+          "regulatory reporting",
+          "incident documentation",
+          "disclosure requirements",
+          "stakeholder communication"
+        ]
+      },
+      {
+        "name": "Lessons Learned",
+        "description": "Post-incident analysis to improve security posture and incident response capabilities.",
+        "keywords": [
+          "post-mortem",
+          "incident review",
+          "process improvement",
+          "corrective actions",
+          "preventative measures"
+        ]
+      }
+    ]
+  },
+  "Change and Configuration Management": {
+    "description": "Controls to ensure secure and controlled modifications to IT systems and configurations.",
+    "keywords": [
+      "change control",
+      "configuration",
+      "baseline",
+      "release",
+      "change approval",
+      "versioning"
+    ],
+    "subcategories": [
+      {
+        "name": "Change Control",
+        "description": "Processes for requesting, approving, implementing, and reviewing changes to IT systems.",
+        "keywords": [
+          "change request",
+          "change approval",
+          "change review",
+          "rollback plan",
+          "change implementation"
+        ]
+      },
+      {
+        "name": "Configuration Management",
+        "description": "Maintaining consistent system configurations and tracking changes to configurations.",
+        "keywords": [
+          "configuration items",
+          "baseline configuration",
+          "configuration control",
+          "version control",
+          "configuration audit"
+        ]
+      },
+      {
+        "name": "Release Management",
+        "description": "Planning, scheduling, and controlling the deployment of software releases.",
+        "keywords": [
+          "release planning",
+          "release testing",
+          "deployment management",
+          "release schedule",
+          "deployment automation"
+        ]
+      },
+      {
+        "name": "System Hardening",
+        "description": "Process of securing systems by reducing attack surface and eliminating vulnerabilities.",
+        "keywords": [
+          "security baseline",
+          "secure configuration",
+          "hardening standards",
+          "default settings",
+          "security benchmarks"
+        ]
+      }
+    ]
+  },
+  "Business Continuity and Disaster Recovery": {
+    "description": "Planning and preparations to ensure business operations can continue during and after disruptions.",
+    "keywords": [
+      "continuity",
+      "recovery",
+      "resilience",
+      "backup",
+      "disaster",
+      "BCP",
+      "DRP"
+    ],
+    "subcategories": [
+      {
+        "name": "Business Impact Analysis",
+        "description": "Assessment of potential effects of disruptions on business operations.",
+        "keywords": [
+          "impact assessment",
+          "critical functions",
+          "recovery priorities",
+          "maximum tolerable downtime",
+          "recovery objectives"
+        ]
+      },
+      {
+        "name": "Continuity Planning",
+        "description": "Development of strategies to maintain business operations during disruptions.",
+        "keywords": [
+          "business continuity plan",
+          "continuity strategy",
+          "emergency response",
+          "crisis management",
+          "alternate processing"
+        ]
+      },
+      {
+        "name": "Backup Policy and Procedures",
+        "description": "Standards and processes for creating and managing data backups.",
+        "keywords": [
+          "backup schedule",
+          "backup verification",
+          "offsite storage",
+          "backup encryption",
+          "recovery testing"
+        ]
+      },
+      {
+        "name": "Disaster Recovery Testing",
+        "description": "Validation of recovery capabilities through simulated disaster scenarios.",
+        "keywords": [
+          "recovery drills",
+          "tabletop exercises",
+          "recovery testing",
+          "failover testing",
+          "simulation exercises"
+        ]
+      }
+    ]
+  },
+  "Physical and Environmental Security": {
+    "description": "Protection of physical assets, facilities, and supporting infrastructure from physical threats.",
+    "keywords": [
+      "physical",
+      "facility",
+      "environmental",
+      "physical access",
+      "premises",
+      "CCTV"
+    ],
+    "subcategories": [
+      {
+        "name": "Facility Security",
+        "description": "Measures to secure physical premises against unauthorized access and threats.",
+        "keywords": [
+          "physical barriers",
+          "security guards",
+          "perimeter security",
+          "visitor management",
+          "building security"
+        ]
+      },
+      {
+        "name": "Environmental Controls",
+        "description": "Systems to maintain appropriate environmental conditions for equipment operation.",
+        "keywords": [
+          "temperature control",
+          "humidity control",
+          "fire suppression",
+          "water detection",
+          "power management"
+        ]
+      },
+      {
+        "name": "Physical Access Management",
+        "description": "Controls governing entry to facilities and secured areas.",
+        "keywords": [
+          "access cards",
+          "biometric access",
+          "physical access logs",
+          "mantrap",
+          "security zones"
+        ]
+      },
+      {
+        "name": "Equipment Security",
+        "description": "Protection of hardware assets from theft, damage, or tampering.",
+        "keywords": [
+          "equipment protection",
+          "cabling security",
+          "asset tracking",
+          "equipment maintenance",
+          "secure disposal"
+        ]
+      }
+    ]
+  },
+  "Third-Party Management": {
+    "description": "Oversight of external service providers, vendors, and supply chain to manage security risks.",
+    "keywords": [
+      "vendor",
+      "supplier",
+      "third-party",
+      "outsourcing",
+      "service provider",
+      "supply chain"
+    ],
+    "subcategories": [
+      {
+        "name": "Supply Chain/Vendor Management",
+        "description": "Processes for managing security risks associated with suppliers and vendors.",
+        "keywords": [
+          "vendor risk",
+          "supply chain security",
+          "vendor contracts",
+          "vendor monitoring",
+          "supply chain resilience"
+        ]
+      },
+      {
+        "name": "Vendor Assessment",
+        "description": "Evaluation of third-party security practices and compliance with requirements.",
+        "keywords": [
+          "vendor questionnaire",
+          "security assessment",
+          "vendor due diligence",
+          "vendor compliance",
+          "third-party audit"
+        ]
+      },
+      {
+        "name": "Cloud Service Providers",
+        "description": "Security considerations specific to cloud computing environments and providers.",
+        "keywords": [
+          "cloud security",
+          "CSP controls",
+          "shared responsibility",
+          "cloud compliance",
+          "cloud configurations"
+        ]
+      },
+      {
+        "name": "Hosting Security",
+        "description": "Security measures for environments where systems and applications are hosted.",
+        "keywords": [
+          "data center security",
+          "hosted services",
+          "colocation security",
+          "hosting provider",
+          "managed hosting"
+        ]
+      }
+    ]
+  },
+  "System Integration and Interoperability": {
+    "description": "Security aspects of connecting and enabling communication between different systems and applications.",
+    "keywords": [
+      "integration",
+      "interoperability",
+      "interfaces",
+      "API",
+      "data exchange",
+      "compatibility"
+    ],
+    "subcategories": [
+      {
+        "name": "Integration Security",
+        "description": "Security controls for connecting disparate systems and applications.",
+        "keywords": [
+          "secure integration",
+          "integration architecture",
+          "secure connectors",
+          "integration testing",
+          "secure data exchange"
+        ]
+      },
+      {
+        "name": "Interoperability and Portability",
+        "description": "Standards and practices enabling secure data exchange between different systems.",
+        "keywords": [
+          "data portability",
+          "system compatibility",
+          "standards compliance",
+          "data formats",
+          "migration security"
+        ]
+      },
+      {
+        "name": "API Integration Management",
+        "description": "Governance and security of application programming interface integrations.",
+        "keywords": [
+          "API management",
+          "API governance",
+          "API inventory",
+          "API lifecycle",
+          "integration patterns"
+        ]
+      },
+      {
+        "name": "System Interfaces",
+        "description": "Security of connections and data exchange points between systems.",
+        "keywords": [
+          "interface security",
+          "data mapping",
+          "interface monitoring",
+          "secure data transfer",
+          "middleware security"
+        ]
+      }
+    ]
+  }
+}

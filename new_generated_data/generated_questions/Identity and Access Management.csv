@@ -1,0 +1,203 @@
+question,category,subcategory
+"Does the organization have a documented access control policy that defines the principles and procedures for granting, managing, and revoking access rights?",Identity and Access Management,Access Control
+"Is access to information assets restricted based on the principle of least privilege, granting users only the access necessary to perform their job functions?",Identity and Access Management,Access Control
+"Are access control lists (ACLs) or similar mechanisms implemented to enforce access restrictions on systems, applications, and data?",Identity and Access Management,Access Control
+"Is there a formal process for requesting, approving, and granting access to systems and data, including documented approval workflows?",Identity and Access Management,Access Control
+"Are user access rights reviewed and recertified periodically (e.g., quarterly, annually) to ensure they remain appropriate and aligned with job roles?",Identity and Access Management,Access Control
+Is there a process in place to promptly revoke or modify access rights when an employee's role changes or upon termination of employment?,Identity and Access Management,Access Control
+"Are strong authentication methods (e.g., multi-factor authentication) required for accessing sensitive systems and data?",Identity and Access Management,Access Control
+"Are password policies enforced, including requirements for password complexity, minimum length, and regular password changes?",Identity and Access Management,Access Control
+"Is there a process to manage privileged access rights, such as those granted to system administrators or database administrators?",Identity and Access Management,Access Control
+Are privileged accounts subject to stricter access controls and monitoring than regular user accounts?,Identity and Access Management,Access Control
+"Is the use of shared accounts discouraged, and are individual accounts required for each user to ensure accountability?",Identity and Access Management,Access Control
+Are default passwords changed immediately upon system installation and configuration?,Identity and Access Management,Access Control
+Is access to systems and data logged and monitored to detect unauthorized access attempts or suspicious activity?,Identity and Access Management,Access Control
+Are audit logs regularly reviewed to identify and investigate potential security incidents?,Identity and Access Management,Access Control
+"Is there a process to manage access to cloud-based resources and applications, ensuring appropriate access controls are in place?",Identity and Access Management,Access Control
+Are role-based access control (RBAC) principles implemented to simplify access management and reduce the risk of errors?,Identity and Access Management,Access Control
+Is segregation of duties enforced to prevent any single individual from having excessive control over critical processes or systems?,Identity and Access Management,Access Control
+"Are physical access controls in place to restrict access to data centers, server rooms, and other sensitive areas?",Identity and Access Management,Access Control
+Are visitors to secure areas required to sign in and be escorted by authorized personnel?,Identity and Access Management,Access Control
+Is there a process to manage access for third-party vendors or contractors who require access to the organization's systems or data?,Identity and Access Management,Access Control
+Are third-party access rights reviewed and revoked promptly upon completion of their engagement?,Identity and Access Management,Access Control
+Is access control integrated with identity management systems to streamline user provisioning and deprovisioning?,Identity and Access Management,Access Control
+Are access control policies and procedures regularly reviewed and updated to reflect changes in the organization's business requirements and threat landscape?,Identity and Access Management,Access Control
+Does the organization conduct regular security audits and penetration tests to assess the effectiveness of access control measures?,Identity and Access Management,Access Control
+Are vulnerabilities related to access control promptly remediated based on their risk level?,Identity and Access Management,Access Control
+Are users provided with security awareness training on access control policies and procedures?,Identity and Access Management,Access Control
+Is there a formal incident response plan that addresses security incidents related to unauthorized access?,Identity and Access Management,Access Control
+Are access controls tested during system development and deployment to ensure they function as intended?,Identity and Access Management,Access Control
+Is there a process for managing access to sensitive data based on data classification levels?,Identity and Access Management,Access Control
+Are data loss prevention (DLP) measures implemented to prevent unauthorized data exfiltration?,Identity and Access Management,Access Control
+Are access controls in place to prevent unauthorized modification or deletion of data?,Identity and Access Management,Access Control
+Does the organization use multi-factor authentication (MFA) for remote access to the network?,Identity and Access Management,Access Control
+Is there a documented process for managing emergency access to systems and data?,Identity and Access Management,Access Control
+"Are access control mechanisms aligned with relevant regulatory requirements and industry standards (e.g., ISO 27001, NIST SP 800-53)?",Identity and Access Management,Access Control
+Is there a process to ensure that users understand their responsibilities regarding access control?,Identity and Access Management,Access Control
+Does the organization use access control tools to automate access management tasks?,Identity and Access Management,Access Control
+Is there a process for managing access to sensitive information held by third-party service providers?,Identity and Access Management,Access Control
+Are service accounts managed and secured with appropriate access controls?,Identity and Access Management,Access Control
+Is the principle of separation of duties applied to sensitive roles and responsibilities?,Identity and Access Management,Access Control
+"Are access rights based on temporary, need-based access when appropriate?",Identity and Access Management,Access Control
+Is there a procedure to validate and approve access rule changes prior to implementation?,Identity and Access Management,Access Control
+"Are conditional access policies implemented based on location, device or user behavior?",Identity and Access Management,Access Control
+Is the guest wifi access separate from the corporate network?,Identity and Access Management,Access Control
+Is there a policy to require secure disposal or sanitization of devices when their lifecycle has ended?,Identity and Access Management,Access Control
+Is there a process for tracking user access to critical resources?,Identity and Access Management,Access Control
+Is there a documented procedure for reviewing and updating access control configurations?,Identity and Access Management,Access Control
+Are all users required to accept a policy that address secure remote access?,Identity and Access Management,Access Control
+Is the process of providing access rights regularly audited to ensure compliance?,Identity and Access Management,Access Control
+Are alerts generated for failed authentication attempts?,Identity and Access Management,Access Control
+Does the organization have a documented password policy that is reviewed and updated at least annually?,Identity and Access Management,Password Policy and Authentication Procedures
+"Does the password policy enforce a minimum password length (e.g., 12 characters or greater)?",Identity and Access Management,Password Policy and Authentication Procedures
+"Does the password policy require the use of a combination of uppercase and lowercase letters, numbers, and special characters?",Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization prohibit the reuse of previous passwords?,Identity and Access Management,Password Policy and Authentication Procedures
+"Is there a mechanism in place to prevent users from choosing easily guessable passwords (e.g., dictionary words, personal information)?",Identity and Access Management,Password Policy and Authentication Procedures
+"Does the organization enforce regular password changes (e.g., every 90 days or less)?",Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization require users to change default passwords upon initial login?,Identity and Access Management,Password Policy and Authentication Procedures
+"Are passwords stored using a strong cryptographic hashing algorithm (e.g., bcrypt, Argon2)?",Identity and Access Management,Password Policy and Authentication Procedures
+Is Multi-Factor Authentication (MFA) required for all users accessing sensitive systems and data?,Identity and Access Management,Password Policy and Authentication Procedures
+"What MFA methods are supported by the organization (e.g., TOTP, SMS, hardware tokens, biometrics)?",Identity and Access Management,Password Policy and Authentication Procedures
+"Is MFA enforced for privileged accounts (e.g., administrators, root users)?",Identity and Access Management,Password Policy and Authentication Procedures
+Is there a process for managing and revoking MFA factors when users leave the organization or their devices are compromised?,Identity and Access Management,Password Policy and Authentication Procedures
+Are password managers permitted or encouraged for users to securely store and manage their passwords?,Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization provide training and awareness programs to educate users about password security best practices?,Identity and Access Management,Password Policy and Authentication Procedures
+Are users prohibited from sharing their passwords with others?,Identity and Access Management,Password Policy and Authentication Procedures
+"Are users prohibited from writing down or storing passwords in insecure locations (e.g., sticky notes, plain text files)?",Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization have a process for securely resetting passwords when users forget them?,Identity and Access Management,Password Policy and Authentication Procedures
+Is the password reset process protected against unauthorized access and account takeover attempts?,Identity and Access Management,Password Policy and Authentication Procedures
+Are failed login attempts monitored and logged to detect potential brute-force attacks?,Identity and Access Management,Password Policy and Authentication Procedures
+Is account lockout enforced after a certain number of failed login attempts?,Identity and Access Management,Password Policy and Authentication Procedures
+"Does the organization use a centralized authentication system (e.g., Active Directory, LDAP) to manage user accounts and passwords?",Identity and Access Management,Password Policy and Authentication Procedures
+Are privileged accounts managed separately from regular user accounts?,Identity and Access Management,Password Policy and Authentication Procedures
+Is the principle of least privilege applied to access rights and permissions?,Identity and Access Management,Password Policy and Authentication Procedures
+"Are access rights reviewed and recertified on a regular basis (e.g., every 6 months or annually)?",Identity and Access Management,Password Policy and Authentication Procedures
+Is there a process for promptly disabling or removing user accounts when employees leave the organization or change roles?,Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization have a policy regarding the use of personal devices for accessing company resources?,Identity and Access Management,Password Policy and Authentication Procedures
+"If personal devices are allowed, are they required to meet certain security requirements (e.g., password protection, encryption, antivirus software)?",Identity and Access Management,Password Policy and Authentication Procedures
+"Is biometric authentication (e.g., fingerprint scanning, facial recognition) used as an authentication factor?",Identity and Access Management,Password Policy and Authentication Procedures
+Are biometric authentication methods securely implemented and protected against spoofing?,Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization use adaptive authentication techniques to dynamically adjust authentication requirements based on risk factors?,Identity and Access Management,Password Policy and Authentication Procedures
+"Is the organization compliant with relevant industry standards and regulations related to password policy and authentication procedures (e.g., NIST, ISO 27001, PCI DSS)?",Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization perform regular audits and penetration tests to assess the effectiveness of its password policy and authentication procedures?,Identity and Access Management,Password Policy and Authentication Procedures
+Is the organization's password policy readily accessible to all employees?,Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization use role-based access control (RBAC) to manage user permissions?,Identity and Access Management,Password Policy and Authentication Procedures
+Is there a formal onboarding and offboarding process that includes access control considerations?,Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization have a process for managing service accounts and application credentials?,Identity and Access Management,Password Policy and Authentication Procedures
+Are service accounts subject to the same password policy requirements as user accounts?,Identity and Access Management,Password Policy and Authentication Procedures
+Are there controls in place to prevent lateral movement within the network after a successful authentication?,Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization use session timeout mechanisms to automatically log users out after a period of inactivity?,Identity and Access Management,Password Policy and Authentication Procedures
+Is session hijacking protection implemented to prevent unauthorized access to active user sessions?,Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization monitor for unusual or suspicious login activity?,Identity and Access Management,Password Policy and Authentication Procedures
+"Is there a documented incident response plan for password-related security incidents (e.g., compromised accounts, password breaches)?",Identity and Access Management,Password Policy and Authentication Procedures
+Does the organization provide secure password reset methods like security questions or email verification?,Identity and Access Management,Password Policy and Authentication Procedures
+Are password recovery mechanisms tested regularly to ensure functionality and security?,Identity and Access Management,Password Policy and Authentication Procedures
+Are strong session management controls enforced to prevent unauthorized session reuse?,Identity and Access Management,Password Policy and Authentication Procedures
+Are authentication protocols regularly reviewed and updated to address known vulnerabilities?,Identity and Access Management,Password Policy and Authentication Procedures
+Is there a formal exception process for users unable to comply with certain password policy requirements?,Identity and Access Management,Password Policy and Authentication Procedures
+Is there a dedicated team or individual responsible for managing the organization's password policy and authentication infrastructure?,Identity and Access Management,Password Policy and Authentication Procedures
+Is there a security awareness program that includes instructions on avoiding phishing attacks related to passwords?,Identity and Access Management,Password Policy and Authentication Procedures
+"Is MFA bypass allowed? If so, under what circumstances and with what compensating controls?",Identity and Access Management,Password Policy and Authentication Procedures
+What is the process for reporting suspected password compromises and other security incidents?,Identity and Access Management,Password Policy and Authentication Procedures
+How is access to legacy systems with weak authentication protocols managed?,Identity and Access Management,Password Policy and Authentication Procedures
+"Does the organization have a documented policy defining the use and management of privileged accounts (ISO 27001, A.9.2.6)?",Identity and Access Management,Privileged Access Management
+Are privileged access rights granted based on the principle of least privilege and business need (NIST 800-53 AC-6)?,Identity and Access Management,Privileged Access Management
+"Are privileged user accounts subject to multi-factor authentication (MFA) for all access, including local and remote (CIS Control 6.1)?",Identity and Access Management,Privileged Access Management
+"Is there a centralized vault or system for managing privileged credentials, including passwords and SSH keys?",Identity and Access Management,Privileged Access Management
+Are privileged sessions monitored and recorded for audit purposes (NIST 800-53 AU-12)?,Identity and Access Management,Privileged Access Management
+"Is there a defined process for regularly reviewing and recertifying privileged access rights (ISO 27001, A.9.2.6)?",Identity and Access Management,Privileged Access Management
+Are generic or shared privileged accounts prohibited; is each privileged user assigned a unique account?,Identity and Access Management,Privileged Access Management
+Is there a process to automatically disable or remove privileged access when an employee changes roles or is terminated?,Identity and Access Management,Privileged Access Management
+Does the organization utilize a privileged access management (PAM) solution to manage and control privileged access?,Identity and Access Management,Privileged Access Management
+Is the PAM solution's configuration regularly reviewed and updated to ensure effectiveness?,Identity and Access Management,Privileged Access Management
+Are there specific controls in place to prevent privilege escalation attacks?,Identity and Access Management,Privileged Access Management
+Does the organization have a documented incident response plan that includes procedures for handling compromised privileged accounts?,Identity and Access Management,Privileged Access Management
+Are privileged user activities regularly audited to detect and respond to suspicious behavior (CIS Control 6.4)?,Identity and Access Management,Privileged Access Management
+Are there defined procedures for the secure storage and handling of privileged account passwords?,Identity and Access Management,Privileged Access Management
+Is there a process to regularly rotate privileged account passwords (NIST 800-53 IA-5)?,Identity and Access Management,Privileged Access Management
+Does the password policy enforce strong password requirements for privileged accounts?,Identity and Access Management,Privileged Access Management
+"Is there a formal process for requesting and approving privileged access (ISO 27001, A.9.1.2)?",Identity and Access Management,Privileged Access Management
+Are temporary or break-glass privileged accounts used only in exceptional circumstances and subject to heightened monitoring?,Identity and Access Management,Privileged Access Management
+Is access to the PAM solution itself restricted to a limited number of authorized personnel?,Identity and Access Management,Privileged Access Management
+Are there controls in place to prevent unauthorized access to the PAM system's audit logs?,Identity and Access Management,Privileged Access Management
+Are regular vulnerability scans performed on systems hosting the PAM solution?,Identity and Access Management,Privileged Access Management
+Are all privileged accounts and systems subject to regular vulnerability assessments?,Identity and Access Management,Privileged Access Management
+"Is there a documented process for managing the lifecycle of privileged accounts, from creation to termination?",Identity and Access Management,Privileged Access Management
+Are privileged access rights reviewed when systems or applications are upgraded or modified?,Identity and Access Management,Privileged Access Management
+Is there a process to ensure that privileged access rights are aligned with the principle of separation of duties?,Identity and Access Management,Privileged Access Management
+Are there controls to prevent privileged users from circumventing security controls?,Identity and Access Management,Privileged Access Management
+Is there a defined process for securely decommissioning privileged accounts and removing associated credentials?,Identity and Access Management,Privileged Access Management
+Are there mechanisms in place to detect and prevent the use of default passwords for privileged accounts?,Identity and Access Management,Privileged Access Management
+Is there a documented process for granting emergency access to systems using privileged credentials?,Identity and Access Management,Privileged Access Management
+Are privileged users required to complete security awareness training specific to privileged access management?,Identity and Access Management,Privileged Access Management
+"Does the security awareness training cover topics such as password hygiene, phishing awareness, and secure remote access practices?",Identity and Access Management,Privileged Access Management
+Are contractors and third-party vendors with privileged access subject to the same security controls and monitoring as internal employees?,Identity and Access Management,Privileged Access Management
+Is the organization able to generate reports on privileged access activity for compliance and audit purposes?,Identity and Access Management,Privileged Access Management
+Does the organization have a process for managing and securing SSH keys used for privileged access?,Identity and Access Management,Privileged Access Management
+Are SSH keys rotated regularly and stored securely?,Identity and Access Management,Privileged Access Management
+Is the organization able to detect and respond to unauthorized SSH key usage?,Identity and Access Management,Privileged Access Management
+Are privileged accounts used for automated tasks and scripts managed with the same level of security as interactive user accounts?,Identity and Access Management,Privileged Access Management
+Are service accounts granted only the minimum necessary privileges to perform their intended functions?,Identity and Access Management,Privileged Access Management
+Is the organization able to track the usage of service accounts and identify any anomalous activity?,Identity and Access Management,Privileged Access Management
+Is there a process to ensure that privileged accounts are not used for non-business-related activities?,Identity and Access Management,Privileged Access Management
+Are there technical controls in place to prevent privileged users from installing unauthorized software or making unauthorized configuration changes?,Identity and Access Management,Privileged Access Management
+Is there a process for conducting background checks on individuals who will be granted privileged access?,Identity and Access Management,Privileged Access Management
+Are privileged users required to sign confidentiality agreements and agree to adhere to the organization's security policies?,Identity and Access Management,Privileged Access Management
+Is there a process to ensure that privileged access rights are revoked when an employee goes on leave or is temporarily absent?,Identity and Access Management,Privileged Access Management
+Does the organization have a documented process for managing privileged access to cloud-based resources?,Identity and Access Management,Privileged Access Management
+Are there specific security controls in place to protect privileged accounts from cloud-specific threats?,Identity and Access Management,Privileged Access Management
+Is the organization able to monitor privileged access activity in the cloud environment?,Identity and Access Management,Privileged Access Management
+Does the organization have a process for regularly testing the effectiveness of its privileged access management controls?,Identity and Access Management,Privileged Access Management
+Are the results of these tests used to improve the organization's security posture?,Identity and Access Management,Privileged Access Management
+Is the organization's privileged access management program aligned with industry best practices and regulatory requirements?,Identity and Access Management,Privileged Access Management
+Is there a designated individual or team responsible for overseeing the privileged access management program?,Identity and Access Management,Privileged Access Management
+"Does the organization enforce session timeouts for all applications based on user inactivity, considering sensitivity of data accessed (ISO 27001 A.9.4.2)?",Identity and Access Management,Session Management
+Are session identifiers (session IDs) generated using cryptographically secure methods to prevent predictability and session hijacking (NIST SP 800-53 IA-5(12))?,Identity and Access Management,Session Management
+"Does the organization implement multi-factor authentication (MFA) for privileged sessions, including those used for administrative access (CIS Control 6.4)?",Identity and Access Management,Session Management
+Are session cookies configured with the 'Secure' attribute to ensure they are only transmitted over HTTPS?,Identity and Access Management,Session Management
+"Are session cookies configured with the 'HttpOnly' attribute to prevent access by client-side scripts, mitigating cross-site scripting (XSS) attacks?",Identity and Access Management,Session Management
+Does the organization monitor for concurrent sessions from the same user account to detect potential unauthorized access?,Identity and Access Management,Session Management
+Are users automatically logged out of sessions after a predefined period of inactivity in accordance to the sensitivity of data accessed?,Identity and Access Management,Session Management
+Does the organization have a process for invalidating active sessions when a user's employment is terminated or their role changes?,Identity and Access Management,Session Management
+"Are session management mechanisms regularly reviewed and tested for vulnerabilities, including session fixation and session hijacking?",Identity and Access Management,Session Management
+Does the organization use session tokens with sufficient entropy and length to prevent brute-force attacks?,Identity and Access Management,Session Management
+Are session tokens stored securely on both the client and server-side?,Identity and Access Management,Session Management
+Is there a mechanism in place to detect and prevent session replay attacks?,Identity and Access Management,Session Management
+"Are session logs regularly reviewed for suspicious activity, such as unusual access patterns or session hijacking attempts?",Identity and Access Management,Session Management
+"Does the organization implement controls to prevent session fixation attacks, such as regenerating session IDs upon successful login?",Identity and Access Management,Session Management
+Are error messages related to session management designed to avoid revealing sensitive information about the system's internal workings?,Identity and Access Management,Session Management
+Does the organization use a centralized session management system for web applications?,Identity and Access Management,Session Management
+Are session cookies configured with appropriate scope and domain attributes to prevent cross-site request forgery (CSRF) attacks?,Identity and Access Management,Session Management
+Does the organization employ a web application firewall (WAF) to protect against session-based attacks?,Identity and Access Management,Session Management
+Are session management policies and procedures documented and communicated to all relevant personnel?,Identity and Access Management,Session Management
+"Is there a process for revoking sessions in response to security incidents, such as a compromised user account?",Identity and Access Management,Session Management
+Does the organization utilize secure session protocols like TLS/SSL to encrypt session data in transit?,Identity and Access Management,Session Management
+Is there a mechanism to force a password reset upon detection of a potentially compromised session?,Identity and Access Management,Session Management
+Does the organization implement controls to prevent session hijacking via man-in-the-middle attacks?,Identity and Access Management,Session Management
+Are users prompted to confirm their actions before performing sensitive operations within a session?,Identity and Access Management,Session Management
+Are session management settings regularly audited to ensure compliance with security policies and standards?,Identity and Access Management,Session Management
+Does the organization have a process for securely storing and managing session keys?,Identity and Access Management,Session Management
+Is there a mechanism to prevent users from bypassing session timeout mechanisms?,Identity and Access Management,Session Management
+Does the organization implement controls to limit the number of concurrent sessions allowed per user?,Identity and Access Management,Session Management
+Are session management controls integrated with the organization's identity and access management (IAM) system?,Identity and Access Management,Session Management
+Is there a mechanism to detect and prevent session spoofing attacks?,Identity and Access Management,Session Management
+Does the organization perform regular vulnerability assessments of session management implementations?,Identity and Access Management,Session Management
+Are session management logs retained for a defined period in accordance with regulatory requirements and organizational policies?,Identity and Access Management,Session Management
+Does the organization have a documented incident response plan for session-related security incidents?,Identity and Access Management,Session Management
+Are session management controls regularly reviewed and updated to address emerging threats?,Identity and Access Management,Session Management
+Does the organization use secure coding practices to prevent vulnerabilities in session management code?,Identity and Access Management,Session Management
+Are session management developers trained on secure coding principles related to session security?,Identity and Access Management,Session Management
+Does the organization have a change management process for session management system modifications?,Identity and Access Management,Session Management
+Is there a designated individual or team responsible for overseeing session management security?,Identity and Access Management,Session Management
+Are session management security metrics tracked and reported to management?,Identity and Access Management,Session Management
+Does the organization perform user awareness training on the importance of secure session management practices?,Identity and Access Management,Session Management
+Are users provided with guidance on how to protect their sessions from compromise?,Identity and Access Management,Session Management
+Does the organization have a policy prohibiting the sharing of session credentials?,Identity and Access Management,Session Management
+Is there a process to address identified session management vulnerabilities in a timely manner?,Identity and Access Management,Session Management
+Does the organization use a secure session management framework or library?,Identity and Access Management,Session Management
+Are session tokens invalidated after a password reset?,Identity and Access Management,Session Management
+Does the organization have a bug bounty program to encourage the reporting of session management vulnerabilities?,Identity and Access Management,Session Management
+Are session management controls regularly reviewed for effectiveness?,Identity and Access Management,Session Management
+Does the organization have a process to evaluate the security of third-party session management solutions?,Identity and Access Management,Session Management
+Are session management controls adapted to address specific application requirements?,Identity and Access Management,Session Management
+"Does the organization implement session affinity or sticky sessions in a secure manner, preventing session hijacking in load-balanced environments?",Identity and Access Management,Session Management

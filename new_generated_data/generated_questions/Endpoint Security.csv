@@ -1,0 +1,203 @@
+question,category,subcategory
+Does the organization have a documented anti-virus and malware control policy?,Endpoint Security,Anti-virus and Malware Control
+"Is anti-virus software deployed on all applicable endpoint devices (e.g., laptops, desktops, servers)?",Endpoint Security,Anti-virus and Malware Control
+Is the anti-virus software configured to perform real-time scanning of files and processes?,Endpoint Security,Anti-virus and Malware Control
+How frequently are anti-virus signature definitions updated?,Endpoint Security,Anti-virus and Malware Control
+Is there a process to verify the successful deployment and update of anti-virus software across all endpoints?,Endpoint Security,Anti-virus and Malware Control
+Does the anti-virus software include heuristic analysis capabilities to detect unknown malware?,Endpoint Security,Anti-virus and Malware Control
+Are scheduled scans configured on endpoint devices to proactively identify malware?,Endpoint Security,Anti-virus and Malware Control
+Are users permitted to disable or bypass anti-virus software on their endpoint devices?,Endpoint Security,Anti-virus and Malware Control
+Is there a centralized console for managing and monitoring anti-virus deployments?,Endpoint Security,Anti-virus and Malware Control
+Does the organization use a host-based intrusion prevention system (HIPS) in conjunction with anti-virus software?,Endpoint Security,Anti-virus and Malware Control
+How are malware detections and alerts managed and investigated?,Endpoint Security,Anti-virus and Malware Control
+Is there a defined incident response procedure for handling malware infections?,Endpoint Security,Anti-virus and Malware Control
+Are users trained on how to recognize and avoid phishing attempts and other social engineering tactics?,Endpoint Security,Anti-virus and Malware Control
+Does the organization conduct regular phishing simulations to assess user awareness?,Endpoint Security,Anti-virus and Malware Control
+"Are external media devices (e.g., USB drives) scanned for malware before being used on organizational systems?",Endpoint Security,Anti-virus and Malware Control
+Is there a process to block or restrict the execution of unauthorized software on endpoint devices?,Endpoint Security,Anti-virus and Malware Control
+Does the organization utilize application whitelisting to control which applications can run?,Endpoint Security,Anti-virus and Malware Control
+Are software restriction policies or similar mechanisms in place to prevent the execution of malicious scripts?,Endpoint Security,Anti-virus and Malware Control
+Is there a vulnerability management program to identify and remediate software vulnerabilities that could be exploited by malware?,Endpoint Security,Anti-virus and Malware Control
+Are systems regularly patched with the latest security updates to address known vulnerabilities?,Endpoint Security,Anti-virus and Malware Control
+Does the organization monitor for indicators of compromise (IOCs) related to malware infections?,Endpoint Security,Anti-virus and Malware Control
+Is there a process to isolate infected systems from the network to prevent the spread of malware?,Endpoint Security,Anti-virus and Malware Control
+"Does the anti-virus solution provide reporting capabilities for malware detections, scans, and updates?",Endpoint Security,Anti-virus and Malware Control
+Are anti-virus logs regularly reviewed to identify potential security incidents?,Endpoint Security,Anti-virus and Malware Control
+"How is the effectiveness of the anti-virus solution evaluated (e.g., through penetration testing or red teaming exercises)?",Endpoint Security,Anti-virus and Malware Control
+Is anti-virus protection included as part of the organization's standard operating environment (SOE) or golden image for endpoint devices?,Endpoint Security,Anti-virus and Malware Control
+Are exceptions to the anti-virus policy documented and justified?,Endpoint Security,Anti-virus and Malware Control
+Is the anti-virus solution compatible with all operating systems and applications used within the organization?,Endpoint Security,Anti-virus and Malware Control
+Is the anti-virus software licensed appropriately for the number of endpoints being protected?,Endpoint Security,Anti-virus and Malware Control
+Is there a process to remove anti-virus software from decommissioned or retired endpoint devices?,Endpoint Security,Anti-virus and Malware Control
+"Does the anti-virus software integrate with other security tools, such as SIEM systems?",Endpoint Security,Anti-virus and Malware Control
+Does the organization utilize endpoint detection and response (EDR) solutions for advanced threat detection and analysis?,Endpoint Security,Anti-virus and Malware Control
+Is the EDR solution configured to collect telemetry data from endpoint devices?,Endpoint Security,Anti-virus and Malware Control
+Is the EDR solution capable of detecting and responding to fileless malware attacks?,Endpoint Security,Anti-virus and Malware Control
+Does the EDR solution provide automated remediation capabilities?,Endpoint Security,Anti-virus and Malware Control
+Are EDR alerts prioritized based on severity and potential impact?,Endpoint Security,Anti-virus and Malware Control
+Is there a dedicated team or individual responsible for managing and responding to EDR alerts?,Endpoint Security,Anti-virus and Malware Control
+Does the organization participate in threat intelligence sharing programs?,Endpoint Security,Anti-virus and Malware Control
+Are threat intelligence feeds integrated into the anti-virus and EDR solutions?,Endpoint Security,Anti-virus and Malware Control
+Are the anti-virus and EDR solutions configured to block known malicious domains and IP addresses?,Endpoint Security,Anti-virus and Malware Control
+Does the organization have a process for analyzing and reverse engineering malware samples?,Endpoint Security,Anti-virus and Malware Control
+Are employees educated on how to report suspected malware infections?,Endpoint Security,Anti-virus and Malware Control
+Is there a process to regularly review and update the anti-virus and malware control policy?,Endpoint Security,Anti-virus and Malware Control
+Is the anti-virus solution configured to quarantine suspicious files?,Endpoint Security,Anti-virus and Malware Control
+Are quarantined files analyzed to determine if they are malicious?,Endpoint Security,Anti-virus and Malware Control
+Is the organization using machine learning capabilities for malware detection?,Endpoint Security,Anti-virus and Malware Control
+Does the anti-virus solution support scanning of encrypted traffic?,Endpoint Security,Anti-virus and Malware Control
+Is there a process to ensure anti-virus software is not interfering with critical business applications?,Endpoint Security,Anti-virus and Malware Control
+Are there specific anti-malware controls in place for virtualized environments?,Endpoint Security,Anti-virus and Malware Control
+Does the anti-virus vendor have a strong reputation for threat detection and prevention?,Endpoint Security,Anti-virus and Malware Control
+Is the anti-virus solution regularly evaluated against industry benchmarks and testing methodologies?,Endpoint Security,Anti-virus and Malware Control
+"Does the organization have a documented mobile device security policy covering acceptable use, security configurations, and data protection?",Endpoint Security,Mobile Device Security
+Are all corporate-owned and BYOD mobile devices required to be registered with a Mobile Device Management (MDM) or Mobile Application Management (MAM) solution?,Endpoint Security,Mobile Device Security
+Does the MDM/MAM solution enforce minimum operating system version requirements and security patch levels on enrolled devices?,Endpoint Security,Mobile Device Security
+Is remote wiping capability enabled and tested on all enrolled mobile devices in case of loss or theft?,Endpoint Security,Mobile Device Security
+"Are users required to use strong passwords or biometric authentication (e.g., fingerprint, facial recognition) to unlock their mobile devices?",Endpoint Security,Mobile Device Security
+Does the organization enforce screen lock timeout policies on mobile devices to prevent unauthorized access?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to automatically encrypt data at rest on the device's storage?,Endpoint Security,Mobile Device Security
+Are users restricted from installing applications from untrusted sources or app stores?,Endpoint Security,Mobile Device Security
+Does the organization have a process for vetting and approving mobile applications before they are allowed to be installed on corporate-managed devices?,Endpoint Security,Mobile Device Security
+Are sensitive corporate data and applications containerized on mobile devices to separate them from personal data and applications?,Endpoint Security,Mobile Device Security
+"Does the organization have a data loss prevention (DLP) policy and technology in place to prevent sensitive data from being copied, shared, or transmitted from mobile devices without authorization?",Endpoint Security,Mobile Device Security
+Are users prohibited from jailbreaking or rooting their mobile devices?,Endpoint Security,Mobile Device Security
+"Are mobile devices configured to require VPN connections when accessing sensitive corporate resources over untrusted networks (e.g., public Wi-Fi)?",Endpoint Security,Mobile Device Security
+Does the organization disable or restrict Bluetooth and NFC functionality on mobile devices when not in use?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to automatically connect to trusted Wi-Fi networks and avoid connecting to unknown or unsecured Wi-Fi networks?,Endpoint Security,Mobile Device Security
+Does the organization regularly conduct vulnerability assessments and penetration testing of mobile devices and related infrastructure?,Endpoint Security,Mobile Device Security
+Does the organization have a process for securely disposing of mobile devices that have reached their end-of-life?,Endpoint Security,Mobile Device Security
+"Are users provided with security awareness training on mobile device security best practices, including phishing awareness and safe browsing habits?",Endpoint Security,Mobile Device Security
+Does the mobile device security policy address the use of personally owned devices (BYOD) for accessing corporate resources?,Endpoint Security,Mobile Device Security
+Does the organization require multi-factor authentication (MFA) for accessing corporate applications and services from mobile devices?,Endpoint Security,Mobile Device Security
+Does the organization have a process to regularly review and update the mobile device security policy?,Endpoint Security,Mobile Device Security
+Are mobile devices used for accessing sensitive data subject to regular audits to ensure compliance with security policies?,Endpoint Security,Mobile Device Security
+Does the organization have a defined process for reporting lost or stolen mobile devices?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to block or warn users about potentially malicious websites?,Endpoint Security,Mobile Device Security
+Does the organization have a mobile threat defense (MTD) solution in place to detect and prevent mobile malware and other security threats?,Endpoint Security,Mobile Device Security
+Does the organization have a process to manage and revoke access for terminated employees from mobile devices and associated accounts?,Endpoint Security,Mobile Device Security
+"Are mobile devices used for payment processing compliant with PCI DSS requirements, if applicable?",Endpoint Security,Mobile Device Security
+Does the organization have a process for tracking and managing the inventory of mobile devices?,Endpoint Security,Mobile Device Security
+Is there a procedure for granting exceptions to the mobile device security policy?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to automatically update their operating systems and applications with the latest security patches?,Endpoint Security,Mobile Device Security
+Does the organization require the use of strong encryption for email communications on mobile devices?,Endpoint Security,Mobile Device Security
+Are mobile device backups regularly performed and securely stored?,Endpoint Security,Mobile Device Security
+Does the organization have a designated team or individual responsible for mobile device security?,Endpoint Security,Mobile Device Security
+Does the organization have a formal incident response plan specifically for mobile device security incidents?,Endpoint Security,Mobile Device Security
+Are users required to acknowledge and agree to the mobile device security policy before being granted access to corporate resources?,Endpoint Security,Mobile Device Security
+Are third-party applications integrated with corporate systems on mobile devices subject to security assessments?,Endpoint Security,Mobile Device Security
+Does the organization monitor mobile device usage for suspicious activity or policy violations?,Endpoint Security,Mobile Device Security
+Does the mobile device security policy address the handling of sensitive data during international travel?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to prevent the installation of unauthorized or shadow IT applications?,Endpoint Security,Mobile Device Security
+Does the organization have a policy regarding the use of cloud storage services on mobile devices?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to disable location services when not required?,Endpoint Security,Mobile Device Security
+Does the organization have a process to assess and mitigate the risks associated with mobile app vulnerabilities?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to prevent data leakage through clipboard sharing?,Endpoint Security,Mobile Device Security
+Does the organization have a mobile app security testing program to identify vulnerabilities before deployment?,Endpoint Security,Mobile Device Security
+Is there a process in place to verify the integrity of mobile device operating systems and applications?,Endpoint Security,Mobile Device Security
+Does the organization use mobile application whitelisting to restrict the applications that can be installed?,Endpoint Security,Mobile Device Security
+Are users educated on the risks of connecting to public charging stations?,Endpoint Security,Mobile Device Security
+Does the organization have a policy on the use of mobile device cameras and microphones in sensitive areas?,Endpoint Security,Mobile Device Security
+Are mobile devices configured to prevent automatic connection to Bluetooth devices?,Endpoint Security,Mobile Device Security
+Does the organization conduct regular audits of MDM/MAM configurations to ensure compliance with security standards?,Endpoint Security,Mobile Device Security
+Is there a process for responding to and mitigating mobile device security incidents in a timely manner?,Endpoint Security,Mobile Device Security
+Is there a documented and enforced security configuration standard for all production servers?,Endpoint Security,Server Security
+Are server security baselines regularly reviewed and updated to address emerging threats?,Endpoint Security,Server Security
+"Are security updates and patches applied to servers in a timely manner, following a defined patch management process?",Endpoint Security,Server Security
+Is a vulnerability scanning process in place to identify and remediate security vulnerabilities on servers?,Endpoint Security,Server Security
+Are server logs regularly monitored for suspicious activity and security incidents?,Endpoint Security,Server Security
+Is access to servers restricted to authorized personnel based on the principle of least privilege?,Endpoint Security,Server Security
+Are multi-factor authentication (MFA) mechanisms implemented for remote access to servers?,Endpoint Security,Server Security
+Is privileged access to servers managed through a privileged access management (PAM) solution?,Endpoint Security,Server Security
+"Are servers hardened according to industry best practices, such as CIS benchmarks or NIST guidelines?",Endpoint Security,Server Security
+Is unnecessary software and services removed from servers to minimize the attack surface?,Endpoint Security,Server Security
+Are file integrity monitoring (FIM) tools used to detect unauthorized changes to critical system files on servers?,Endpoint Security,Server Security
+Is intrusion detection/prevention systems (IDS/IPS) deployed to monitor network traffic to and from servers?,Endpoint Security,Server Security
+Are servers segmented into different network zones based on their sensitivity and function?,Endpoint Security,Server Security
+Is server-to-server communication restricted to only necessary ports and protocols?,Endpoint Security,Server Security
+Are network firewalls configured to control access to servers based on defined security policies?,Endpoint Security,Server Security
+"Are server backups performed regularly and stored securely, with periodic testing of restoration procedures?",Endpoint Security,Server Security
+"Are disaster recovery (DR) plans in place for servers, outlining procedures for restoring services in the event of a disruption?",Endpoint Security,Server Security
+Are servers physically secured in access-controlled environments?,Endpoint Security,Server Security
+Are server hardware and software assets inventoried and tracked?,Endpoint Security,Server Security
+Are servers regularly audited to ensure compliance with security policies and standards?,Endpoint Security,Server Security
+Is remote access to servers strictly controlled and monitored?,Endpoint Security,Server Security
+Are server configurations regularly reviewed for compliance with security best practices?,Endpoint Security,Server Security
+"Is there a process for decommissioning servers securely, ensuring data is sanitized and disposed of properly?",Endpoint Security,Server Security
+Are server security events correlated and analyzed to identify potential incidents?,Endpoint Security,Server Security
+"Does the server security program align with industry standards and best practices, such as ISO 27001 or NIST SP 800-53?",Endpoint Security,Server Security
+Are there dedicated security roles and responsibilities defined for server security management?,Endpoint Security,Server Security
+Are server security controls integrated into the software development lifecycle (SDLC) for applications hosted on servers?,Endpoint Security,Server Security
+Is there a documented incident response plan specific to server security incidents?,Endpoint Security,Server Security
+Are server security awareness training programs provided to relevant personnel?,Endpoint Security,Server Security
+Are server security metrics tracked and reported to management to demonstrate program effectiveness?,Endpoint Security,Server Security
+Are all servers protected by endpoint detection and response (EDR) solutions?,Endpoint Security,Server Security
+Is application whitelisting implemented on servers to prevent the execution of unauthorized software?,Endpoint Security,Server Security
+Are data loss prevention (DLP) measures in place to prevent sensitive data from leaving servers?,Endpoint Security,Server Security
+Is server virtualization infrastructure secured according to industry best practices?,Endpoint Security,Server Security
+Is container security implemented for applications running in containers on servers?,Endpoint Security,Server Security
+Are serverless computing environments secured according to vendor-specific guidelines and best practices?,Endpoint Security,Server Security
+Are cloud-based servers configured securely according to cloud provider security recommendations?,Endpoint Security,Server Security
+Are server security controls regularly tested through penetration testing and red team exercises?,Endpoint Security,Server Security
+Is threat intelligence used to proactively identify and mitigate potential threats to servers?,Endpoint Security,Server Security
+Are server security policies reviewed and updated at least annually?,Endpoint Security,Server Security
+Are changes to server configurations tracked and approved through a formal change management process?,Endpoint Security,Server Security
+Is there a process for managing cryptographic keys used on servers?,Endpoint Security,Server Security
+Are server security controls aligned with relevant regulatory requirements and compliance standards?,Endpoint Security,Server Security
+Are servers monitored for anomalous behavior using machine learning or other advanced analytics techniques?,Endpoint Security,Server Security
+Is there a process for securely storing and managing server access credentials?,Endpoint Security,Server Security
+Are servers monitored for resource utilization and performance to detect potential security issues?,Endpoint Security,Server Security
+Is server security documentation maintained and readily accessible to authorized personnel?,Endpoint Security,Server Security
+Is server security a key consideration in business continuity and disaster recovery planning?,Endpoint Security,Server Security
+"Does the organization have a formal policy regarding the use of personal devices to access servers, and if so, are adequate security controls in place?",Endpoint Security,Server Security
+Is there a designated security team or individual responsible for overseeing server security?,Endpoint Security,Server Security
+Does the organization have a documented patch management policy?,Endpoint Security,Patch Management
+Is there a designated individual or team responsible for overseeing the patch management process?,Endpoint Security,Patch Management
+Does the patch management policy define the scope of systems and applications covered?,Endpoint Security,Patch Management
+Does the organization maintain an inventory of all systems and applications requiring patching?,Endpoint Security,Patch Management
+Are systems categorized based on criticality for patch prioritization?,Endpoint Security,Patch Management
+Does the organization use a centralized patch management system or tool?,Endpoint Security,Patch Management
+How frequently are vulnerability scans conducted to identify missing patches?,Endpoint Security,Patch Management
+Are vulnerability scan results integrated with the patch management system?,Endpoint Security,Patch Management
+Does the organization subscribe to threat intelligence feeds to stay informed about emerging vulnerabilities?,Endpoint Security,Patch Management
+Is there a process for evaluating the risk associated with identified vulnerabilities?,Endpoint Security,Patch Management
+Are patches prioritized based on the severity of the vulnerability and the criticality of the affected system?,Endpoint Security,Patch Management
+Does the organization have a defined service level agreement (SLA) for patch deployment based on risk?,Endpoint Security,Patch Management
+Is there a testing environment for evaluating patches before deployment to production systems?,Endpoint Security,Patch Management
+Does the organization have a documented rollback plan in case a patch causes issues?,Endpoint Security,Patch Management
+Are users notified about upcoming patch deployments and potential system downtime?,Endpoint Security,Patch Management
+Is there a process for tracking patch deployment status and verifying successful installation?,Endpoint Security,Patch Management
+Are exceptions to the patch management policy documented and approved by management?,Endpoint Security,Patch Management
+Is there a process for addressing out-of-band patches for critical vulnerabilities?,Endpoint Security,Patch Management
+How are third-party applications and operating systems patched?,Endpoint Security,Patch Management
+Does the organization have a process for patching systems that are not connected to the network?,Endpoint Security,Patch Management
+Are systems configured to automatically download and install security updates where possible?,Endpoint Security,Patch Management
+Is there a process for disabling or mitigating vulnerabilities when patches are not immediately available?,Endpoint Security,Patch Management
+How are legacy systems that are no longer supported by vendors addressed in terms of patching?,Endpoint Security,Patch Management
+Does the organization perform regular audits of the patch management process?,Endpoint Security,Patch Management
+Are patch management logs reviewed regularly for anomalies and errors?,Endpoint Security,Patch Management
+Is there a process for reporting patch management metrics to management?,Endpoint Security,Patch Management
+Does the organization provide training to IT staff on patch management procedures?,Endpoint Security,Patch Management
+Are patch management procedures documented and readily accessible to IT staff?,Endpoint Security,Patch Management
+How does the organization ensure that mobile devices are patched and up-to-date?,Endpoint Security,Patch Management
+Is there a process for patching virtual machines and containerized environments?,Endpoint Security,Patch Management
+Does the organization have a process for validating that patches do not introduce new vulnerabilities?,Endpoint Security,Patch Management
+Are patch deployment schedules adjusted during critical business periods?,Endpoint Security,Patch Management
+Is there a process for escalating patch management issues to senior management?,Endpoint Security,Patch Management
+Does the organization utilize a vulnerability management platform?,Endpoint Security,Patch Management
+How is the effectiveness of the patch management program measured?,Endpoint Security,Patch Management
+Are patch management policies and procedures reviewed and updated at least annually?,Endpoint Security,Patch Management
+Is there a formal process for granting exceptions to patch management requirements?,Endpoint Security,Patch Management
+Does the organization maintain a comprehensive patch management knowledge base?,Endpoint Security,Patch Management
+Are third-party security assessments conducted to evaluate the effectiveness of the patch management program?,Endpoint Security,Patch Management
+"Does the patch management program adhere to relevant compliance requirements (e.g., PCI DSS, HIPAA)?",Endpoint Security,Patch Management
+How are patches applied to systems during off-hours or maintenance windows?,Endpoint Security,Patch Management
+Are change management procedures followed when deploying patches?,Endpoint Security,Patch Management
+"Is the patch management process integrated with other security controls, such as vulnerability scanning and incident response?",Endpoint Security,Patch Management
+How does the organization handle systems that require a reboot after patching?,Endpoint Security,Patch Management
+Are patch configurations documented and version controlled?,Endpoint Security,Patch Management
+"Is there a process for tracking the lifecycle of patches, including when they are superseded or no longer supported?",Endpoint Security,Patch Management
+Does the organization have a designated point of contact for patch management-related inquiries?,Endpoint Security,Patch Management
+How does the organization ensure that patches are obtained from trusted sources?,Endpoint Security,Patch Management
+Are checksums or other integrity checks used to verify the authenticity of patches?,Endpoint Security,Patch Management
+Does the organization have a process for reporting suspected malicious patches to vendors or security authorities?,Endpoint Security,Patch Management

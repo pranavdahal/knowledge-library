@@ -1,0 +1,204 @@
+question,category,subcategory
+"Has a Business Impact Analysis (BIA) been conducted to identify critical business functions and their dependencies, in accordance with ISO 27001 A.17.1.1?",Business Continuity and Disaster Recovery,Business Impact Analysis
+"Does the BIA consider the potential impact of disruptions on confidentiality, integrity, and availability of information assets, aligning with NIST SP 800-53 CP-2?",Business Continuity and Disaster Recovery,Business Impact Analysis
+Are Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) defined for each critical business function identified in the BIA?,Business Continuity and Disaster Recovery,Business Impact Analysis
+"Is the BIA regularly reviewed and updated (at least annually or when significant business changes occur) to ensure its accuracy and relevance, as recommended by CIS Control 18?",Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA document the maximum tolerable downtime (MTD) for each critical business function?,Business Continuity and Disaster Recovery,Business Impact Analysis
+"Does the BIA identify the resources required to support each critical business function (e.g., personnel, technology, facilities, third-party services)?",Business Continuity and Disaster Recovery,Business Impact Analysis
+"Has the BIA assessed the financial, operational, legal, and reputational impact of disruptions to critical business functions?",Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the organization have a documented methodology for conducting the BIA?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are the results of the BIA used to prioritize disaster recovery and business continuity planning efforts?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are stakeholders from relevant business units involved in the BIA process?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA include a risk assessment to identify potential threats and vulnerabilities that could disrupt critical business functions?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the organization have a process for validating the assumptions and data used in the BIA?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions to IT infrastructure and applications?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA identify single points of failure that could disrupt critical business functions?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are the findings of the BIA communicated to senior management and other relevant stakeholders?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA include a gap analysis to identify areas where the organization's business continuity capabilities need improvement?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the organization have a process for tracking and monitoring the implementation of BIA recommendations?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions to third-party service providers?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are business processes mapped to the underlying IT systems and data that support them as part of the BIA?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions to regulatory compliance?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA address potential disruptions to supply chain operations?,Business Continuity and Disaster Recovery,Business Impact Analysis
+"Does the BIA include scenarios for different types of disruptions (e.g., natural disasters, cyberattacks, pandemics)?",Business Continuity and Disaster Recovery,Business Impact Analysis
+Are the BIA results used to inform the development of business continuity and disaster recovery plans?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions on customer service and satisfaction?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Is the BIA aligned with the organization's overall risk management framework?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the organization use a standardized template or tool for conducting the BIA?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are BIA findings used to justify investments in business continuity and disaster recovery capabilities?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA include a process for assessing the impact of data loss or corruption?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Is the BIA methodology documented and readily available to relevant personnel?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions on employee safety and well-being?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of prolonged disruptions versus short-term outages?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are insurance policies reviewed to ensure adequate coverage for potential business disruptions based on the BIA findings?,Business Continuity and Disaster Recovery,Business Impact Analysis
+"Are alternative work arrangements (e.g., remote work) considered in the BIA for critical business functions?",Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA address the potential impact of disruptions on data privacy?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions on physical security?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are legal and regulatory requirements related to business continuity considered in the BIA process?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA include a communication plan to inform stakeholders about the impact of disruptions?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the organization conduct simulations or exercises to validate the BIA findings?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Is the BIA integrated with the organization's incident management process?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are the BIA results used to determine the appropriate level of investment in security controls?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA address the potential impact of disruptions on brand reputation?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are key personnel trained on their roles and responsibilities in the BIA process?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions on research and development activities?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions on sales and marketing efforts?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA consider the impact of disruptions on financial reporting?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the organization have a process for obtaining management approval of the BIA?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Is the BIA documented in a clear and concise manner?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Are the BIA results accessible to relevant personnel in a timely manner?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the organization have a process for tracking and reporting on BIA metrics?,Business Continuity and Disaster Recovery,Business Impact Analysis
+Does the BIA include a process for addressing conflicts between competing business priorities?,Business Continuity and Disaster Recovery,Business Impact Analysis
+"Does the organization have a documented Business Continuity Plan (BCP) that outlines strategies for maintaining essential functions during disruptions, as per ISO 27001:2022 A.5.35?",Business Continuity and Disaster Recovery,Continuity Planning
+"Has a Business Impact Analysis (BIA) been conducted to identify critical business processes and their dependencies, aligning with NIST SP 800-53 IA-5?",Business Continuity and Disaster Recovery,Continuity Planning
+Are recovery time objectives (RTOs) and recovery point objectives (RPOs) defined for critical business processes?,Business Continuity and Disaster Recovery,Continuity Planning
+Is there a clearly defined escalation process for activating the BCP in the event of a disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+"Does the BCP address potential disruptions caused by various scenarios, including natural disasters, cyberattacks, and pandemics?",Business Continuity and Disaster Recovery,Continuity Planning
+"Are roles and responsibilities assigned to specific personnel within the BCP, and are these individuals aware of their duties?",Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization have an alternate site identified and prepared for use in the event the primary site is unavailable?,Business Continuity and Disaster Recovery,Continuity Planning
+"Are necessary resources (e.g., hardware, software, communication equipment) provisioned at the alternate site to support critical business functions?",Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for data backup and recovery to ensure data integrity and availability?,Business Continuity and Disaster Recovery,Continuity Planning
+"Is the BCP documented and readily accessible to relevant personnel, both in electronic and hard copy formats?",Business Continuity and Disaster Recovery,Continuity Planning
+"Are communication plans in place to inform stakeholders (e.g., employees, customers, suppliers) about the status of business operations during a disruption?",Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization have a crisis management team responsible for coordinating the response to significant disruptions?,Business Continuity and Disaster Recovery,Continuity Planning
+Are procedures defined for restoring systems and data to their original state after a disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP address legal and regulatory requirements related to business continuity and disaster recovery?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization maintain insurance coverage to mitigate financial losses resulting from business disruptions?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP incorporate cybersecurity incident response plans to address potential cyberattacks?,Business Continuity and Disaster Recovery,Continuity Planning
+Are dependencies on third-party service providers identified and addressed within the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization have procedures for maintaining and updating the BCP to reflect changes in business operations and technology?,Business Continuity and Disaster Recovery,Continuity Planning
+Is the BCP reviewed and approved by senior management on a regular basis?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization conduct regular exercises and simulations to test the effectiveness of the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+Are the results of BCP tests documented and used to identify areas for improvement?,Business Continuity and Disaster Recovery,Continuity Planning
+Is there a process for tracking and resolving issues identified during BCP testing?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for managing physical security at the alternate site?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP address the security of data during transit to and from the alternate site?,Business Continuity and Disaster Recovery,Continuity Planning
+Are employees provided with training on their roles and responsibilities within the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the training cover procedures for activating the BCP and responding to different types of disruptions?,Business Continuity and Disaster Recovery,Continuity Planning
+Are contact lists for key personnel and stakeholders maintained and regularly updated within the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for managing employee welfare and safety during a disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP address the impact of a disruption on supply chain operations?,Business Continuity and Disaster Recovery,Continuity Planning
+Are alternative suppliers identified and evaluated as part of the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for communicating with customers and managing customer expectations during a disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization have a documented process for managing media relations during a disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+Are procedures defined for documenting the costs associated with a business disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP address the impact of a disruption on regulatory reporting requirements?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization have a plan for securely disposing of data and equipment at the alternate site when it is no longer needed?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for managing the impact of a disruption on remote workers?,Business Continuity and Disaster Recovery,Continuity Planning
+Are remote access solutions secured and tested as part of the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP address the impact of a disruption on cloud-based services?,Business Continuity and Disaster Recovery,Continuity Planning
+Are service level agreements (SLAs) with cloud providers reviewed and addressed within the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for managing the impact of a disruption on payment processing systems?,Business Continuity and Disaster Recovery,Continuity Planning
+Are alternative payment processing options available in the event of a disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+"Does the BCP address the impact of a disruption on critical IT infrastructure components, such as servers, networks, and databases?",Business Continuity and Disaster Recovery,Continuity Planning
+Are redundant systems and infrastructure in place to ensure business continuity?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for managing the impact of a disruption on intellectual property?,Business Continuity and Disaster Recovery,Continuity Planning
+Are measures in place to protect confidential information during a disruption?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP address the impact of a disruption on legal and contractual obligations?,Business Continuity and Disaster Recovery,Continuity Planning
+Are contractual clauses reviewed to ensure business continuity requirements are adequately addressed?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP include procedures for managing the impact of a disruption on environmental sustainability efforts?,Business Continuity and Disaster Recovery,Continuity Planning
+Are energy-efficient and environmentally friendly solutions incorporated into the BCP?,Business Continuity and Disaster Recovery,Continuity Planning
+"Is the BCP aligned with the organization's overall risk management framework, as per ISO 27005?",Business Continuity and Disaster Recovery,Continuity Planning
+How frequently is the Business Continuity Plan tested and updated to reflect changes in the organization's environment and technology?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the BCP address the unique needs and considerations of all departments and business units within the organization?,Business Continuity and Disaster Recovery,Continuity Planning
+Does the organization have a documented Backup Policy and Procedures (BPP) that is readily available to relevant personnel?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Is the BPP aligned with industry best practices (e.g., NIST SP 800-53, ISO 27001) and regulatory requirements?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Does the BPP define the scope of systems and data covered, including critical business applications and sensitive data?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are backup frequencies defined based on the Recovery Point Objective (RPO) for different data classifications?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Does the BPP specify the types of backups to be performed (e.g., full, differential, incremental)?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Are backup retention periods defined based on legal, regulatory, and business requirements?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP address data encryption both in transit and at rest for backups?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are there procedures in place for secure storage of backup media (both physical and electronic)?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Does the BPP detail the roles and responsibilities for backup operations, including data owners and IT personnel?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are regular backup verification processes defined to ensure data integrity and recoverability?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP outline the procedures for data restoration in the event of data loss or system failure?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Are the BPP procedures tested regularly (e.g., quarterly, annually) to validate their effectiveness?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Are test results documented, and are any identified issues addressed and remediated in a timely manner?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Does the BPP address the location of backup storage, including on-site, off-site, and cloud-based options?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are off-site backup locations geographically diverse to mitigate the risk of regional disasters?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP include procedures for handling and disposal of backup media in a secure manner?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Is access to backup systems and data restricted to authorized personnel based on the principle of least privilege?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are audit logs maintained for all backup and restoration activities?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Does the BPP address the use of cloud-based backup solutions, including security considerations and vendor responsibilities?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are Service Level Agreements (SLAs) with cloud backup providers reviewed regularly to ensure they meet organizational requirements?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Does the BPP consider the impact of emerging technologies, such as virtualization and cloud computing, on backup strategies?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Is the BPP reviewed and updated at least annually or more frequently as needed to reflect changes in the IT environment?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are exceptions to the BPP documented and approved by authorized personnel?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP integrate with the Incident Response Plan to ensure data recovery following a security incident?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are version control measures in place for the BPP to track changes and ensure the most current version is readily available?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Is the BPP communicated and made accessible to all relevant personnel?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are personnel trained on the BPP procedures and their roles in backup and restoration activities?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the organization have a documented process for identifying and classifying critical data assets?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the organization have a documented process for determining Recovery Time Objectives (RTOs) for critical business applications?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are backup schedules and procedures regularly reviewed and adjusted based on changing business requirements and risk assessments?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the organization have a dedicated team or individual responsible for overseeing backup and recovery operations?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Is there a documented process for handling failed backups and initiating corrective actions?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP include procedures for dealing with ransomware attacks and data recovery in such scenarios?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are backups regularly scanned for malware to prevent re-introduction of infected files during restoration?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the organization have a documented process for managing and protecting backup encryption keys?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Is there a mechanism for monitoring the status of backup jobs and alerting personnel to potential issues?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP address the use of replication technologies for disaster recovery and data availability?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are procedures in place to ensure data consistency during replication processes?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP address the archiving of data for long-term retention and compliance purposes?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are archived data sets stored in a secure and accessible manner?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the organization have a documented policy for data sovereignty and residency requirements related to backups?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+"Are backups stored in compliance with applicable data privacy regulations (e.g., GDPR, CCPA)?",Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP include procedures for managing backups of virtualized environments?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are backups of virtual machines tested regularly to ensure they can be restored to a functional state?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the organization have a documented process for managing backups of databases?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are database backups tested for integrity and consistency after restoration?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP address the use of immutable storage for backups to protect against data tampering and ransomware?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Are regular assessments performed to ensure that backup infrastructure is adequately sized to meet current and future needs?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Is there a documented process for decommissioning old backup media and ensuring data is securely wiped?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Does the BPP consider the impact of data deduplication technologies on backup and recovery performance?,Business Continuity and Disaster Recovery,Backup Policy and Procedures
+Is there a documented Disaster Recovery (DR) testing plan in place?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How often is the Disaster Recovery (DR) plan tested?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+"What types of Disaster Recovery (DR) tests are performed (e.g., tabletop, simulation, full failover)?",Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are Disaster Recovery (DR) tests conducted on all critical systems and applications?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+"Are test results documented, including any identified gaps or areas for improvement?",Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is the Disaster Recovery (DR) testing plan aligned with the Business Continuity Plan (BCP)?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the Disaster Recovery (DR) test scope include dependencies on third-party services?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are roles and responsibilities for Disaster Recovery (DR) testing clearly defined?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+"Is there a communication plan for Disaster Recovery (DR) testing, including internal and external stakeholders?",Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the Disaster Recovery (DR) testing plan address data integrity during and after testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are backups verified as part of the Disaster Recovery (DR) testing process?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the Disaster Recovery (DR) test include restoration to an alternate site?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is the Disaster Recovery (DR) plan updated based on the results of testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the organization conduct Disaster Recovery (DR) testing to validate recovery time objectives (RTOs) and recovery point objectives (RPOs)?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are users trained on their roles in the Disaster Recovery (DR) testing process?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How are potential disruptions to production systems minimized during Disaster Recovery (DR) testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is there a process for escalating issues discovered during Disaster Recovery (DR) testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are external auditors involved in the Disaster Recovery (DR) testing process?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How is the security of the Disaster Recovery (DR) environment ensured during and after testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the Disaster Recovery (DR) testing plan include testing of network connectivity to the recovery site?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are changes to the IT environment reflected in the Disaster Recovery (DR) testing plan?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are lessons learned from previous incidents incorporated into the Disaster Recovery (DR) testing plan?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is there a formal approval process for the Disaster Recovery (DR) testing plan?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the Disaster Recovery (DR) testing plan address data encryption and key management?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is the Disaster Recovery (DR) environment physically secured and protected from environmental hazards?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the Disaster Recovery (DR) testing plan include procedures for reverting to the primary site after testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are service level agreements (SLAs) with third-party providers validated during Disaster Recovery (DR) testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are security controls tested as part of the Disaster Recovery (DR) testing process?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+"Are compliance requirements (e.g., GDPR, HIPAA) considered during Disaster Recovery (DR) testing?",Business Continuity and Disaster Recovery,Disaster Recovery Testing
+"Is there a process for testing the Disaster Recovery (DR) plan for different types of disruptions (e.g., natural disasters, cyberattacks)?",Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are testing tools and resources adequately maintained and supported for Disaster Recovery (DR) testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the Disaster Recovery (DR) test plan include failback procedures to the primary environment?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is testing conducted under varying simulated scenarios?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are roles and responsibilities assigned for executing DR tests documented?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How do you test your data replication methods as part of your DR testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are performance metrics monitored during testing to identify areas for optimization?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the DR test plan ensure application functionality validation post recovery?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How is DR testing integrated with change management procedures?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the DR testing consider scenarios affecting cloud-based or hybrid cloud deployments?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How do you identify and address interdependencies between different systems and applications during DR testing?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is there a formal review process to incorporate feedback from the DR team after each test?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are recovery scripts or automated tasks validated regularly?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How often do you review the scope and objectives of the DR testing program?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Does the test include validation that necessary communication channels remain operational?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is personnel provided with periodic training specific to DR test execution?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Is there a documented escalation procedure in the event of significant issues arising during the DR test?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Are post-test reviews done at the appropriate level to identify root causes?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+Do you have a policy to ensure that test environments mirror production configurations?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How do you manage and control access to the DR test environment?,Business Continuity and Disaster Recovery,Disaster Recovery Testing
+"Are DR test plans updated according to relevant standards (e.g., ISO, NIST)?",Business Continuity and Disaster Recovery,Disaster Recovery Testing
+How are tests tailored to address emerging threats to IT systems and infrastructure?,Business Continuity and Disaster Recovery,Disaster Recovery Testing

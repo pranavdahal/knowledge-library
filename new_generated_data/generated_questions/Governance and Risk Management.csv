@@ -1,0 +1,204 @@
+question,category,subcategory
+"Does the organization have a defined Risk Management Framework (RMF) that aligns with industry best practices (e.g., ISO 27005, NIST SP 800-30)?",Governance and Risk Management,Risk Management
+Is there a documented process for identifying and classifying information security risks to the organization's assets?,Governance and Risk Management,Risk Management
+How frequently are formal information security risk assessments conducted across the organization?,Governance and Risk Management,Risk Management
+Does the organization define and maintain a risk appetite and risk tolerance level for information security risks?,Governance and Risk Management,Risk Management
+Are risk assessment methodologies consistently applied across different departments and business units?,Governance and Risk Management,Risk Management
+Is there a documented process for assigning ownership and accountability for identified information security risks?,Governance and Risk Management,Risk Management
+How does the organization prioritize identified information security risks for remediation or mitigation?,Governance and Risk Management,Risk Management
+"Does the organization use a risk register or similar tool to track identified risks, their status, and assigned owners?",Governance and Risk Management,Risk Management
+Are risk treatment plans developed and implemented for all identified risks exceeding the organization's risk tolerance?,Governance and Risk Management,Risk Management
+Are risk treatment plans regularly reviewed and updated to ensure their effectiveness?,Governance and Risk Management,Risk Management
+Does the organization conduct vulnerability assessments and penetration testing to identify potential security weaknesses?,Governance and Risk Management,Risk Management
+How are vulnerabilities identified through assessments prioritized for remediation?,Governance and Risk Management,Risk Management
+Are vulnerability scan results reviewed and acted upon in a timely manner?,Governance and Risk Management,Risk Management
+Does the organization use threat intelligence feeds to stay informed about emerging threats and vulnerabilities?,Governance and Risk Management,Risk Management
+How is threat intelligence integrated into the organization's risk assessment and incident response processes?,Governance and Risk Management,Risk Management
+Does the organization have a process for managing and tracking security exceptions to established policies and standards?,Governance and Risk Management,Risk Management
+"Are security exceptions documented, reviewed, and approved by appropriate stakeholders?",Governance and Risk Management,Risk Management
+Does the organization have a process for monitoring the effectiveness of implemented security controls?,Governance and Risk Management,Risk Management
+How are control deficiencies identified and addressed?,Governance and Risk Management,Risk Management
+Does the organization conduct regular security audits to assess compliance with internal policies and external regulations?,Governance and Risk Management,Risk Management
+Are audit findings tracked and remediated in a timely manner?,Governance and Risk Management,Risk Management
+Does the organization have a process for reporting information security risks and incidents to senior management and relevant stakeholders?,Governance and Risk Management,Risk Management
+Is there a mechanism in place for employees to report suspected security breaches or vulnerabilities without fear of reprisal?,Governance and Risk Management,Risk Management
+Does the organization provide information security risk management training to employees?,Governance and Risk Management,Risk Management
+How does the organization ensure that third-party vendors and service providers have adequate security controls in place?,Governance and Risk Management,Risk Management
+Are third-party security risks assessed as part of the overall risk management program?,Governance and Risk Management,Risk Management
+Does the organization conduct due diligence on potential vendors to assess their security posture?,Governance and Risk Management,Risk Management
+Are security requirements included in contracts with third-party vendors?,Governance and Risk Management,Risk Management
+How does the organization monitor the security performance of third-party vendors?,Governance and Risk Management,Risk Management
+Is there a formal process for documenting and reviewing Business Impact Analyses (BIAs)?,Governance and Risk Management,Risk Management
+How are the results of BIAs used to inform the risk management process?,Governance and Risk Management,Risk Management
+How are privacy risks related to Personally Identifiable Information (PII) or other sensitive data managed and mitigated?,Governance and Risk Management,Risk Management
+"Does the organization comply with applicable data privacy regulations (e.g., GDPR, CCPA)?",Governance and Risk Management,Risk Management
+"How are risks associated with emerging technologies (e.g., cloud computing, IoT) assessed and managed?",Governance and Risk Management,Risk Management
+Does the organization have a process for identifying and managing risks associated with social engineering attacks?,Governance and Risk Management,Risk Management
+How does the organization validate the effectiveness of security awareness training?,Governance and Risk Management,Risk Management
+Is there a process for evaluating the security of the organization's supply chain?,Governance and Risk Management,Risk Management
+Does the organization require its suppliers to adhere to specific security standards or frameworks?,Governance and Risk Management,Risk Management
+How are risks associated with mergers and acquisitions (M&A) managed?,Governance and Risk Management,Risk Management
+Does the organization have a process for integrating acquired companies into its risk management program?,Governance and Risk Management,Risk Management
+Does the organization have a cyber insurance policy to help mitigate financial losses resulting from security breaches?,Governance and Risk Management,Risk Management
+How are the terms and conditions of the cyber insurance policy reviewed and updated?,Governance and Risk Management,Risk Management
+Are the risk assessment processes documented to be in line with ISO 27001:2022 requirements?,Governance and Risk Management,Risk Management
+Are the organization’s risk criteria aligned with the business and security objectives?,Governance and Risk Management,Risk Management
+Are the risks associated with information security regularly reviewed to adapt to changes in business environment?,Governance and Risk Management,Risk Management
+Are the identified risks regularly communicated to the appropriate stakeholders?,Governance and Risk Management,Risk Management
+"Does the risk management framework encompass all aspects of information security, including IT, physical and human resources?",Governance and Risk Management,Risk Management
+Does the organization have an established plan to track risk treatment measures and their implementation?,Governance and Risk Management,Risk Management
+Is there a process for continual improvement of the information security risk management program?,Governance and Risk Management,Risk Management
+Does the organization have a plan for managing risks related to remote work and bring-your-own-device (BYOD) policies?,Governance and Risk Management,Risk Management
+Does the organization have a process for identifying and evaluating the impact of potential regulatory changes on information security risks?,Governance and Risk Management,Risk Management
+How does the organization ensure that its risk management program is aligned with its overall business strategy?,Governance and Risk Management,Risk Management
+"Is there a documented audit plan that outlines the scope, objectives, and schedule of internal audits related to information security?",Governance and Risk Management,Audit Assurance
+"Does the organization conduct independent internal audits of its information security management system (ISMS) at planned intervals, as per ISO 27001 requirements?",Governance and Risk Management,Audit Assurance
+"Are audit findings documented, reported to relevant stakeholders, and tracked to closure?",Governance and Risk Management,Audit Assurance
+"Does the audit scope include a review of the organization's risk management processes, including risk identification, assessment, and treatment?",Governance and Risk Management,Audit Assurance
+"Are auditors independent of the activities they audit, ensuring objectivity and impartiality?",Governance and Risk Management,Audit Assurance
+Does the organization have a process for selecting and training qualified auditors with the necessary skills and experience to conduct effective security audits?,Governance and Risk Management,Audit Assurance
+Are audit procedures documented and followed consistently to ensure reliable audit results?,Governance and Risk Management,Audit Assurance
+"Does the organization leverage external audit reports (e.g., SOC 2, ISO 27001 certification audits) to identify areas for improvement in its security posture?",Governance and Risk Management,Audit Assurance
+Is there a documented process for managing and resolving audit exceptions or non-conformities?,Governance and Risk Management,Audit Assurance
+"Does the audit program include a review of the organization's compliance with relevant legal, regulatory, and contractual requirements?",Governance and Risk Management,Audit Assurance
+Are audit reports retained as evidence of audit activity and used for management review?,Governance and Risk Management,Audit Assurance
+Does the organization conduct follow-up audits to verify the effectiveness of corrective actions taken to address audit findings?,Governance and Risk Management,Audit Assurance
+Does the internal audit function have sufficient authority and resources to conduct its activities effectively?,Governance and Risk Management,Audit Assurance
+"Are audit findings communicated to senior management and the board of directors, where appropriate?",Governance and Risk Management,Audit Assurance
+Does the organization use audit results to improve its risk management and control processes?,Governance and Risk Management,Audit Assurance
+"Does the audit program include a review of the organization's security policies, standards, and procedures?",Governance and Risk Management,Audit Assurance
+Are security controls tested as part of the audit process to verify their effectiveness?,Governance and Risk Management,Audit Assurance
+Does the audit program include a review of the organization's incident response capabilities?,Governance and Risk Management,Audit Assurance
+Are key performance indicators (KPIs) used to track the effectiveness of the audit program?,Governance and Risk Management,Audit Assurance
+Does the audit program address emerging threats and vulnerabilities?,Governance and Risk Management,Audit Assurance
+Are audit findings used to update the organization's risk assessment?,Governance and Risk Management,Audit Assurance
+Is there a process for escalating critical audit findings to senior management immediately?,Governance and Risk Management,Audit Assurance
+Does the audit program include a review of the organization's third-party risk management practices?,Governance and Risk Management,Audit Assurance
+Are service level agreements (SLAs) with third-party vendors audited to ensure they meet security requirements?,Governance and Risk Management,Audit Assurance
+Does the organization have a process for verifying the qualifications and certifications of external auditors?,Governance and Risk Management,Audit Assurance
+Does the organization benchmark its security practices against industry best practices and standards?,Governance and Risk Management,Audit Assurance
+Are audit results used to prioritize security investments?,Governance and Risk Management,Audit Assurance
+Does the audit program include a review of the organization's data privacy practices?,Governance and Risk Management,Audit Assurance
+Are employees trained on their roles and responsibilities in the audit process?,Governance and Risk Management,Audit Assurance
+"Is there a formal audit charter that defines the scope, authority, and responsibilities of the internal audit function?",Governance and Risk Management,Audit Assurance
+Does the organization use automated tools to support the audit process?,Governance and Risk Management,Audit Assurance
+Are audit findings categorized by severity and impact?,Governance and Risk Management,Audit Assurance
+Does the organization have a process for tracking the status of audit recommendations?,Governance and Risk Management,Audit Assurance
+Are audit reports reviewed by legal counsel to ensure compliance with legal and regulatory requirements?,Governance and Risk Management,Audit Assurance
+Does the audit program include a review of the organization's business continuity and disaster recovery plans?,Governance and Risk Management,Audit Assurance
+Are disaster recovery plans tested as part of the audit process?,Governance and Risk Management,Audit Assurance
+Does the organization have a process for auditing access controls and permissions?,Governance and Risk Management,Audit Assurance
+Are privileged access controls audited regularly?,Governance and Risk Management,Audit Assurance
+Does the audit program include a review of the organization's change management processes?,Governance and Risk Management,Audit Assurance
+Are change management procedures followed consistently?,Governance and Risk Management,Audit Assurance
+Does the organization have a process for auditing its physical security controls?,Governance and Risk Management,Audit Assurance
+Are physical access controls tested regularly?,Governance and Risk Management,Audit Assurance
+Does the organization have a process for auditing its network security controls?,Governance and Risk Management,Audit Assurance
+Are network security controls tested regularly?,Governance and Risk Management,Audit Assurance
+Does the audit program include a review of the organization's vulnerability management processes?,Governance and Risk Management,Audit Assurance
+Are vulnerability scans conducted regularly?,Governance and Risk Management,Audit Assurance
+Does the organization have a process for auditing its security awareness training program?,Governance and Risk Management,Audit Assurance
+Are employees required to complete security awareness training on a regular basis?,Governance and Risk Management,Audit Assurance
+Does the audit program include a review of the organization's data classification policy?,Governance and Risk Management,Audit Assurance
+Are data classification labels applied consistently?,Governance and Risk Management,Audit Assurance
+Does the organization have a process for auditing its encryption and key management practices?,Governance and Risk Management,Audit Assurance
+Does the organization have a documented ESG policy that aligns with its strategic objectives?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Is there a designated individual or team responsible for overseeing and implementing the organization's ESG initiatives?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization conduct a materiality assessment to identify and prioritize relevant ESG factors?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are ESG risks and opportunities integrated into the organization's overall risk management framework (as per ISO 27005 or NIST 800-30)?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+"Does the organization have a process for identifying and complying with relevant environmental regulations (e.g., ISO 14001) and social responsibility standards?",Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+"Does the organization monitor and measure its environmental impact, including greenhouse gas emissions, waste generation, and water usage?",Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are there established targets for reducing the organization's environmental footprint?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have initiatives in place to promote energy efficiency and reduce carbon emissions?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+"Does the organization report on its ESG performance, either through a dedicated ESG report or as part of its annual report (following frameworks like GRI or SASB)?",Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are the organization's ESG disclosures independently verified or assured?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a code of ethics that addresses ethical business conduct and human rights?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a mechanism for reporting and addressing ethical concerns or violations?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are employees provided with training on the organization's code of ethics and ESG policies?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a policy on diversity and inclusion that promotes equal opportunities?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization monitor and report on its progress in achieving diversity and inclusion goals?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are human rights considerations integrated into the organization's supply chain management practices?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization conduct due diligence to identify and address potential human rights risks in its supply chain?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a stakeholder engagement process to understand and address the concerns of its stakeholders?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization communicate its ESG performance and initiatives to its stakeholders?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a board committee or other oversight body responsible for ESG matters?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are executive compensation incentives linked to ESG performance?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a process for identifying and managing climate-related risks and opportunities (aligned with TCFD recommendations)?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are climate change scenarios considered in the organization's long-term strategic planning?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization invest in sustainable technologies and practices?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Is the organization's investment portfolio aligned with its ESG values?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a whistleblowing policy that protects whistleblowers from retaliation?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a process for investigating and addressing allegations of fraud or corruption?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have policies and procedures in place to prevent money laundering?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization comply with all applicable anti-corruption laws and regulations?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+"Does the organization have a data privacy policy that complies with relevant data protection regulations (e.g., GDPR)?",Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a cybersecurity program that protects sensitive data from unauthorized access and disclosure (based on NIST CSF or ISO 27001)?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization provide training to employees on data privacy and cybersecurity best practices?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization conduct regular security audits and penetration testing?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a business continuity plan to ensure business operations can continue during and after disruptions?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization test its business continuity plan regularly?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have an incident response plan to address security incidents and data breaches?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a process for managing and disposing of electronic waste responsibly?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a policy on conflict minerals that promotes ethical sourcing?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a policy on responsible marketing and advertising practices?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization support local communities through philanthropic activities or volunteer programs?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a supplier code of conduct that outlines its expectations for suppliers' ESG performance?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization monitor and audit its suppliers' compliance with its supplier code of conduct?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization collaborate with industry peers and other organizations to promote ESG best practices?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization participate in industry initiatives or certification programs related to ESG?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+"Does the organization have a formal process for tracking and responding to ESG-related inquiries from customers, investors, and other stakeholders?",Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Is the ESG program periodically reviewed by internal audit or an external consultant?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Are the findings of ESG audits and reviews reported to senior management and the board?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization benchmark its ESG performance against its peers?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization have a plan for continuous improvement of its ESG program?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+Does the organization assess the social impact of its products and services?,Governance and Risk Management,"ESG (Environmental, Social, and Governance)"
+"Does the organization have a documented information security organizational structure defining roles, responsibilities, and reporting lines?",Governance and Risk Management,Organizational Security Structure
+Is there a designated Chief Information Security Officer (CISO) or equivalent position with overall responsibility for information security?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a security committee or working group that provides guidance and oversight on security matters?,Governance and Risk Management,Organizational Security Structure
+Are information security roles and responsibilities clearly defined in job descriptions and communicated to employees?,Governance and Risk Management,Organizational Security Structure
+Does the organizational security structure align with the organization's overall risk appetite and strategic goals?,Governance and Risk Management,Organizational Security Structure
+"Are security responsibilities assigned to individuals based on their skills, experience, and level of access to sensitive information?",Governance and Risk Management,Organizational Security Structure
+Does the organization have a process for periodically reviewing and updating the information security organizational structure?,Governance and Risk Management,Organizational Security Structure
+Are there mechanisms in place to ensure accountability for information security responsibilities at all levels of the organization?,Governance and Risk Management,Organizational Security Structure
+Does the organization's security structure facilitate effective communication and coordination between different departments and teams?,Governance and Risk Management,Organizational Security Structure
+Is there a formal escalation process for security incidents and other security-related issues?,Governance and Risk Management,Organizational Security Structure
+"Does the organization's security team have sufficient resources (e.g., budget, staffing, tools) to effectively carry out its responsibilities?",Governance and Risk Management,Organizational Security Structure
+Are security awareness training programs tailored to different roles and responsibilities within the organization?,Governance and Risk Management,Organizational Security Structure
+Does the organization's security structure support the implementation and enforcement of security policies and procedures?,Governance and Risk Management,Organizational Security Structure
+Are there metrics in place to measure the effectiveness of the organization's security structure?,Governance and Risk Management,Organizational Security Structure
+Does the security organizational structure comply with relevant legal and regulatory requirements?,Governance and Risk Management,Organizational Security Structure
+Is there a process for conducting background checks and security clearances for employees in sensitive positions?,Governance and Risk Management,Organizational Security Structure
+Are employees required to sign confidentiality agreements or non-disclosure agreements (NDAs)?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a policy on conflicts of interest for employees with security responsibilities?,Governance and Risk Management,Organizational Security Structure
+Is there a process for managing employee access to sensitive information upon termination of employment?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a formal process for addressing security violations or breaches of policy?,Governance and Risk Management,Organizational Security Structure
+Is the security organizational structure integrated with the organization's overall risk management framework?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a process for identifying and assessing security risks associated with different business units or departments?,Governance and Risk Management,Organizational Security Structure
+Are security controls implemented and enforced consistently across all areas of the organization?,Governance and Risk Management,Organizational Security Structure
+Does the organization conduct regular security audits to assess the effectiveness of its security structure and controls?,Governance and Risk Management,Organizational Security Structure
+Is there a process for reporting security audit findings to senior management and the board of directors?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a process for tracking and remediating security vulnerabilities and weaknesses?,Governance and Risk Management,Organizational Security Structure
+Is there a process for managing and monitoring third-party access to the organization's systems and data?,Governance and Risk Management,Organizational Security Structure
+"Does the organization have a formal incident response plan that outlines roles, responsibilities, and procedures for responding to security incidents?",Governance and Risk Management,Organizational Security Structure
+Are incident response team members trained on their roles and responsibilities?,Governance and Risk Management,Organizational Security Structure
+Does the organization regularly test its incident response plan through simulations and exercises?,Governance and Risk Management,Organizational Security Structure
+"Is the organization's security structure aligned with industry best practices and standards (e.g., ISO 27001, NIST SP 800-53, CIS Controls)?",Governance and Risk Management,Organizational Security Structure
+Does the organization use a risk-based approach to prioritize security investments and initiatives?,Governance and Risk Management,Organizational Security Structure
+Is the organization's security structure designed to support business continuity and disaster recovery efforts?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a formal change management process to ensure that security controls are not compromised during system changes?,Governance and Risk Management,Organizational Security Structure
+Are security considerations integrated into the organization's software development lifecycle (SDLC)?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a vulnerability management program to identify and remediate security vulnerabilities in its systems and applications?,Governance and Risk Management,Organizational Security Structure
+Is there a process for monitoring and analyzing security logs to detect suspicious activity?,Governance and Risk Management,Organizational Security Structure
+Does the organization use a Security Information and Event Management (SIEM) system to correlate and analyze security events?,Governance and Risk Management,Organizational Security Structure
+Are security metrics used to track the performance of the security team and identify areas for improvement?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a formal data classification policy to protect sensitive information?,Governance and Risk Management,Organizational Security Structure
+Is there a process for managing and protecting personally identifiable information (PII) in accordance with privacy regulations?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a process for complying with legal and regulatory requirements related to information security?,Governance and Risk Management,Organizational Security Structure
+Is the organization's security structure designed to protect against insider threats?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a process for managing user access rights and privileges?,Governance and Risk Management,Organizational Security Structure
+Are privileged access controls implemented to restrict access to critical systems and data?,Governance and Risk Management,Organizational Security Structure
+Does the organization use multi-factor authentication (MFA) to protect against unauthorized access?,Governance and Risk Management,Organizational Security Structure
+Are remote access connections secured using encryption and other security measures?,Governance and Risk Management,Organizational Security Structure
+Does the organization have a process for managing and securing mobile devices used to access company resources?,Governance and Risk Management,Organizational Security Structure
+Are security policies and procedures regularly reviewed and updated to reflect changes in the threat landscape and business environment?,Governance and Risk Management,Organizational Security Structure
+Does the organizational security structure promote a culture of security awareness and responsibility throughout the organization?,Governance and Risk Management,Organizational Security Structure

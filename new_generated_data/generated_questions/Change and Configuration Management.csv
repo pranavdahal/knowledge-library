@@ -1,0 +1,204 @@
+question,category,subcategory
+"Does the organization have a documented change management policy that defines the scope, roles, and responsibilities for managing changes to IT systems and infrastructure (ISO 27001 A.12.1.2, NIST 800-53 CM-3)?",Change and Configuration Management,Change Control
+"Is there a defined process for submitting, documenting, and prioritizing change requests (ISO 27001 A.12.1.2, NIST 800-53 CM-3)?",Change and Configuration Management,Change Control
+Does the change management process include risk assessment to identify potential impacts of proposed changes (NIST 800-53 RA-3)?,Change and Configuration Management,Change Control
+"Are all changes subject to a formal approval process prior to implementation, with clearly defined authorization levels (ISO 27001 A.12.1.2, NIST 800-53 CM-5)?",Change and Configuration Management,Change Control
+"Does the change management process require documentation of the proposed change, the reason for the change, the impact on existing systems, and the testing plan (ISO 27001 A.12.1.2, NIST 800-53 CM-3)?",Change and Configuration Management,Change Control
+"Is there a formal process for communicating planned changes to relevant stakeholders, including technical teams, business units, and end-users (ISO 27001 A.12.1.2)?",Change and Configuration Management,Change Control
+"Are emergency change procedures documented and readily available for use in urgent situations (ISO 27001 A.12.1.2, NIST 800-53 CM-4)?",Change and Configuration Management,Change Control
+Does the organization maintain a change schedule that provides visibility into upcoming changes and their potential impact (NIST 800-53 CM-3)?,Change and Configuration Management,Change Control
+"Is there a back-out plan documented for each change in case of failure, outlining the steps to revert to the previous state (ISO 27001 A.12.1.2, NIST 800-53 CM-4)?",Change and Configuration Management,Change Control
+"Are changes tested in a non-production environment before being implemented in the production environment (ISO 27001 A.12.1.2, NIST 800-53 CM-5)?",Change and Configuration Management,Change Control
+Is there a process to verify the successful implementation of changes and document the results (ISO 27001 A.12.1.2)?,Change and Configuration Management,Change Control
+"Does the organization use automated tools to track changes, monitor system performance, and detect unauthorized changes (CIS Control 7.4, NIST 800-53 CM-8)?",Change and Configuration Management,Change Control
+"Are all changes to production systems logged and audited to provide a record of modifications (ISO 27001 A.12.4.1, NIST 800-53 AU-2)?",Change and Configuration Management,Change Control
+"Is there a periodic review of change management processes to ensure effectiveness and compliance with policies (ISO 27001 A.18.2.1, NIST 800-53 CA-7)?",Change and Configuration Management,Change Control
+Are change management roles and responsibilities clearly defined in job descriptions and training materials (ISO 27001 A.6.1.2)?,Change and Configuration Management,Change Control
+"Does the change management process integrate with incident management procedures to ensure that incidents related to changes are properly addressed (ISO 27001 A.16.1.1, NIST 800-53 IR-4)?",Change and Configuration Management,Change Control
+Are users trained on the change management process and their responsibilities in reporting issues and requesting changes (ISO 27001 A.7.2.2)?,Change and Configuration Management,Change Control
+Does the organization use a formal change control board (CCB) to review and approve changes (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Does the CCB include representatives from different departments or business units to ensure broad stakeholder input (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Are changes classified based on their impact and risk level to determine the appropriate level of review and approval (NIST 800-53 RA-3)?,Change and Configuration Management,Change Control
+"Does the change management process address changes to network devices, servers, applications, databases, and other critical IT infrastructure (ISO 27001 A.12.1.2)?",Change and Configuration Management,Change Control
+"Are configuration management tools used to maintain a record of approved configurations and detect deviations from the baseline (CIS Control 5.1, NIST 800-53 CM-2)?",Change and Configuration Management,Change Control
+"Is there a process to reconcile configuration changes with approved change requests to ensure that only authorized changes are implemented (ISO 27001 A.12.1.2, NIST 800-53 CM-3)?",Change and Configuration Management,Change Control
+"Does the organization enforce separation of duties to prevent individuals from making unauthorized changes to systems (ISO 27001 A.6.1.2, NIST 800-53 AC-5)?",Change and Configuration Management,Change Control
+Are independent reviews conducted to verify compliance with change management policies and procedures (ISO 27001 A.18.2.1)?,Change and Configuration Management,Change Control
+Is there a documented escalation process for unresolved change-related issues or conflicts (ISO 27001 A.16.1.1)?,Change and Configuration Management,Change Control
+"Does the organization have a process to manage changes to security controls, such as firewall rules and access control lists (ISO 27001 A.12.6.1)?",Change and Configuration Management,Change Control
+"Are change management metrics tracked to monitor the effectiveness of the change process, such as the number of successful changes, the number of failed changes, and the time to implement changes (NIST 800-53 CA-7)?",Change and Configuration Management,Change Control
+Does the organization use automated deployment tools to reduce the risk of human error during change implementation (CIS Control 7.4)?,Change and Configuration Management,Change Control
+Are all changes to production systems subject to a post-implementation review to identify lessons learned and areas for improvement (ISO 27001 A.18.2.1)?,Change and Configuration Management,Change Control
+"Does the organization have a formal process for managing changes to third-party systems or services that impact the organization's security posture (ISO 27001 A.15.1.1, NIST 800-53 SA-9)?",Change and Configuration Management,Change Control
+Does the change management process address changes to cloud-based systems and services (NIST 800-53 CM-3)?,Change and Configuration Management,Change Control
+Is there a process to ensure that changes to cloud configurations are consistent with the organization's security policies (NIST 800-53 CM-2)?,Change and Configuration Management,Change Control
+Are changes to cloud-based systems reviewed and approved by authorized personnel (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Does the organization use cloud-native tools to track changes and monitor system performance in the cloud (CIS Control 7.4)?,Change and Configuration Management,Change Control
+Are changes to cloud-based systems tested in a non-production environment before being implemented in the production environment (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Does the change management process address changes to mobile devices and mobile applications (NIST 800-53 CM-3)?,Change and Configuration Management,Change Control
+Is there a process to ensure that changes to mobile device configurations are consistent with the organization's security policies (NIST 800-53 CM-2)?,Change and Configuration Management,Change Control
+Are changes to mobile device configurations reviewed and approved by authorized personnel (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Does the organization use mobile device management (MDM) tools to track changes and monitor system performance on mobile devices (CIS Control 7.4)?,Change and Configuration Management,Change Control
+Are changes to mobile devices tested before being implemented (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Does the organization have a process to manage changes to IoT devices (NIST 800-53 CM-3)?,Change and Configuration Management,Change Control
+Are changes to IoT device configurations consistent with the organization's security policies (NIST 800-53 CM-2)?,Change and Configuration Management,Change Control
+Are changes to IoT devices reviewed and approved by authorized personnel (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Does the organization use tools to track changes and monitor system performance on IoT devices (CIS Control 7.4)?,Change and Configuration Management,Change Control
+Are changes to IoT devices tested before being implemented (NIST 800-53 CM-5)?,Change and Configuration Management,Change Control
+Are changes to virtualized environments managed through the change control process?,Change and Configuration Management,Change Control
+Does the change management process include specific considerations for high-availability systems to minimize downtime?,Change and Configuration Management,Change Control
+Are there documented procedures for handling urgent or unplanned configuration changes to address immediate security vulnerabilities?,Change and Configuration Management,Change Control
+How does the organization ensure that configuration changes are properly documented and communicated to relevant stakeholders?,Change and Configuration Management,Change Control
+Are there regular audits of the change management process to verify adherence to established policies and procedures?,Change and Configuration Management,Change Control
+"Does the organization have a documented configuration management policy aligned with industry best practices (e.g., ISO 27001, NIST SP 800-53, CIS Controls)?",Change and Configuration Management,Configuration Management
+Is there a designated individual or team responsible for overseeing configuration management processes?,Change and Configuration Management,Configuration Management
+"Does the organization maintain a comprehensive inventory of all hardware and software assets, including their configurations?",Change and Configuration Management,Configuration Management
+Is a baseline configuration defined for each type of system or device in the organization's environment?,Change and Configuration Management,Configuration Management
+Are configuration standards regularly reviewed and updated to reflect current security threats and vulnerabilities?,Change and Configuration Management,Configuration Management
+Are changes to system configurations documented and approved through a formal change management process?,Change and Configuration Management,Configuration Management
+Is there a mechanism in place to automatically detect unauthorized configuration changes?,Change and Configuration Management,Configuration Management
+Does the organization use a configuration management tool to automate the process of configuration tracking and enforcement?,Change and Configuration Management,Configuration Management
+Are system configurations regularly audited to ensure compliance with defined baselines and security standards?,Change and Configuration Management,Configuration Management
+"Are security hardening guidelines (e.g., CIS Benchmarks) applied to all systems and devices?",Change and Configuration Management,Configuration Management
+Is there a process for managing and controlling privileged access to system configurations?,Change and Configuration Management,Configuration Management
+Are default passwords and configurations changed immediately upon system deployment?,Change and Configuration Management,Configuration Management
+Is there a procedure for handling configuration deviations and exceptions?,Change and Configuration Management,Configuration Management
+Are configuration management logs regularly reviewed for suspicious activity?,Change and Configuration Management,Configuration Management
+Does the organization use version control for configuration files?,Change and Configuration Management,Configuration Management
+Is there a process for backing up and restoring system configurations?,Change and Configuration Management,Configuration Management
+Are configuration backups stored securely and tested regularly?,Change and Configuration Management,Configuration Management
+Does the configuration management process address security considerations for cloud-based resources?,Change and Configuration Management,Configuration Management
+Are virtual machine configurations managed and controlled in a consistent manner?,Change and Configuration Management,Configuration Management
+Is there a process for managing container configurations?,Change and Configuration Management,Configuration Management
+Are configurations tested in a non-production environment before being deployed to production?,Change and Configuration Management,Configuration Management
+Is there a rollback plan for configuration changes that cause issues?,Change and Configuration Management,Configuration Management
+Does the organization have a defined process for managing security patches and updates?,Change and Configuration Management,Configuration Management
+Are security patches applied in a timely manner?,Change and Configuration Management,Configuration Management
+Is there a vulnerability scanning process in place to identify systems with outdated or vulnerable configurations?,Change and Configuration Management,Configuration Management
+Does the configuration management process include procedures for managing mobile device configurations?,Change and Configuration Management,Configuration Management
+Are mobile devices required to adhere to minimum security configuration standards?,Change and Configuration Management,Configuration Management
+"Is there a process for securely disposing of or repurposing systems and devices, including wiping configuration data?",Change and Configuration Management,Configuration Management
+Does the organization use a centralized configuration repository?,Change and Configuration Management,Configuration Management
+Is access to the configuration repository restricted to authorized personnel?,Change and Configuration Management,Configuration Management
+Is the configuration management process integrated with the incident response plan?,Change and Configuration Management,Configuration Management
+Are configuration management procedures documented and readily available to relevant personnel?,Change and Configuration Management,Configuration Management
+Is configuration management training provided to relevant personnel?,Change and Configuration Management,Configuration Management
+Does the organization perform regular self-assessments of its configuration management program?,Change and Configuration Management,Configuration Management
+Are configuration management processes reviewed and updated based on lessons learned from security incidents?,Change and Configuration Management,Configuration Management
+Are configuration management processes reviewed and updated at least annually?,Change and Configuration Management,Configuration Management
+Does the organization have a process to ensure the integrity of the software supply chain?,Change and Configuration Management,Configuration Management
+Are software updates and patches verified before deployment?,Change and Configuration Management,Configuration Management
+"Is there a process for managing configurations for network devices (e.g., routers, switches, firewalls)?",Change and Configuration Management,Configuration Management
+Are network configurations regularly reviewed for security vulnerabilities?,Change and Configuration Management,Configuration Management
+Does the configuration management process address the security of application configurations?,Change and Configuration Management,Configuration Management
+Are application configurations regularly reviewed for security vulnerabilities?,Change and Configuration Management,Configuration Management
+Does the organization use a Security Information and Event Management (SIEM) system to monitor system configurations?,Change and Configuration Management,Configuration Management
+Are configuration changes tracked and correlated with other security events?,Change and Configuration Management,Configuration Management
+"Does the configuration management process support compliance with relevant regulatory requirements (e.g., GDPR, HIPAA)?",Change and Configuration Management,Configuration Management
+Are configuration management controls tested as part of regular security audits?,Change and Configuration Management,Configuration Management
+Is there a process for reporting configuration management metrics to management?,Change and Configuration Management,Configuration Management
+Does the organization use a risk-based approach to prioritize configuration management activities?,Change and Configuration Management,Configuration Management
+Are configuration management processes integrated with the change management system?,Change and Configuration Management,Configuration Management
+Does the configuration management program include metrics to measure its effectiveness?,Change and Configuration Management,Configuration Management
+Is there a process for validating system configurations against compliance benchmarks?,Change and Configuration Management,Configuration Management
+How does the organization handle configurations for legacy systems that may not be fully supported by configuration management tools?,Change and Configuration Management,Configuration Management
+Does the organization have a documented release management policy?,Change and Configuration Management,Release Management
+Does the release management policy define roles and responsibilities for release activities?,Change and Configuration Management,Release Management
+Is there a defined release schedule and communication plan?,Change and Configuration Management,Release Management
+Are release deployment plans documented and reviewed prior to implementation?,Change and Configuration Management,Release Management
+Does the release management process include risk assessments prior to release deployment?,Change and Configuration Management,Release Management
+Are releases categorized based on impact and risk?,Change and Configuration Management,Release Management
+Is there a documented process for requesting and approving software releases?,Change and Configuration Management,Release Management
+Is a formal change control process followed for all release implementations?,Change and Configuration Management,Release Management
+"Is there segregation of duties between development, testing, and production release teams?",Change and Configuration Management,Release Management
+Are automated release deployment tools used to reduce errors and improve efficiency?,Change and Configuration Management,Release Management
+Are rollback procedures documented and tested for each release?,Change and Configuration Management,Release Management
+"Are release activities monitored, and are logs reviewed for anomalies?",Change and Configuration Management,Release Management
+Is there a process for communicating release information to stakeholders?,Change and Configuration Management,Release Management
+Does the release process integrate with the organization's incident management process?,Change and Configuration Management,Release Management
+Are production environments protected from unauthorized changes during the release process?,Change and Configuration Management,Release Management
+Are pre- and post-deployment checks implemented as part of the release process?,Change and Configuration Management,Release Management
+Is there a mechanism for tracking and reporting on release success rates?,Change and Configuration Management,Release Management
+Are release metrics used to improve the release management process?,Change and Configuration Management,Release Management
+Is there a process for managing dependencies between releases?,Change and Configuration Management,Release Management
+Are code repositories securely managed and access controlled?,Change and Configuration Management,Release Management
+Are appropriate controls implemented to prevent unauthorized code from being released?,Change and Configuration Management,Release Management
+Is there a documented process for managing configuration changes associated with releases?,Change and Configuration Management,Release Management
+Are configuration baselines established and maintained for each release?,Change and Configuration Management,Release Management
+Does the release process include testing of configuration changes?,Change and Configuration Management,Release Management
+Is there a process for ensuring the integrity of release packages?,Change and Configuration Management,Release Management
+Are release packages digitally signed to verify authenticity?,Change and Configuration Management,Release Management
+"Are all release artifacts (e.g., code, documentation) securely stored?",Change and Configuration Management,Release Management
+Is there a process for managing emergency releases or hotfixes?,Change and Configuration Management,Release Management
+Are emergency releases subject to expedited but still controlled approval processes?,Change and Configuration Management,Release Management
+Are post-implementation reviews conducted after each release?,Change and Configuration Management,Release Management
+Are lessons learned from post-implementation reviews incorporated into future releases?,Change and Configuration Management,Release Management
+Is there a process for coordinating releases across different teams and departments?,Change and Configuration Management,Release Management
+"Is there a process to handle failed releases, including rollback and root cause analysis?",Change and Configuration Management,Release Management
+Are there specific testing requirements before releasing any new functionalities?,Change and Configuration Management,Release Management
+Does the organization use any tools that automate the Release Management?,Change and Configuration Management,Release Management
+Does Release management procedure include impact analysis for proposed changes?,Change and Configuration Management,Release Management
+Is the change management process integrated with the release management process?,Change and Configuration Management,Release Management
+How often is the release management process reviewed and updated?,Change and Configuration Management,Release Management
+Are user acceptance tests performed before production releases?,Change and Configuration Management,Release Management
+Are backups created before each release to enable rollback?,Change and Configuration Management,Release Management
+Are security scans performed on code before releasing?,Change and Configuration Management,Release Management
+Are dependencies between services checked before releasing?,Change and Configuration Management,Release Management
+Are production-like environments used for staging releases?,Change and Configuration Management,Release Management
+Does the release management process consider compliance requirements such as GDPR or HIPAA?,Change and Configuration Management,Release Management
+Are there SLAs defined for release deployments?,Change and Configuration Management,Release Management
+Is there a process for versioning the release artefacts?,Change and Configuration Management,Release Management
+Does your organization have procedures for testing system vulnerabilities that may be introduced during the release?,Change and Configuration Management,Release Management
+"Does the release team have knowledge of all dependencies related to any application, system, or code being updated?",Change and Configuration Management,Release Management
+Does the release team monitor all systems for compliance post-deployment?,Change and Configuration Management,Release Management
+Are there any automatic triggers in place to notify stakeholders when there is a new release?,Change and Configuration Management,Release Management
+How are the new functionalities communicated to stakeholders?,Change and Configuration Management,Release Management
+"Do the processes address potential impacts of changes to data confidentiality, integrity, and availability?",Change and Configuration Management,Release Management
+Are system hardening standards documented and aligned with industry best practices like CIS Benchmarks or NIST guidelines?,Change and Configuration Management,System Hardening
+Is there a defined process for regularly reviewing and updating system hardening configurations?,Change and Configuration Management,System Hardening
+Are automated tools used to assess and enforce system hardening configurations across all systems?,Change and Configuration Management,System Hardening
+Is there a process to identify and remediate vulnerabilities introduced by deviations from the hardened baseline?,Change and Configuration Management,System Hardening
+Are system hardening configurations version controlled and auditable?,Change and Configuration Management,System Hardening
+"Is multi-factor authentication (MFA) enforced on all systems, including those with privileged access?",Change and Configuration Management,System Hardening
+Are default passwords changed on all systems and applications immediately after installation?,Change and Configuration Management,System Hardening
+Are unnecessary services and applications disabled on all systems to reduce the attack surface?,Change and Configuration Management,System Hardening
+Is the principle of least privilege applied to all user accounts and system processes?,Change and Configuration Management,System Hardening
+Are file integrity monitoring tools used to detect unauthorized changes to critical system files?,Change and Configuration Management,System Hardening
+Are audit logs enabled and regularly reviewed for suspicious activity on all systems?,Change and Configuration Management,System Hardening
+"Is system time synchronized across all systems using a reliable time source (e.g., NTP)?",Change and Configuration Management,System Hardening
+"Are security baselines established and documented for all types of systems (e.g., servers, workstations, network devices)?",Change and Configuration Management,System Hardening
+Is there a documented exception process for deviations from the system hardening baseline?,Change and Configuration Management,System Hardening
+Are systems regularly scanned for vulnerabilities after hardening to verify effectiveness?,Change and Configuration Management,System Hardening
+Are all systems patched in a timely manner according to a defined patch management policy?,Change and Configuration Management,System Hardening
+Are intrusion detection and prevention systems (IDS/IPS) configured to monitor for and block malicious activity on hardened systems?,Change and Configuration Management,System Hardening
+Is application whitelisting or blacklisting implemented to control which applications can run on systems?,Change and Configuration Management,System Hardening
+Are hard drive encryption (full disk encryption) enabled on all laptops and other portable devices?,Change and Configuration Management,System Hardening
+"Are strong password policies enforced, including complexity, length, and rotation requirements?",Change and Configuration Management,System Hardening
+Is secure boot enabled on systems to prevent unauthorized operating systems from loading?,Change and Configuration Management,System Hardening
+Are USB and other removable media ports disabled or restricted to prevent data leakage and malware infection?,Change and Configuration Management,System Hardening
+Are network segmentation and firewalls used to isolate sensitive systems and applications?,Change and Configuration Management,System Hardening
+Are regular security audits conducted to assess the effectiveness of system hardening measures?,Change and Configuration Management,System Hardening
+Is there a formal incident response plan that addresses potential security incidents related to system hardening?,Change and Configuration Management,System Hardening
+"How frequently are system hardening configurations reviewed for compliance with applicable standards (e.g., ISO 27001, NIST SP 800-53, CIS Controls)?",Change and Configuration Management,System Hardening
+Who is responsible for developing and maintaining system hardening standards?,Change and Configuration Management,System Hardening
+How are system hardening configurations tested before being deployed to production systems?,Change and Configuration Management,System Hardening
+How are deviations from the system hardening baseline documented and tracked?,Change and Configuration Management,System Hardening
+Is there a process for escalating security incidents related to system hardening to the appropriate personnel?,Change and Configuration Management,System Hardening
+Are system hardening policies and procedures communicated to all relevant personnel?,Change and Configuration Management,System Hardening
+Are employees trained on system hardening best practices and their responsibilities?,Change and Configuration Management,System Hardening
+Are system hardening configurations tailored to the specific risks and requirements of each system?,Change and Configuration Management,System Hardening
+"Is there a process for decommissioning systems in a secure manner, including wiping data and removing configurations?",Change and Configuration Management,System Hardening
+Are virtual machines hardened to the same standards as physical systems?,Change and Configuration Management,System Hardening
+Are container images hardened before being deployed to production?,Change and Configuration Management,System Hardening
+Are cloud instances hardened to the same standards as on-premises systems?,Change and Configuration Management,System Hardening
+Are third-party applications hardened to prevent vulnerabilities?,Change and Configuration Management,System Hardening
+Are web servers hardened to prevent web application attacks?,Change and Configuration Management,System Hardening
+Are database servers hardened to prevent data breaches?,Change and Configuration Management,System Hardening
+"Are network devices (e.g., routers, switches) hardened to prevent network intrusions?",Change and Configuration Management,System Hardening
+"Are security tools (e.g., antivirus, firewalls) hardened to prevent tampering?",Change and Configuration Management,System Hardening
+Are development and testing environments hardened to prevent vulnerabilities from being introduced into production?,Change and Configuration Management,System Hardening
+Is there a process for regularly backing up system hardening configurations?,Change and Configuration Management,System Hardening
+Are system hardening configurations stored securely to prevent unauthorized access?,Change and Configuration Management,System Hardening
+Is there a disaster recovery plan that includes restoring system hardening configurations?,Change and Configuration Management,System Hardening
+How is the effectiveness of system hardening measures measured and reported?,Change and Configuration Management,System Hardening
+Are system hardening measures continuously improved based on lessons learned from security incidents and audits?,Change and Configuration Management,System Hardening

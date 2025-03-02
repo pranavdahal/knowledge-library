@@ -1,0 +1,205 @@
+question,category,subcategory
+"Does the organization maintain a documented network architecture diagram that includes all network segments, security zones, and key network devices, aligned with ISO 27001 and NIST SP 800-53?",Network Security,Network Architecture
+"Is the network architecture designed with network segmentation to limit the scope of impact from security incidents, adhering to the principles outlined in CIS Control 14?",Network Security,Network Architecture
+"Are security zones implemented based on the sensitivity of the data and systems they contain, as recommended by NIST SP 800-53?",Network Security,Network Architecture
+"Does the network architecture incorporate the principle of least privilege, restricting network access to only what is necessary for each user and system?",Network Security,Network Architecture
+"Are there clearly defined ingress and egress points for network traffic, controlled by firewalls or other security devices, following ISO 27001 best practices?",Network Security,Network Architecture
+"Is the network architecture regularly reviewed and updated to reflect changes in business requirements, technology, and threat landscape, aligned with NIST SP 800-53?",Network Security,Network Architecture
+"Does the organization utilize intrusion detection and prevention systems (IDS/IPS) within the network architecture to identify and block malicious activity, as per CIS Control 6?",Network Security,Network Architecture
+"Are network devices configured with secure baseline configurations, regularly hardened, and monitored for deviations, following ISO 27001 and NIST SP 800-53 guidance?",Network Security,Network Architecture
+Does the organization employ network access control (NAC) mechanisms to authenticate and authorize devices before granting access to the network?,Network Security,Network Architecture
+"Is wireless network access secured using strong encryption protocols (e.g., WPA3) and authentication mechanisms, as recommended by CIS Control 16?",Network Security,Network Architecture
+"Does the organization implement virtual private networks (VPNs) for secure remote access to the network, adhering to ISO 27001 and NIST SP 800-53 recommendations?",Network Security,Network Architecture
+"Are demilitarized zones (DMZs) utilized to host publicly accessible services, separating them from the internal network, as per industry best practices?",Network Security,Network Architecture
+"Does the organization have a documented process for managing and controlling changes to the network architecture, aligned with ISO 27001 and NIST SP 800-53 change management controls?",Network Security,Network Architecture
+"Is network traffic regularly monitored and analyzed for suspicious activity, using tools such as Security Information and Event Management (SIEM) systems, as recommended by CIS Control 6?",Network Security,Network Architecture
+"Does the organization conduct regular vulnerability assessments and penetration testing of the network architecture to identify and address security weaknesses, following ISO 27001 and NIST SP 800-53 guidance?",Network Security,Network Architecture
+"Is the network architecture designed to support business continuity and disaster recovery requirements, with redundant systems and failover capabilities, as per ISO 27001 and NIST SP 800-53 business continuity controls?",Network Security,Network Architecture
+"Does the organization have a documented incident response plan that includes procedures for handling network security incidents, aligned with ISO 27001 and NIST SP 800-53 incident management controls?",Network Security,Network Architecture
+"Are network devices physically secured to prevent unauthorized access and tampering, following ISO 27001 physical security controls?",Network Security,Network Architecture
+"Does the organization have a documented policy on the use of personal devices (BYOD) on the network, outlining security requirements and restrictions?",Network Security,Network Architecture
+"Is the network architecture designed to support compliance with relevant regulatory requirements (e.g., GDPR, HIPAA), as per ISO 27001 and NIST SP 800-53 compliance controls?",Network Security,Network Architecture
+"Does the network architecture include measures to protect against Distributed Denial-of-Service (DDoS) attacks, such as rate limiting and traffic filtering?",Network Security,Network Architecture
+"Are network devices configured to log security-relevant events, and are these logs regularly reviewed for suspicious activity, following ISO 27001 and NIST SP 800-53 logging and monitoring controls?",Network Security,Network Architecture
+"Does the organization utilize network firewalls to control traffic flow between network segments and external networks, as per CIS Control 3?",Network Security,Network Architecture
+"Is network address translation (NAT) used to hide internal network addresses from external networks, enhancing security?",Network Security,Network Architecture
+"Are network security devices (e.g., firewalls, IDS/IPS) regularly updated with the latest security patches and signatures, following ISO 27001 and NIST SP 800-53 patch management controls?",Network Security,Network Architecture
+"Does the network architecture incorporate measures to prevent data leakage, such as data loss prevention (DLP) systems?",Network Security,Network Architecture
+"Are network ports that are not required for business operations disabled or blocked, reducing the attack surface?",Network Security,Network Architecture
+"Does the organization have a documented process for securely disposing of network devices at the end of their lifecycle, preventing data leakage?",Network Security,Network Architecture
+"Is the network architecture designed to support the use of encryption for sensitive data in transit, using protocols such as TLS/SSL?",Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling access to network resources based on user roles and responsibilities?,Network Security,Network Architecture
+Is the network architecture designed to support the use of multi-factor authentication (MFA) for privileged access to network devices?,Network Security,Network Architecture
+Does the organization conduct regular security awareness training for employees on network security threats and best practices?,Network Security,Network Architecture
+Are network security policies and procedures regularly reviewed and updated to reflect changes in the threat landscape and business requirements?,Network Security,Network Architecture
+"Does the network architecture include measures to protect against malware and other malicious software, such as endpoint detection and response (EDR) systems?",Network Security,Network Architecture
+"Is the network architecture designed to support the use of secure DNS configurations, such as DNSSEC, to prevent DNS spoofing attacks?",Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling the use of shadow IT (unauthorized IT systems and services) on the network?,Network Security,Network Architecture
+Is the network architecture designed to support the use of network micro-segmentation to isolate critical systems and applications?,Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling the use of cloud services on the network?,Network Security,Network Architecture
+"Is the network architecture designed to support the use of network virtualization technologies, such as software-defined networking (SDN), while maintaining security?",Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling the use of IoT devices on the network?,Network Security,Network Architecture
+Is the network architecture designed to support the use of network monitoring tools to detect and respond to security incidents in real-time?,Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling the use of remote access tools on the network?,Network Security,Network Architecture
+Is the network architecture designed to support the use of threat intelligence feeds to identify and respond to emerging threats?,Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling the use of virtual private clouds (VPCs) in cloud environments?,Network Security,Network Architecture
+Is the network architecture designed to support the use of network security groups (NSGs) to control traffic flow in cloud environments?,Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling the use of network intrusion detection systems (NIDS) in cloud environments?,Network Security,Network Architecture
+Is the network architecture designed to support the use of network firewalls in cloud environments?,Network Security,Network Architecture
+Does the organization have a documented process for managing and controlling the use of VPN gateways in cloud environments?,Network Security,Network Architecture
+Is the network architecture designed to support the use of secure storage configurations in cloud environments?,Network Security,Network Architecture
+Does the organization maintain a documented network security architecture diagram?,Network Security,Network Controls
+"Are network security controls (e.g., firewalls, IDS/IPS) configured and maintained according to a documented standard or baseline?",Network Security,Network Controls
+Does the organization have a defined process for managing and approving network firewall rule changes?,Network Security,Network Controls
+"Are network firewall rules regularly reviewed (e.g., at least annually) to ensure they are still necessary and appropriate?",Network Security,Network Controls
+Is network segmentation implemented to isolate sensitive systems and data from less-trusted network segments?,Network Security,Network Controls
+Are intrusion detection and prevention systems (IDS/IPS) deployed to monitor network traffic for malicious activity?,Network Security,Network Controls
+Are network IDS/IPS rulesets regularly updated to address new threats?,Network Security,Network Controls
+Does the organization have a process for responding to network security alerts generated by IDS/IPS systems?,Network Security,Network Controls
+"Are network access control lists (ACLs) used to restrict network traffic based on source and destination IP addresses, ports, and protocols?",Network Security,Network Controls
+Is network traffic regularly monitored and analyzed for anomalous activity using network monitoring tools?,Network Security,Network Controls
+"Are network devices (e.g., routers, switches, firewalls) configured with strong passwords and multi-factor authentication (MFA) for administrative access?",Network Security,Network Controls
+Are unused network ports and services disabled on network devices?,Network Security,Network Controls
+Are security baselines established and enforced for network device configurations?,Network Security,Network Controls
+"Are wireless networks secured using strong encryption protocols (e.g., WPA3) and complex passwords?",Network Security,Network Controls
+Is rogue access point detection implemented to identify unauthorized wireless access points on the network?,Network Security,Network Controls
+Are VPNs used to secure remote access to the network?,Network Security,Network Controls
+Are VPN connections configured with strong encryption and multi-factor authentication?,Network Security,Network Controls
+Are network devices regularly patched with security updates to address known vulnerabilities?,Network Security,Network Controls
+Does the organization have a vulnerability management program that includes regular scanning of network devices for vulnerabilities?,Network Security,Network Controls
+Is network traffic filtered to block access to known malicious websites and domains?,Network Security,Network Controls
+Are web application firewalls (WAFs) deployed to protect web applications from common web-based attacks?,Network Security,Network Controls
+Are network logs regularly reviewed for security events and anomalies?,Network Security,Network Controls
+Is a Security Information and Event Management (SIEM) system used to aggregate and analyze network logs from multiple sources?,Network Security,Network Controls
+Does the organization have a documented incident response plan that includes procedures for responding to network security incidents?,Network Security,Network Controls
+Are network security controls tested regularly through penetration testing and vulnerability assessments?,Network Security,Network Controls
+Are the findings from network security assessments used to improve network security controls?,Network Security,Network Controls
+Does the organization use network address translation (NAT) to hide internal IP addresses from the public internet?,Network Security,Network Controls
+Are network DMZs (Demilitarized Zones) used to host publicly accessible services?,Network Security,Network Controls
+Are network services hardened to remove unnecessary features and reduce the attack surface?,Network Security,Network Controls
+Does the organization have a policy on the use of personal devices on the network?,Network Security,Network Controls
+Are guest networks isolated from the internal network?,Network Security,Network Controls
+Are network configurations backed up regularly?,Network Security,Network Controls
+"Is access to network management interfaces (e.g., SSH, web GUI) restricted to authorized personnel?",Network Security,Network Controls
+Are network security policies and procedures regularly reviewed and updated?,Network Security,Network Controls
+Are employees trained on network security best practices?,Network Security,Network Controls
+Is there a designated network security administrator responsible for maintaining network security controls?,Network Security,Network Controls
+Does the organization utilize network flow monitoring for anomaly detection and capacity planning?,Network Security,Network Controls
+"Are secure protocols (e.g., HTTPS, SSH, SFTP) enforced for network communications where applicable?",Network Security,Network Controls
+"Are network security controls integrated with other security systems (e.g., endpoint security, identity management)?",Network Security,Network Controls
+Is network traffic encrypted when transmitted over untrusted networks?,Network Security,Network Controls
+Are network security devices physically secured to prevent unauthorized access?,Network Security,Network Controls
+Does the organization have a process for managing and decommissioning network devices?,Network Security,Network Controls
+Is the network infrastructure regularly audited to ensure compliance with security policies and standards?,Network Security,Network Controls
+Does the organization use threat intelligence feeds to identify and block malicious network traffic?,Network Security,Network Controls
+"Is the network perimeter protected by multiple layers of security controls (e.g., firewalls, intrusion prevention systems)?",Network Security,Network Controls
+Are network security controls documented in a network security plan?,Network Security,Network Controls
+Does the organization participate in information sharing initiatives related to network security threats?,Network Security,Network Controls
+Are network security metrics tracked and reported to management?,Network Security,Network Controls
+Is there a formal process for approving exceptions to network security policies?,Network Security,Network Controls
+Does the organization perform regular wireless network surveys to identify unauthorized access points or vulnerabilities?,Network Security,Network Controls
+"Are all sensitive network management activities (e.g., configuration changes) logged and audited?",Network Security,Network Controls
+Does the organization utilize a network-based firewall to inspect traffic between internal network segments?,Network Security,Network Controls
+"Does the organization have a documented wireless security policy that aligns with industry best practices (e.g., NIST 802.11i, WPA3)?",Network Security,Wireless Security
+"Are rogue access point detection mechanisms in place, and are they regularly monitored?",Network Security,Wireless Security
+Are wireless networks segmented from the wired network using VLANs or other network segmentation techniques?,Network Security,Wireless Security
+"Is strong encryption (e.g., WPA3) used for all wireless networks?",Network Security,Wireless Security
+Is the default Service Set Identifier (SSID) changed on all wireless access points?,Network Security,Wireless Security
+Is MAC address filtering implemented on wireless access points?,Network Security,Wireless Security
+"Is wireless access controlled using strong authentication methods, such as 802.1X with strong passwords or certificate-based authentication?",Network Security,Wireless Security
+Are wireless access points regularly updated with the latest security patches?,Network Security,Wireless Security
+Are wireless intrusion detection/prevention systems (WIDS/WIPS) deployed to monitor wireless network traffic for malicious activity?,Network Security,Wireless Security
+"Are wireless network security assessments (e.g., penetration testing) conducted regularly?",Network Security,Wireless Security
+Are wireless network security configurations reviewed periodically to ensure they meet organizational security standards?,Network Security,Wireless Security
+Is the transmit power of wireless access points adjusted to minimize signal leakage beyond the organization's physical boundaries?,Network Security,Wireless Security
+Are guest wireless networks isolated from the internal network and provided with limited access to resources?,Network Security,Wireless Security
+Are personal wireless access points prohibited from being connected to the organization's network?,Network Security,Wireless Security
+Are employees educated on the risks of connecting to unsecured wireless networks?,Network Security,Wireless Security
+Is multi-factor authentication (MFA) required for access to sensitive resources over wireless networks?,Network Security,Wireless Security
+Are wireless network logs regularly reviewed for suspicious activity?,Network Security,Wireless Security
+Are unused wireless network ports disabled?,Network Security,Wireless Security
+Does the organization have a process for disabling wireless access for terminated employees?,Network Security,Wireless Security
+Is the use of ad-hoc wireless networks prohibited?,Network Security,Wireless Security
+Are wireless network security configurations documented and maintained?,Network Security,Wireless Security
+Does the organization perform regular wireless site surveys to identify potential vulnerabilities?,Network Security,Wireless Security
+Are wireless network devices physically secured to prevent tampering?,Network Security,Wireless Security
+Is there a documented process for responding to wireless security incidents?,Network Security,Wireless Security
+Is wireless access automatically disabled after a period of inactivity?,Network Security,Wireless Security
+Are wireless access points configured to use the lowest possible encryption standard that is supported by all client devices?,Network Security,Wireless Security
+Are wireless client devices required to have up-to-date antivirus software?,Network Security,Wireless Security
+Are wireless client devices required to comply with organizational security policies before being granted network access?,Network Security,Wireless Security
+Is the use of wireless network extenders and repeaters controlled and monitored?,Network Security,Wireless Security
+Are wireless access points configured to broadcast the SSID?,Network Security,Wireless Security
+Are WPA2-Enterprise or WPA3-Enterprise used instead of WPA2-Personal or WPA3-Personal?,Network Security,Wireless Security
+Is there a process for managing and updating wireless access point firmware?,Network Security,Wireless Security
+Are wireless network security settings centrally managed and enforced?,Network Security,Wireless Security
+Does the organization have a wireless network security architecture diagram?,Network Security,Wireless Security
+Are wireless network security policies reviewed and approved by senior management?,Network Security,Wireless Security
+Are employees trained on how to identify and avoid phishing attacks over wireless networks?,Network Security,Wireless Security
+Is wireless network performance monitored to detect anomalies that may indicate a security breach?,Network Security,Wireless Security
+Are wireless access points configured to use separate SSIDs for different security zones?,Network Security,Wireless Security
+Is the captive portal used for guest wireless access to enforce terms of service?,Network Security,Wireless Security
+Are wireless client devices required to use a VPN when accessing sensitive resources?,Network Security,Wireless Security
+Are wireless access points configured to prevent client-to-client communication?,Network Security,Wireless Security
+Does the organization have a process for auditing wireless network security compliance?,Network Security,Wireless Security
+Are third-party wireless service providers required to comply with organizational security policies?,Network Security,Wireless Security
+Are wireless network security configurations regularly backed up?,Network Security,Wireless Security
+Is there a process for tracking and managing wireless network devices?,Network Security,Wireless Security
+Are wireless access points configured to use the latest available security protocols?,Network Security,Wireless Security
+Is wireless network traffic inspected for malware and other malicious content?,Network Security,Wireless Security
+Does the organization participate in threat intelligence sharing programs related to wireless security?,Network Security,Wireless Security
+Are wireless network security alerts prioritized based on severity?,Network Security,Wireless Security
+Are wireless network security configurations regularly tested for effectiveness?,Network Security,Wireless Security
+Are wireless network security policies integrated with other organizational security policies?,Network Security,Wireless Security
+Does the organization maintain a documented network perimeter security policy?,Network Security,Perimeter Security
+Are all internet-facing services protected by a properly configured and maintained firewall?,Network Security,Perimeter Security
+Are firewall rulesets reviewed at least annually to ensure they are still relevant and necessary?,Network Security,Perimeter Security
+Is there a documented process for requesting and approving changes to firewall rules?,Network Security,Perimeter Security
+"Are default passwords on perimeter security devices (e.g., firewalls, routers) changed immediately upon installation?",Network Security,Perimeter Security
+Does the organization utilize an Intrusion Detection System (IDS) and/or Intrusion Prevention System (IPS) at the network perimeter?,Network Security,Perimeter Security
+Are IDS/IPS signatures and rulesets regularly updated?,Network Security,Perimeter Security
+Is network traffic logged and monitored at the perimeter to detect suspicious activity?,Network Security,Perimeter Security
+Are security alerts generated by perimeter security devices reviewed and investigated in a timely manner?,Network Security,Perimeter Security
+Does the organization perform regular penetration testing to assess the effectiveness of perimeter security controls?,Network Security,Perimeter Security
+Are the findings from penetration tests used to improve perimeter security defenses?,Network Security,Perimeter Security
+Is the network perimeter segmented to limit the impact of a potential breach?,Network Security,Perimeter Security
+Does the organization utilize a Demilitarized Zone (DMZ) to isolate publicly accessible services from the internal network?,Network Security,Perimeter Security
+Are access control lists (ACLs) implemented on routers and switches to restrict network traffic flow?,Network Security,Perimeter Security
+Are unused network ports disabled to reduce the attack surface?,Network Security,Perimeter Security
+Does the organization have a process for identifying and mitigating rogue wireless access points?,Network Security,Perimeter Security
+"Are remote access connections to the network perimeter secured using strong authentication methods (e.g., multi-factor authentication)?",Network Security,Perimeter Security
+Is VPN access to the network perimeter restricted to authorized users and devices?,Network Security,Perimeter Security
+Are VPN connections monitored for suspicious activity?,Network Security,Perimeter Security
+Does the organization have a policy regarding the use of personal devices (BYOD) on the network perimeter?,Network Security,Perimeter Security
+Are web application firewalls (WAFs) used to protect web applications from common attacks?,Network Security,Perimeter Security
+Is outbound network traffic filtered to prevent data exfiltration?,Network Security,Perimeter Security
+Does the organization subscribe to threat intelligence feeds to stay informed about emerging threats?,Network Security,Perimeter Security
+Are threat intelligence feeds integrated into perimeter security devices and monitoring systems?,Network Security,Perimeter Security
+Is the network perimeter regularly scanned for vulnerabilities?,Network Security,Perimeter Security
+Are identified vulnerabilities remediated in a timely manner?,Network Security,Perimeter Security
+Does the organization have a disaster recovery plan that addresses potential disruptions to perimeter security infrastructure?,Network Security,Perimeter Security
+Is the disaster recovery plan regularly tested?,Network Security,Perimeter Security
+Are perimeter security devices physically secured to prevent unauthorized access or tampering?,Network Security,Perimeter Security
+Are environmental controls in place to protect perimeter security devices from damage?,Network Security,Perimeter Security
+Does the organization have a formal incident response plan for security incidents that occur at the network perimeter?,Network Security,Perimeter Security
+Is the incident response plan regularly reviewed and updated?,Network Security,Perimeter Security
+Are personnel trained on the incident response plan?,Network Security,Perimeter Security
+Does the organization utilize network address translation (NAT) to hide internal IP addresses from the internet?,Network Security,Perimeter Security
+Are DNS servers configured to prevent DNS amplification attacks?,Network Security,Perimeter Security
+Does the organization use a reverse proxy to protect web servers from direct internet access?,Network Security,Perimeter Security
+"Is the use of unencrypted protocols (e.g., Telnet, FTP) prohibited on the network perimeter?",Network Security,Perimeter Security
+Does the organization enforce a strong password policy for all perimeter security devices?,Network Security,Perimeter Security
+Are security logs from perimeter devices retained for a sufficient period of time to support incident investigation?,Network Security,Perimeter Security
+Is the organization compliant with relevant regulatory requirements for perimeter security?,Network Security,Perimeter Security
+Does the organization conduct regular security audits of its perimeter security controls?,Network Security,Perimeter Security
+Are the findings from security audits used to improve perimeter security defenses?,Network Security,Perimeter Security
+Is there a designated individual or team responsible for managing perimeter security?,Network Security,Perimeter Security
+Does the organization have a documented process for managing third-party access to the network perimeter?,Network Security,Perimeter Security
+Are third-party vendors required to comply with the organization's perimeter security policies?,Network Security,Perimeter Security
+Is the network perimeter architecture reviewed at least annually?,Network Security,Perimeter Security
+Are changes to the network perimeter architecture documented and approved?,Network Security,Perimeter Security
+Does the organization use a cloud-based firewall service?,Network Security,Perimeter Security
+"If a cloud-based firewall is used, is the provider SOC 2 compliant?",Network Security,Perimeter Security
+Is two-factor authentication (2FA) enabled for access to the firewall's configuration?,Network Security,Perimeter Security
+Does the organization have a documented business justification for each firewall rule?,Network Security,Perimeter Security
+"Are there any ""allow any/any"" rules in the firewall configuration? If so, what is the business justification?",Network Security,Perimeter Security

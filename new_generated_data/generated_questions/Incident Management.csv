@@ -1,0 +1,202 @@
+question,category,subcategory
+"Does the organization have a documented and regularly reviewed Incident Response Plan (IRP) based on industry best practices (e.g., NIST SP 800-61)?",Incident Management,Incident Response
+Is there a defined process for identifying and classifying security incidents according to their severity and potential impact?,Incident Management,Incident Response
+Does the IRP clearly define roles and responsibilities for incident response team members?,Incident Management,Incident Response
+"Are incident response procedures regularly tested through simulations, tabletop exercises, or full-scale drills?",Incident Management,Incident Response
+"Is there a designated incident response team (IRT) comprised of individuals from relevant departments (e.g., IT, Security, Legal, Communications)?",Incident Management,Incident Response
+Are incident response team members provided with adequate training on incident handling procedures and relevant technologies?,Incident Management,Incident Response
+"Does the organization maintain a current inventory of assets, including hardware, software, and data, to facilitate incident investigation and response?",Incident Management,Incident Response
+"Are there established communication channels and protocols for reporting security incidents internally and externally (e.g., to law enforcement, regulatory bodies)?",Incident Management,Incident Response
+"Does the IRP include procedures for preserving evidence related to security incidents, ensuring chain of custody, and conducting forensic analysis?",Incident Management,Incident Response
+Are there established procedures for containing security incidents to prevent further damage or compromise?,Incident Management,Incident Response
+"Does the organization have access to tools and technologies necessary for incident detection, analysis, containment, and eradication (e.g., SIEM, EDR, firewall)?",Incident Management,Incident Response
+"Are there procedures in place for eradicating malware, vulnerabilities, or other root causes of security incidents?",Incident Management,Incident Response
+"Does the IRP include procedures for recovering systems, data, and services affected by security incidents?",Incident Management,Incident Response
+"Are there established procedures for documenting all aspects of the incident response process, including incident details, actions taken, and lessons learned?",Incident Management,Incident Response
+Is there a process for conducting post-incident reviews to identify areas for improvement in the IRP and security controls?,Incident Management,Incident Response
+"Does the IRP address legal and regulatory requirements related to incident reporting and data breach notification (e.g., GDPR, CCPA)?",Incident Management,Incident Response
+Are there procedures for maintaining confidentiality and protecting sensitive information during incident response activities?,Incident Management,Incident Response
+"Does the IRP address communication with stakeholders, including customers, employees, and the public, during and after security incidents?",Incident Management,Incident Response
+"Are there procedures for coordinating incident response activities with external partners, such as law enforcement, security vendors, and incident response providers?",Incident Management,Incident Response
+Does the organization have cyber insurance coverage to help mitigate the financial impact of security incidents?,Incident Management,Incident Response
+"Is the IRP regularly updated to reflect changes in the threat landscape, organizational structure, and technology environment?",Incident Management,Incident Response
+Are incident response metrics tracked and analyzed to identify trends and measure the effectiveness of the IRP?,Incident Management,Incident Response
+Does the organization have a dedicated security incident management platform or tool to streamline the incident response process?,Incident Management,Incident Response
+Is there a process for managing vulnerabilities identified during incident investigation and remediation?,Incident Management,Incident Response
+"Does the IRP include specific procedures for handling different types of security incidents, such as malware infections, phishing attacks, and data breaches?",Incident Management,Incident Response
+Are there procedures for securely storing and managing incident response documentation?,Incident Management,Incident Response
+Does the IRP address the handling of personally identifiable information (PII) and other sensitive data during incident response activities?,Incident Management,Incident Response
+Are there procedures for escalating security incidents to appropriate levels of management based on their severity and potential impact?,Incident Management,Incident Response
+Does the organization have a process for identifying and mitigating risks associated with insider threats during incident response?,Incident Management,Incident Response
+Is there a process for tracking and managing remediation efforts following security incidents?,Incident Management,Incident Response
+Does the IRP address the use of threat intelligence information to improve incident detection and response capabilities?,Incident Management,Incident Response
+Are there procedures for conducting forensic analysis on compromised systems and data to determine the cause and extent of the incident?,Incident Management,Incident Response
+Does the organization have a formal incident response communication plan that includes pre-approved messaging for different incident scenarios?,Incident Management,Incident Response
+Is there a process for validating the effectiveness of security controls following incident remediation?,Incident Management,Incident Response
+Does the IRP address the handling of incidents involving cloud-based services and infrastructure?,Incident Management,Incident Response
+Are there procedures for securely disposing of compromised systems and data after incident remediation?,Incident Management,Incident Response
+Does the organization participate in industry threat intelligence sharing initiatives?,Incident Management,Incident Response
+"Is there a process for integrating incident response activities with other security functions, such as vulnerability management and threat hunting?",Incident Management,Incident Response
+Does the organization have a process for tracking and managing the costs associated with security incidents?,Incident Management,Incident Response
+Is there a process for ensuring business continuity and disaster recovery during and after security incidents?,Incident Management,Incident Response
+"Does the incident response plan comply with industry standards and regulatory requirements, such as ISO 27035 and PCI DSS?",Incident Management,Incident Response
+Is there a formal approval process for changes to the incident response plan?,Incident Management,Incident Response
+"Are there procedures for managing the public relations aspects of a security incident, including media inquiries and social media monitoring?",Incident Management,Incident Response
+Does the incident response plan address the potential for legal action or litigation resulting from a security incident?,Incident Management,Incident Response
+Are incident responders trained in ethical hacking techniques to better understand attacker methodologies?,Incident Management,Incident Response
+Is there a documented process for identifying and tracking internal and external stakeholders involved in the incident response process?,Incident Management,Incident Response
+Does the incident response plan address the use of automated tools and technologies to improve the speed and efficiency of incident response?,Incident Management,Incident Response
+Are incident responders provided with secure communication channels for collaborating on incident response activities?,Incident Management,Incident Response
+Does the organization have a process for identifying and mitigating the impact of supply chain attacks during incident response?,Incident Management,Incident Response
+Is there a formal process for ensuring the confidentiality of incident-related information shared with third-party vendors?,Incident Management,Incident Response
+"Does the organization maintain a documented incident investigation procedure, aligned with NIST SP 800-61 and ISO 27035?",Incident Management,Incident Investigation
+"Is there a defined process for preserving evidence (e.g., logs, system images) during an incident investigation, adhering to forensic best practices?",Incident Management,Incident Investigation
+Does the incident investigation procedure specify roles and responsibilities for individuals involved in the investigation process?,Incident Management,Incident Investigation
+"Are personnel trained on incident investigation procedures, including evidence handling and forensic analysis techniques?",Incident Management,Incident Investigation
+"Is a chain of custody maintained for all evidence collected during incident investigations, ensuring integrity and admissibility?",Incident Management,Incident Investigation
+Does the incident investigation process include root cause analysis to identify underlying vulnerabilities or weaknesses that contributed to the incident?,Incident Management,Incident Investigation
+"Are tools and technologies (e.g., forensic workstations, network analyzers) available to support effective incident investigations?",Incident Management,Incident Investigation
+"Does the organization have a process for escalating incidents to relevant stakeholders (e.g., legal counsel, law enforcement) when appropriate?",Incident Management,Incident Investigation
+"Is documentation maintained for all incident investigations, including findings, conclusions, and corrective actions?",Incident Management,Incident Investigation
+Does the incident investigation process include a review of affected systems and applications to identify the scope of the incident?,Incident Management,Incident Investigation
+Are internal and external threat intelligence sources utilized to aid in incident investigation and identification of threat actors?,Incident Management,Incident Investigation
+Does the organization have a process for interviewing individuals who may have information relevant to the incident investigation?,Incident Management,Incident Investigation
+"Is there a defined process for handling personally identifiable information (PII) or other sensitive data during incident investigations, ensuring compliance with privacy regulations?",Incident Management,Incident Investigation
+Does the organization have legal hold procedures in place to preserve data relevant to potential litigation related to security incidents?,Incident Management,Incident Investigation
+Are incident investigation reports reviewed by management to identify trends and areas for improvement in security controls?,Incident Management,Incident Investigation
+Does the incident investigation process include a post-incident review or lessons learned exercise to identify opportunities for improvement?,Incident Management,Incident Investigation
+"Are incident investigation findings used to update security policies, procedures, and training materials?",Incident Management,Incident Investigation
+Is there a process for tracking and monitoring the implementation of corrective actions identified during incident investigations?,Incident Management,Incident Investigation
+Does the organization maintain a log of all security incidents and their associated investigations?,Incident Management,Incident Investigation
+Are key performance indicators (KPIs) established to measure the effectiveness of the incident investigation process?,Incident Management,Incident Investigation
+Does the organization participate in information sharing and collaboration initiatives related to incident investigation and threat intelligence?,Incident Management,Incident Investigation
+Is the incident investigation process periodically tested and reviewed to ensure its effectiveness?,Incident Management,Incident Investigation
+Does the organization have a designated individual or team responsible for conducting incident investigations?,Incident Management,Incident Investigation
+Are third-party service providers required to cooperate with incident investigations and provide relevant information?,Incident Management,Incident Investigation
+Does the incident investigation process address the handling of compromised credentials and accounts?,Incident Management,Incident Investigation
+Is there a process for communicating incident investigation findings to affected users or stakeholders?,Incident Management,Incident Investigation
+Does the organization have a process for retaining incident investigation records in accordance with legal and regulatory requirements?,Incident Management,Incident Investigation
+"Is the incident investigation process integrated with other security management processes, such as vulnerability management and risk management?",Incident Management,Incident Investigation
+Does the organization use a Security Information and Event Management (SIEM) system to assist in incident detection and investigation?,Incident Management,Incident Investigation
+Are data loss prevention (DLP) tools used to identify and investigate potential data breaches during incident investigations?,Incident Management,Incident Investigation
+"How are volatile data sources (e.g., system memory, network connections) handled during incident investigations?",Incident Management,Incident Investigation
+What methods are used to determine the timeline of events during an incident investigation?,Incident Management,Incident Investigation
+Are internal resources or external experts used to conduct forensic analysis of compromised systems?,Incident Management,Incident Investigation
+"Does the incident investigation plan cover the involvement of legal, HR, public relations, and other relevant departments?",Incident Management,Incident Investigation
+How is the potential impact of an incident on business operations assessed during the investigation?,Incident Management,Incident Investigation
+"Are internal and external reporting requirements (e.g., GDPR breach notification) identified and adhered to?",Incident Management,Incident Investigation
+Is there a process for tracking the status of open investigations and ensuring timely resolution?,Incident Management,Incident Investigation
+Does the investigation procedure cover the use of specific frameworks such as the Cyber Kill Chain or the MITRE ATT&CK framework?,Incident Management,Incident Investigation
+How is the investigation methodology selected based on the incident type?,Incident Management,Incident Investigation
+Are there clearly defined criteria for closing an incident investigation?,Incident Management,Incident Investigation
+Is evidence gathered during investigations used to refine detection rules and monitoring capabilities?,Incident Management,Incident Investigation
+How is the cost of incident investigations tracked and managed?,Incident Management,Incident Investigation
+Are investigations independently reviewed to identify biases or gaps in the investigation process?,Incident Management,Incident Investigation
+Are documented escalation paths established to engage different stakeholders in the investigation?,Incident Management,Incident Investigation
+How is the investigation process adapted to address incidents involving cloud-based resources?,Incident Management,Incident Investigation
+How is collaboration with law enforcement or regulatory agencies managed during an investigation?,Incident Management,Incident Investigation
+Are remote forensic capabilities established for situations where on-site investigation is not possible?,Incident Management,Incident Investigation
+Are the outcomes of investigations integrated into threat modeling and security awareness programs?,Incident Management,Incident Investigation
+Are digital signatures used to protect the integrity of investigation reports and evidence?,Incident Management,Incident Investigation
+Does the investigation process include consideration of contractual obligations with partners and vendors?,Incident Management,Incident Investigation
+Is there a process for sanitizing and restoring affected systems after an incident investigation is complete?,Incident Management,Incident Investigation
+Does the organization have a documented incident reporting policy?,Incident Management,Incident Reporting
+Does the incident reporting policy define roles and responsibilities for reporting security incidents?,Incident Management,Incident Reporting
+"Does the incident reporting policy outline the process for reporting incidents, including escalation paths?",Incident Management,Incident Reporting
+"Does the organization provide training to all personnel on how to identify and report security incidents, as per NIST SP 800-53?",Incident Management,Incident Reporting
+Is the incident reporting process integrated with the organization's overall incident response plan?,Incident Management,Incident Reporting
+Does the incident reporting mechanism allow for anonymous reporting of security incidents?,Incident Management,Incident Reporting
+Does the organization have a designated point of contact or team for receiving and processing incident reports?,Incident Management,Incident Reporting
+"Is there a defined timeframe for reporting security incidents after detection, as per ISO 27001?",Incident Management,Incident Reporting
+"Does the incident reporting policy cover all types of security incidents, including data breaches, malware infections, and unauthorized access?",Incident Management,Incident Reporting
+Does the organization use a standardized incident reporting form or system to ensure consistent information gathering?,Incident Management,Incident Reporting
+"Does the incident reporting process include guidelines on what information to include in the report (e.g., affected systems, impact, and individuals involved)?",Incident Management,Incident Reporting
+"Are incident reports reviewed and analyzed to identify trends and patterns, as per CIS Controls?",Incident Management,Incident Reporting
+Does the organization maintain a log of all reported security incidents?,Incident Management,Incident Reporting
+Are incident reports protected from unauthorized access or disclosure?,Incident Management,Incident Reporting
+Is there a process for acknowledging receipt of incident reports and providing updates to the reporter?,Incident Management,Incident Reporting
+Does the incident reporting policy address the handling of sensitive or confidential information contained in incident reports?,Incident Management,Incident Reporting
+"Does the organization have a process for escalating incidents based on severity and impact, as defined in NIST SP 800-53?",Incident Management,Incident Reporting
+Are incident reporting procedures regularly tested and reviewed for effectiveness?,Incident Management,Incident Reporting
+Does the incident reporting process comply with all applicable legal and regulatory requirements?,Incident Management,Incident Reporting
+"Does the organization have a process for reporting security incidents to external parties, such as law enforcement or regulatory agencies, when required?",Incident Management,Incident Reporting
+Does the incident reporting policy include guidelines on preserving evidence related to security incidents?,Incident Management,Incident Reporting
+Is the incident reporting process integrated with the organization's vulnerability management program?,Incident Management,Incident Reporting
+Does the organization have a mechanism for providing feedback to reporters on the outcome of incident investigations?,Incident Management,Incident Reporting
+Does the incident reporting policy address the importance of timely reporting of security incidents?,Incident Management,Incident Reporting
+Is the incident reporting policy easily accessible to all personnel?,Incident Management,Incident Reporting
+Does the organization's security awareness program reinforce the importance of incident reporting?,Incident Management,Incident Reporting
+Does the incident reporting policy address the potential consequences of failing to report security incidents?,Incident Management,Incident Reporting
+Is the incident reporting process aligned with the organization's risk management framework?,Incident Management,Incident Reporting
+Does the organization have a process for tracking the status of reported incidents until resolution?,Incident Management,Incident Reporting
+Does the incident reporting policy define the criteria for determining whether an incident is considered a data breach?,Incident Management,Incident Reporting
+"Does the organization have a process for reporting data breaches to affected individuals and regulatory agencies, as required by law?",Incident Management,Incident Reporting
+Does the incident reporting policy address the handling of incidents involving third-party vendors or service providers?,Incident Management,Incident Reporting
+Is the incident reporting process designed to minimize disruption to business operations?,Incident Management,Incident Reporting
+"Does the organization have a process for reviewing and updating the incident reporting policy on a regular basis, as per ISO 27001?",Incident Management,Incident Reporting
+Does the incident reporting policy include guidelines on maintaining confidentiality during the incident reporting and investigation process?,Incident Management,Incident Reporting
+Does the organization use automated tools or systems to assist with incident reporting and tracking?,Incident Management,Incident Reporting
+Are incident reports used to improve the organization's security controls and incident response capabilities?,Incident Management,Incident Reporting
+Does the incident reporting policy address the handling of incidents involving personally identifiable information (PII)?,Incident Management,Incident Reporting
+Does the organization have a process for providing support to individuals affected by security incidents?,Incident Management,Incident Reporting
+Does the incident reporting policy include guidelines on the role of legal counsel in incident response?,Incident Management,Incident Reporting
+Are incident reports used to develop metrics and dashboards for tracking security performance?,Incident Management,Incident Reporting
+Does the organization have a process for evaluating the effectiveness of the incident reporting process?,Incident Management,Incident Reporting
+Does the incident reporting policy address the handling of incidents involving cloud services?,Incident Management,Incident Reporting
+Does the organization have a process for reporting incidents to cloud service providers when required?,Incident Management,Incident Reporting
+Does the incident reporting policy define the responsibilities of different teams or departments during incident response?,Incident Management,Incident Reporting
+Does the organization have a process for coordinating incident response activities across different locations or business units?,Incident Management,Incident Reporting
+Does the incident reporting process include guidelines on documenting lessons learned from security incidents?,Incident Management,Incident Reporting
+Are lessons learned from security incidents used to improve the organization's security posture and incident response capabilities?,Incident Management,Incident Reporting
+Does the organization have a process for archiving incident reports in accordance with its record retention policy?,Incident Management,Incident Reporting
+"Does the incident reporting process comply with industry best practices and standards, such as NIST SP 800-61?",Incident Management,Incident Reporting
+"Following a major security incident, is a formal 'lessons learned' meeting conducted, with documented outcomes and action items?",Incident Management,Lessons Learned
+Is there a defined process for reviewing incident response procedures and documentation based on 'lessons learned'?,Incident Management,Lessons Learned
+Are 'lessons learned' from incidents incorporated into security awareness training programs?,Incident Management,Lessons Learned
+"Are the root causes of incidents, identified through 'lessons learned', shared with relevant teams (e.g., development, operations, security) to prevent recurrence?",Incident Management,Lessons Learned
+Is there a mechanism for tracking the implementation and effectiveness of corrective actions identified in 'lessons learned' reports?,Incident Management,Lessons Learned
+Does the organization maintain a central repository or knowledge base for 'lessons learned' from security incidents?,Incident Management,Lessons Learned
+Are 'lessons learned' sessions facilitated by a designated individual with expertise in incident management and process improvement?,Incident Management,Lessons Learned
+"Are 'lessons learned' shared with relevant third parties (e.g., vendors, partners) when their systems or processes contributed to the incident?",Incident Management,Lessons Learned
+Are 'lessons learned' incorporated into the business continuity and disaster recovery planning processes?,Incident Management,Lessons Learned
+Is the 'lessons learned' process documented in the organization's incident response plan?,Incident Management,Lessons Learned
+How are the effectiveness of implemented corrective actions from 'lessons learned' measured and validated?,Incident Management,Lessons Learned
+Does the organization have a policy for anonymizing incident details in 'lessons learned' reports to protect sensitive information?,Incident Management,Lessons Learned
+Are 'lessons learned' reviews conducted with a focus on identifying systemic weaknesses rather than assigning blame?,Incident Management,Lessons Learned
+Are timelines established for completing corrective actions identified during 'lessons learned' reviews?,Incident Management,Lessons Learned
+Are the results of 'lessons learned' reviews communicated to senior management and other key stakeholders?,Incident Management,Lessons Learned
+Is there a process for regularly auditing the 'lessons learned' process to ensure its effectiveness?,Incident Management,Lessons Learned
+How are potential conflicts of interest managed during 'lessons learned' reviews?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's threat intelligence capabilities?,Incident Management,Lessons Learned
+Are key performance indicators (KPIs) defined and tracked to measure the impact of 'lessons learned' on incident prevention and response?,Incident Management,Lessons Learned
+Is there a defined escalation path for unresolved issues identified during 'lessons learned' reviews?,Incident Management,Lessons Learned
+Are personnel provided with adequate training on the 'lessons learned' process and their roles in it?,Incident Management,Lessons Learned
+How are 'lessons learned' prioritized based on the severity and impact of the incidents from which they originate?,Incident Management,Lessons Learned
+Is there a process for reviewing and updating the 'lessons learned' process itself based on feedback and experience?,Incident Management,Lessons Learned
+Are 'lessons learned' considered during the evaluation and selection of new security technologies and tools?,Incident Management,Lessons Learned
+How are 'lessons learned' incorporated into the organization's risk assessment process?,Incident Management,Lessons Learned
+"Following a tabletop exercise, is a lessons learned report created and distributed?",Incident Management,Lessons Learned
+Are 'lessons learned' from near-miss incidents also documented and analyzed?,Incident Management,Lessons Learned
+Is there a process for ensuring that 'lessons learned' are accessible and easily searchable for relevant personnel?,Incident Management,Lessons Learned
+How are 'lessons learned' used to improve collaboration and communication between different teams involved in incident response?,Incident Management,Lessons Learned
+Are the costs associated with implementing corrective actions identified during 'lessons learned' reviews tracked and analyzed?,Incident Management,Lessons Learned
+"Are 'lessons learned' used to update security policies, standards, and procedures?",Incident Management,Lessons Learned
+Is there a process for identifying and addressing gaps in skills and training revealed during 'lessons learned' reviews?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to detect and respond to future security incidents?,Incident Management,Lessons Learned
+Is there a regular cadence for reviewing and updating the organization's incident response plan based on 'lessons learned'?,Incident Management,Lessons Learned
+Are 'lessons learned' used to identify and address vulnerabilities in the organization's infrastructure and applications?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to contain and eradicate security incidents?,Incident Management,Lessons Learned
+Is there a process for documenting and tracking the impact of 'lessons learned' on the organization's overall security posture?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to recover from security incidents?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to communicate with stakeholders during and after security incidents?,Incident Management,Lessons Learned
+Is there a process for ensuring that 'lessons learned' are considered when developing and deploying new systems and applications?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to comply with relevant regulations and standards?,Incident Management,Lessons Learned
+"Is there a process for identifying and addressing the human factors that contribute to security incidents, based on 'lessons learned'?",Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to prevent data breaches and other security incidents?,Incident Management,Lessons Learned
+Is there a process for ensuring that 'lessons learned' are considered during the onboarding and training of new employees?,Incident Management,Lessons Learned
+"How are 'lessons learned' from simulated incidents (e.g., penetration tests, red team exercises) integrated with those from real incidents?",Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to detect and prevent insider threats?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to protect sensitive data?,Incident Management,Lessons Learned
+Is there a process for tracking the time and resources spent on 'lessons learned' activities?,Incident Management,Lessons Learned
+Are 'lessons learned' used to improve the organization's ability to manage security risks?,Incident Management,Lessons Learned
+How does the organization ensure that 'lessons learned' are acted upon and not simply documented?,Incident Management,Lessons Learned

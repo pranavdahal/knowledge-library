@@ -1,0 +1,151 @@
+question,category,subcategory
+"Does the organization maintain a comprehensive inventory of all IT assets, including hardware, software, and data, aligned with ISO 27001?",Asset Management,Asset Inventory and Classification
+"Is there a defined process for identifying and classifying assets based on their criticality and sensitivity, referencing NIST SP 800-53?",Asset Management,Asset Inventory and Classification
+"How frequently is the asset inventory updated to reflect changes in the environment (additions, modifications, removals)?",Asset Management,Asset Inventory and Classification
+"Are asset owners designated and accountable for the security and proper handling of their assigned assets, aligning with CIS Control 1?",Asset Management,Asset Inventory and Classification
+"What data classification scheme is used (e.g., Confidential, Private, Public) and is it consistently applied across all asset types?",Asset Management,Asset Inventory and Classification
+"Does the asset inventory include information on asset location, owner, data sensitivity, and business criticality?",Asset Management,Asset Inventory and Classification
+"Are physical assets tagged or labeled for easy identification and tracking, as recommended by ISO 27001?",Asset Management,Asset Inventory and Classification
+"How are software assets, including licenses and versions, tracked and managed within the asset inventory?",Asset Management,Asset Inventory and Classification
+"Is there a documented procedure for decommissioning or disposing of assets securely, ensuring data sanitization?",Asset Management,Asset Inventory and Classification
+Are cloud-based assets included in the asset inventory and classified appropriately?,Asset Management,Asset Inventory and Classification
+Does the organization conduct regular audits to verify the accuracy and completeness of the asset inventory?,Asset Management,Asset Inventory and Classification
+How are exceptions to the asset management policy handled and documented?,Asset Management,Asset Inventory and Classification
+Are third-party owned assets that connect to the organization's network included in the asset inventory?,Asset Management,Asset Inventory and Classification
+"Is the asset inventory integrated with other security tools and systems (e.g., vulnerability scanners, SIEM)?",Asset Management,Asset Inventory and Classification
+How are assets classified that contain personally identifiable information (PII) or other sensitive data?,Asset Management,Asset Inventory and Classification
+Does the organization have a process for discovering unauthorized or shadow IT assets?,Asset Management,Asset Inventory and Classification
+How is the asset inventory used to support incident response and vulnerability management processes?,Asset Management,Asset Inventory and Classification
+Is there a process for regularly reviewing and updating asset classification guidelines based on changes in business requirements or regulations?,Asset Management,Asset Inventory and Classification
+"How are mobile devices (e.g., laptops, smartphones) managed and tracked within the asset inventory?",Asset Management,Asset Inventory and Classification
+"Are security controls applied based on the asset's classification and criticality, as recommended by NIST SP 800-53?",Asset Management,Asset Inventory and Classification
+Is there a designated team or individual responsible for maintaining and managing the asset inventory?,Asset Management,Asset Inventory and Classification
+How is the asset inventory protected from unauthorized access or modification?,Asset Management,Asset Inventory and Classification
+Does the organization use automated tools for asset discovery and inventory management?,Asset Management,Asset Inventory and Classification
+"How are virtualized assets (e.g., virtual machines, containers) tracked and managed within the asset inventory?",Asset Management,Asset Inventory and Classification
+Are removable media devices tracked and controlled within the asset management process?,Asset Management,Asset Inventory and Classification
+Does the organization have a documented policy for asset management that is reviewed and updated annually?,Asset Management,Asset Inventory and Classification
+How does the organization handle asset management in a remote work environment?,Asset Management,Asset Inventory and Classification
+"Is the asset inventory accessible to relevant stakeholders (e.g., IT, security, compliance)?",Asset Management,Asset Inventory and Classification
+"How is asset criticality determined, considering factors such as business impact and regulatory requirements?",Asset Management,Asset Inventory and Classification
+Does the organization have a process for tracking the physical location of assets?,Asset Management,Asset Inventory and Classification
+Are data repositories and databases included in the asset inventory with appropriate classification?,Asset Management,Asset Inventory and Classification
+How are service accounts managed as IT assets and included in the asset inventory?,Asset Management,Asset Inventory and Classification
+Is there a process for onboarding new assets into the inventory and ensuring proper classification?,Asset Management,Asset Inventory and Classification
+"How are assets classified that are used for development, testing, or staging environments?",Asset Management,Asset Inventory and Classification
+Does the organization have a process for managing and tracking software licenses to ensure compliance?,Asset Management,Asset Inventory and Classification
+"How are end-of-life (EOL) assets handled in the asset inventory, and what security controls are in place for these assets?",Asset Management,Asset Inventory and Classification
+"Are network devices (e.g., routers, switches, firewalls) included in the asset inventory?",Asset Management,Asset Inventory and Classification
+How is access to the asset inventory controlled and monitored?,Asset Management,Asset Inventory and Classification
+Does the organization have a process for identifying and classifying sensitive data stored on end-user devices?,Asset Management,Asset Inventory and Classification
+"How are assets classified that are subject to specific regulatory requirements (e.g., HIPAA, GDPR)?",Asset Management,Asset Inventory and Classification
+Is there a process for reviewing and updating the asset inventory after major system changes or upgrades?,Asset Management,Asset Inventory and Classification
+How does the organization ensure that all assets are properly classified before being deployed into production?,Asset Management,Asset Inventory and Classification
+Are contractors and third-party personnel required to adhere to the organization's asset management policy?,Asset Management,Asset Inventory and Classification
+How are assets managed that are located in co-location facilities or data centers?,Asset Management,Asset Inventory and Classification
+Does the organization have a process for tracking the warranty and support information for IT assets?,Asset Management,Asset Inventory and Classification
+How are assets managed that are used for remote access to the organization's network?,Asset Management,Asset Inventory and Classification
+Is there a formal process for documenting the rationale behind asset classification decisions?,Asset Management,Asset Inventory and Classification
+How does the organization ensure that the asset inventory is accurate and up-to-date in a dynamic cloud environment?,Asset Management,Asset Inventory and Classification
+Are assets classified based on their compliance requirements and associated legal obligations?,Asset Management,Asset Inventory and Classification
+How does the asset inventory support the organization's data loss prevention (DLP) strategy?,Asset Management,Asset Inventory and Classification
+"Does your organization have a documented policy for media handling and disposal, aligned with ISO 27001 requirements?",Asset Management,Media Management
+Is there a designated individual or team responsible for overseeing media management procedures?,Asset Management,Media Management
+Does your organization maintain an inventory of all physical and electronic media containing sensitive data?,Asset Management,Media Management
+"Are media assets classified according to their sensitivity levels, as per your data classification policy?",Asset Management,Media Management
+"Are there documented procedures for the secure storage of media, both on-site and off-site?",Asset Management,Media Management
+"Does your media storage environment comply with relevant physical and environmental security standards (e.g., temperature, humidity, access control)?",Asset Management,Media Management
+Are physical access controls implemented to prevent unauthorized access to media storage areas?,Asset Management,Media Management
+"Are electronic media encrypted at rest and in transit, adhering to NIST SP 800-53 guidelines?",Asset Management,Media Management
+Are there procedures for securely transporting media between locations?,Asset Management,Media Management
+Does your organization utilize a secure chain of custody for tracking media during transport and storage?,Asset Management,Media Management
+Are temporary storage locations for media documented and secured?,Asset Management,Media Management
+"Are procedures in place to prevent data leakage during media handling, such as copying or transferring files?",Asset Management,Media Management
+Does the organization conduct periodic audits of media inventory and storage practices to ensure compliance?,Asset Management,Media Management
+Are users trained on proper media handling and disposal procedures as part of your security awareness program?,Asset Management,Media Management
+"Is there a documented procedure for sanitizing media before reuse or disposal, aligned with NIST SP 800-88 guidelines?",Asset Management,Media Management
+"What media sanitization methods are employed (e.g., overwriting, degaussing, physical destruction)?",Asset Management,Media Management
+Are sanitization procedures verified to ensure data cannot be recovered?,Asset Management,Media Management
+"Is there a record of media sanitization activities, including date, method, and verification results?",Asset Management,Media Management
+"Are media disposal procedures compliant with legal and regulatory requirements, such as data privacy laws?",Asset Management,Media Management
+Does the organization use a certified media destruction service for physical destruction of sensitive media?,Asset Management,Media Management
+Are contracts with media destruction services reviewed to ensure they meet security requirements?,Asset Management,Media Management
+"Is there a process for securely disposing of paper-based media containing sensitive information (e.g., shredding)?",Asset Management,Media Management
+Are shredders used for paper disposal regularly maintained and serviced?,Asset Management,Media Management
+"Are electronic media disposed of in a manner that prevents data recovery, such as physical destruction or degaussing?",Asset Management,Media Management
+Does the organization have a policy for the proper disposal of obsolete or damaged IT equipment containing storage media?,Asset Management,Media Management
+Are hard drives and other storage devices removed and securely destroyed before disposal of IT equipment?,Asset Management,Media Management
+Are employees required to return all media containing company data upon termination of employment?,Asset Management,Media Management
+Is there a procedure for tracking and verifying the return of media from departing employees?,Asset Management,Media Management
+"Does the organization use removable media (e.g., USB drives, external hard drives) for data storage or transfer?",Asset Management,Media Management
+"If removable media is used, are there controls to restrict its use and prevent data leakage?",Asset Management,Media Management
+Are removable media devices encrypted and password-protected?,Asset Management,Media Management
+Is the use of personal removable media devices prohibited or restricted on company networks?,Asset Management,Media Management
+Are systems configured to prevent unauthorized booting from removable media?,Asset Management,Media Management
+Are there controls to prevent the introduction of malware through removable media?,Asset Management,Media Management
+Does the organization utilize cloud storage services for data backup or archiving?,Asset Management,Media Management
+"If cloud storage is used, are appropriate security controls implemented to protect data at rest and in transit?",Asset Management,Media Management
+Are cloud storage providers assessed for their security practices and compliance with relevant standards?,Asset Management,Media Management
+Does the organization have a business continuity plan that includes procedures for media backup and recovery?,Asset Management,Media Management
+Are media backups stored in a secure off-site location?,Asset Management,Media Management
+Are media backups regularly tested to ensure data integrity and recoverability?,Asset Management,Media Management
+Are there procedures for restoring data from media backups in the event of a disaster or system failure?,Asset Management,Media Management
+Does the organization have a process for managing and controlling access to sensitive data stored on media?,Asset Management,Media Management
+Are access controls regularly reviewed and updated to reflect changes in personnel and job roles?,Asset Management,Media Management
+Are users required to authenticate before accessing data on media?,Asset Management,Media Management
+Is multi-factor authentication (MFA) used to protect access to sensitive data on media?,Asset Management,Media Management
+Are there controls to prevent unauthorized copying or transfer of sensitive data from media?,Asset Management,Media Management
+Are media management procedures periodically reviewed and updated to reflect changes in technology and business needs?,Asset Management,Media Management
+"Does the organization have a process for addressing security incidents involving media, such as lost or stolen devices?",Asset Management,Media Management
+Are security incidents involving media reported and investigated in a timely manner?,Asset Management,Media Management
+Are lessons learned from security incidents used to improve media management procedures?,Asset Management,Media Management
+"Does the organization have a documented policy and procedure for managing the lifecycle of assets, including acquisition, use, maintenance, and disposal, aligned with ISO 27001?",Asset Management,Asset Lifecycle Management
+"Is there a defined process for asset procurement that includes security requirements and risk assessments, as recommended by NIST SP 800-53?",Asset Management,Asset Lifecycle Management
+"Are assets classified based on their sensitivity and criticality, and are appropriate security controls implemented throughout their lifecycle?",Asset Management,Asset Lifecycle Management
+"Does the organization maintain an inventory of all assets, including hardware, software, and data, and is this inventory regularly updated?",Asset Management,Asset Lifecycle Management
+"Are security requirements considered during the acquisition process of new assets, as outlined in CIS Control 5?",Asset Management,Asset Lifecycle Management
+Is there a formal process for tracking the location and ownership of assets throughout their lifecycle?,Asset Management,Asset Lifecycle Management
+Are regular maintenance and security checks performed on assets to ensure their continued security and functionality?,Asset Management,Asset Lifecycle Management
+"Does the organization have procedures for the secure disposal of assets, including data sanitization and physical destruction, in accordance with industry best practices?",Asset Management,Asset Lifecycle Management
+"Is there a defined process for decommissioning assets, including data migration, backup, and archival, as suggested by NIST SP 800-53?",Asset Management,Asset Lifecycle Management
+Are all asset lifecycle management processes documented and regularly reviewed to ensure their effectiveness?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for monitoring the usage of assets and detecting unauthorized activities?,Asset Management,Asset Lifecycle Management
+Are security controls implemented to prevent unauthorized access to assets during their lifecycle?,Asset Management,Asset Lifecycle Management
+Does the organization conduct regular audits to verify compliance with asset lifecycle management policies and procedures?,Asset Management,Asset Lifecycle Management
+"Are employees trained on asset lifecycle management policies and procedures, including their responsibilities for asset security?",Asset Management,Asset Lifecycle Management
+Is there a process for reporting security incidents related to assets and for investigating and resolving these incidents?,Asset Management,Asset Lifecycle Management
+Does the organization have a business continuity and disaster recovery plan that addresses asset lifecycle management?,Asset Management,Asset Lifecycle Management
+Are backup copies of critical data stored securely and tested regularly to ensure their recoverability?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for managing vulnerabilities and patching assets throughout their lifecycle?,Asset Management,Asset Lifecycle Management
+Are third-party service providers who manage assets subject to security requirements and oversight?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for managing the security of mobile devices and other portable assets throughout their lifecycle?,Asset Management,Asset Lifecycle Management
+Is there a defined process for managing the security of cloud-based assets throughout their lifecycle?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for managing the security of virtualized assets throughout their lifecycle?,Asset Management,Asset Lifecycle Management
+Are security requirements integrated into the software development lifecycle (SDLC) for applications used to manage assets?,Asset Management,Asset Lifecycle Management
+"Does the organization have a process for managing the security of data throughout its lifecycle, from creation to disposal?",Asset Management,Asset Lifecycle Management
+Are access controls regularly reviewed and updated to ensure that only authorized users have access to assets?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for managing the security of removable media throughout its lifecycle?,Asset Management,Asset Lifecycle Management
+Are cryptographic controls used to protect sensitive data stored on assets?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for managing the lifecycle of cryptographic keys?,Asset Management,Asset Lifecycle Management
+Are security logs monitored regularly to detect suspicious activity related to assets?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for managing the security of APIs used to access assets?,Asset Management,Asset Lifecycle Management
+Are security assessments conducted regularly to identify vulnerabilities in assets?,Asset Management,Asset Lifecycle Management
+Does the organization have a process for managing the security of network devices throughout their lifecycle?,Asset Management,Asset Lifecycle Management
+"Is there a process for securely wiping or destroying data on decommissioned storage devices, as per NIST 800-88 guidelines?",Asset Management,Asset Lifecycle Management
+Are there procedures for maintaining chain of custody for assets that are being disposed of?,Asset Management,Asset Lifecycle Management
+Does the disposal process comply with all applicable regulations and legal requirements?,Asset Management,Asset Lifecycle Management
+Are there procedures in place for tracking the movement and storage of assets?,Asset Management,Asset Lifecycle Management
+Does the organization utilize a CMDB (Configuration Management Database) to manage asset configurations?,Asset Management,Asset Lifecycle Management
+Are assets subject to a formal change management process?,Asset Management,Asset Lifecycle Management
+Is there a documented procedure for managing the end-of-life of software applications?,Asset Management,Asset Lifecycle Management
+Are software licenses tracked and managed throughout the software lifecycle?,Asset Management,Asset Lifecycle Management
+"Does the organization have a policy for managing the lifecycle of physical security controls, such as cameras and access control systems?",Asset Management,Asset Lifecycle Management
+Are the maintenance records of assets retained and accessible for audit purposes?,Asset Management,Asset Lifecycle Management
+Are contracts with vendors reviewed to ensure that they address asset lifecycle management?,Asset Management,Asset Lifecycle Management
+Are vendor security assessments conducted to ensure they align with organizational standards regarding asset handling?,Asset Management,Asset Lifecycle Management
+Does the organization have procedures to ensure that firmware updates for hardware devices are applied in a timely manner?,Asset Management,Asset Lifecycle Management
+Does the organization have procedures for identifying counterfeit or compromised hardware or software assets?,Asset Management,Asset Lifecycle Management
+Are asset lifecycle management procedures aligned with the organization's risk management framework?,Asset Management,Asset Lifecycle Management
+Does the organization leverage automated tools to manage and monitor the asset lifecycle?,Asset Management,Asset Lifecycle Management
+Is the process for asset acquisition integrated with existing procurement and financial systems?,Asset Management,Asset Lifecycle Management
+"Are asset disposal records maintained, including date of disposal, method of disposal, and confirmation of data sanitization?",Asset Management,Asset Lifecycle Management

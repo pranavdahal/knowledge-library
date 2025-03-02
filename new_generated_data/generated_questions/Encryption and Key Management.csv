@@ -1,0 +1,153 @@
+question,category,subcategory
+Does the organization maintain a documented cryptographic key management policy aligned with NIST SP 800-57?,Encryption and Key Management,Cryptographic Controls
+"Are encryption algorithms and key lengths selected based on industry best practices and regularly reviewed for continued suitability (e.g., NIST recommendations)?",Encryption and Key Management,Cryptographic Controls
+"Does the organization utilize hardware security modules (HSMs) or equivalent for secure key generation, storage, and management, particularly for sensitive keys?",Encryption and Key Management,Cryptographic Controls
+"Are cryptographic controls implemented to protect data at rest and in transit, adhering to ISO 27001 requirements?",Encryption and Key Management,Cryptographic Controls
+Is there a documented process for selecting appropriate cryptographic algorithms based on the sensitivity and classification of the data being protected?,Encryption and Key Management,Cryptographic Controls
+"Are cryptographic keys rotated on a defined schedule, adhering to best practices for key lifecycle management?",Encryption and Key Management,Cryptographic Controls
+Does the organization perform regular vulnerability assessments and penetration testing to identify weaknesses in cryptographic implementations?,Encryption and Key Management,Cryptographic Controls
+Are digital signatures used to ensure the integrity and authenticity of critical data and software?,Encryption and Key Management,Cryptographic Controls
+Is there a mechanism in place to detect and respond to unauthorized attempts to access or modify cryptographic keys?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls subject to regular audit and review to ensure effectiveness and compliance?,Encryption and Key Management,Cryptographic Controls
+"Does the organization utilize strong cipher suites and protocols (e.g., TLS 1.3 or higher) for secure communications?",Encryption and Key Management,Cryptographic Controls
+Are weak or deprecated cryptographic algorithms and protocols disabled to mitigate security risks?,Encryption and Key Management,Cryptographic Controls
+"Is there a documented procedure for handling compromised cryptographic keys, including revocation and re-keying?",Encryption and Key Management,Cryptographic Controls
+Does the organization enforce the principle of least privilege for access to cryptographic resources?,Encryption and Key Management,Cryptographic Controls
+"Are cryptographic keys protected from unauthorized disclosure, modification, and destruction throughout their lifecycle?",Encryption and Key Management,Cryptographic Controls
+Does the organization use approved cryptographic libraries and modules that are validated against FIPS 140-2 or equivalent standards?,Encryption and Key Management,Cryptographic Controls
+"Is there a process for managing and distributing digital certificates, ensuring their validity and trustworthiness?",Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls integrated into the system development lifecycle (SDLC) to ensure security by design?,Encryption and Key Management,Cryptographic Controls
+Does the organization provide security awareness training to personnel regarding the proper use of cryptographic controls?,Encryption and Key Management,Cryptographic Controls
+"Are cryptographic controls implemented in accordance with legal and regulatory requirements, such as GDPR or HIPAA?",Encryption and Key Management,Cryptographic Controls
+Is there a documented process for verifying the integrity of cryptographic libraries and tools used within the organization?,Encryption and Key Management,Cryptographic Controls
+"Does the organization maintain an inventory of all cryptographic keys, including their purpose, location, and lifecycle status?",Encryption and Key Management,Cryptographic Controls
+Are cryptographic keys backed up securely and stored in a separate location to ensure availability in case of disaster?,Encryption and Key Management,Cryptographic Controls
+Does the organization use strong random number generators for cryptographic key generation?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic keys securely erased or destroyed when they are no longer needed?,Encryption and Key Management,Cryptographic Controls
+Is there a process for monitoring and logging cryptographic activity to detect potential security incidents?,Encryption and Key Management,Cryptographic Controls
+Does the organization perform regular key recovery exercises to ensure the ability to restore access to encrypted data in case of key loss or corruption?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls regularly updated to address newly discovered vulnerabilities?,Encryption and Key Management,Cryptographic Controls
+Does the organization use code signing to verify the authenticity and integrity of software?,Encryption and Key Management,Cryptographic Controls
+Is there a formal process for granting and revoking access to cryptographic resources?,Encryption and Key Management,Cryptographic Controls
+Are access control lists (ACLs) used to restrict access to cryptographic keys and related resources?,Encryption and Key Management,Cryptographic Controls
+Does the organization use multi-factor authentication (MFA) to protect access to cryptographic management systems?,Encryption and Key Management,Cryptographic Controls
+Is there a process for securely decommissioning systems that contain cryptographic keys?,Encryption and Key Management,Cryptographic Controls
+Does the organization use data masking or tokenization techniques to protect sensitive data when cryptographic encryption is not feasible?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls implemented consistently across all systems and applications?,Encryption and Key Management,Cryptographic Controls
+Does the organization use digital watermarks to protect intellectual property and prevent unauthorized copying?,Encryption and Key Management,Cryptographic Controls
+Is there a process for tracking and managing cryptographic exceptions and deviations from policy?,Encryption and Key Management,Cryptographic Controls
+Does the organization use cryptographic hardware acceleration to improve the performance of encryption operations?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic keys securely transmitted when they need to be shared with authorized parties?,Encryption and Key Management,Cryptographic Controls
+Does the organization use secure enclaves or trusted execution environments (TEEs) to protect cryptographic keys and sensitive data?,Encryption and Key Management,Cryptographic Controls
+Is there a process for verifying the correctness of cryptographic implementations?,Encryption and Key Management,Cryptographic Controls
+Does the organization use cryptographic agility to be able to quickly switch to new algorithms and protocols in response to emerging threats?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls documented in sufficient detail to allow for independent verification and audit?,Encryption and Key Management,Cryptographic Controls
+Does the organization have a designated individual or team responsible for managing cryptographic controls?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls aligned with the organization's overall security architecture and risk management strategy?,Encryption and Key Management,Cryptographic Controls
+Does the organization participate in industry forums and information sharing initiatives to stay up-to-date on the latest cryptographic threats and best practices?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls tested as part of the organization's disaster recovery plan?,Encryption and Key Management,Cryptographic Controls
+Does the organization have a process for reporting and resolving cryptographic security incidents?,Encryption and Key Management,Cryptographic Controls
+Are cryptographic controls regularly reviewed and updated based on lessons learned from security incidents?,Encryption and Key Management,Cryptographic Controls
+Does the organization use a centralized key management system to manage cryptographic keys across the enterprise?,Encryption and Key Management,Cryptographic Controls
+"Does your organization have a documented key management policy that outlines procedures for key generation, storage, distribution, rotation, and destruction, aligning with NIST SP 800-53 or ISO 27001?",Encryption and Key Management,Key Management
+"Are cryptographic keys stored securely, using hardware security modules (HSMs) or equivalent protection mechanisms, as recommended by industry best practices?",Encryption and Key Management,Key Management
+"Is access to cryptographic keys strictly controlled and based on the principle of least privilege, in accordance with CIS Control 6?",Encryption and Key Management,Key Management
+"Does your organization enforce regular key rotation policies, based on the sensitivity of the data being protected and regulatory requirements?",Encryption and Key Management,Key Management
+"Are procedures in place to securely destroy cryptographic keys when they are no longer needed, preventing unauthorized access to encrypted data?",Encryption and Key Management,Key Management
+"How does your organization manage cryptographic keys used for data encryption at rest, ensuring that they are protected against unauthorized access and compromise?",Encryption and Key Management,Key Management
+"How does your organization manage cryptographic keys used for data in transit, for example SSL/TLS certificates, ensuring protection against interception and modification?",Encryption and Key Management,Key Management
+Does your key management system support dual control and separation of duties for critical key management operations?,Encryption and Key Management,Key Management
+"Is there a documented process for key recovery in case of key loss or corruption, ensuring business continuity and data availability?",Encryption and Key Management,Key Management
+"How are cryptographic keys audited and monitored for unauthorized use or access attempts, as required by ISO 27001?",Encryption and Key Management,Key Management
+"Does your organization have a process for identifying and responding to key compromise incidents, including revocation and re-keying procedures?",Encryption and Key Management,Key Management
+"Are all cryptographic keys inventoried and tracked throughout their lifecycle, from generation to destruction?",Encryption and Key Management,Key Management
+Is the strength of cryptographic algorithms and key lengths regularly assessed and updated to address evolving threats?,Encryption and Key Management,Key Management
+"How does your organization ensure that cryptographic keys are not exposed in source code, configuration files, or other easily accessible locations?",Encryption and Key Management,Key Management
+Are cryptographic key management practices regularly reviewed and updated to reflect changes in industry standards and regulatory requirements?,Encryption and Key Management,Key Management
+Does your organization use a key management system that complies with FIPS 140-2 or equivalent security standards?,Encryption and Key Management,Key Management
+"How are cryptographic keys distributed securely to authorized users or systems, avoiding insecure channels like email or unencrypted network connections?",Encryption and Key Management,Key Management
+"Does your organization use dedicated personnel or teams to manage cryptographic keys, ensuring accountability and expertise?",Encryption and Key Management,Key Management
+"How does your organization handle cryptographic key management for cloud-based services, ensuring that the cloud provider's practices meet your security requirements?",Encryption and Key Management,Key Management
+"Are cryptographic keys backed up securely, and are these backups regularly tested to ensure they can be restored in case of a disaster?",Encryption and Key Management,Key Management
+Is there a documented process for handling emergency key rotation in response to a known vulnerability or compromise?,Encryption and Key Management,Key Management
+Does your organization have a process for ensuring that cryptographic keys are compatible with the systems and applications they are used to protect?,Encryption and Key Management,Key Management
+"How does your organization manage cryptographic keys for different types of data, such as sensitive personal information or financial data?",Encryption and Key Management,Key Management
+Are cryptographic key management practices integrated into the organization's overall security awareness training program?,Encryption and Key Management,Key Management
+Does your organization conduct regular vulnerability assessments and penetration testing of its key management systems?,Encryption and Key Management,Key Management
+"Are there documented procedures for managing cryptographic keys during employee onboarding, offboarding, and role changes?",Encryption and Key Management,Key Management
+How does your organization ensure the integrity of cryptographic keys during storage and transit?,Encryption and Key Management,Key Management
+Does your organization use cryptographic key wrapping or encryption to protect cryptographic keys at rest?,Encryption and Key Management,Key Management
+Are there technical controls in place to prevent unauthorized access to cryptographic key management systems?,Encryption and Key Management,Key Management
+"Does your organization use a hardware security module (HSM) to generate, store, and manage cryptographic keys?",Encryption and Key Management,Key Management
+How does your organization ensure the segregation of duties between key custodians and those who have access to encrypted data?,Encryption and Key Management,Key Management
+Are there policies in place regarding the usage of cryptographic keys on personal devices or networks?,Encryption and Key Management,Key Management
+"Does your organization monitor for unauthorized attempts to generate, access, or modify cryptographic keys?",Encryption and Key Management,Key Management
+Are there documented procedures for reporting and escalating security incidents related to cryptographic key management?,Encryption and Key Management,Key Management
+Does your organization use a central repository or database to manage cryptographic keys?,Encryption and Key Management,Key Management
+"How does your organization manage the lifecycle of cryptographic certificates, including renewal, revocation, and issuance?",Encryption and Key Management,Key Management
+Are there documented procedures for managing cryptographic keys used in embedded systems or IoT devices?,Encryption and Key Management,Key Management
+Does your organization require multi-factor authentication (MFA) for access to key management systems?,Encryption and Key Management,Key Management
+How does your organization ensure that cryptographic keys are not stored in plain text in logs or audit trails?,Encryption and Key Management,Key Management
+"Are there documented procedures for performing cryptographic key destruction, including verification of successful deletion?",Encryption and Key Management,Key Management
+How does your organization manage cryptographic keys used for digital signatures?,Encryption and Key Management,Key Management
+Is there a process for reviewing and approving changes to cryptographic key management systems?,Encryption and Key Management,Key Management
+Does your organization have a risk assessment process specifically for cryptographic key management?,Encryption and Key Management,Key Management
+"How does your organization ensure compliance with industry regulations and standards related to cryptographic key management, such as PCI DSS or HIPAA?",Encryption and Key Management,Key Management
+Are there documented procedures for managing cryptographic keys used in virtualized environments?,Encryption and Key Management,Key Management
+Does your organization use a key escrow service to protect against key loss or unavailability?,Encryption and Key Management,Key Management
+How does your organization manage cryptographic keys for legacy systems that may not support modern key management practices?,Encryption and Key Management,Key Management
+Are there documented procedures for managing cryptographic keys in a multi-tenant environment?,Encryption and Key Management,Key Management
+Does your organization have a business continuity plan that addresses cryptographic key management in the event of a disaster?,Encryption and Key Management,Key Management
+How does your organization ensure the trustworthiness of third-party key management providers?,Encryption and Key Management,Key Management
+Does your organization perform background checks on personnel who have access to cryptographic keys?,Encryption and Key Management,Key Management
+"Does the organization maintain an inventory of all digital certificates, including their purpose, location, and responsible party, as per NIST SP 800-53 CM-8?",Encryption and Key Management,Certificate Management
+Are certificate authorities (CAs) used for issuing digital certificates internally and externally?,Encryption and Key Management,Certificate Management
+Does the organization have a documented certificate management policy and procedures?,Encryption and Key Management,Certificate Management
+"Is there a defined process for requesting, approving, issuing, renewing, and revoking digital certificates?",Encryption and Key Management,Certificate Management
+"How frequently are digital certificates rotated, and is this rotation automated where possible, aligning with ISO 27001 A.13.2.4?",Encryption and Key Management,Certificate Management
+Are certificate signing requests (CSRs) generated and handled securely?,Encryption and Key Management,Certificate Management
+"Are private keys associated with digital certificates stored securely, utilizing hardware security modules (HSMs) or equivalent controls?",Encryption and Key Management,Certificate Management
+"Are digital certificates monitored for expiration, and are alerts triggered to initiate renewal processes?",Encryption and Key Management,Certificate Management
+Does the organization validate the identity of certificate requesters before issuing certificates?,Encryption and Key Management,Certificate Management
+Are certificate revocation lists (CRLs) or Online Certificate Status Protocol (OCSP) stapling mechanisms implemented to verify certificate validity in real-time?,Encryption and Key Management,Certificate Management
+"How does the organization handle compromised certificates, including incident response procedures and revocation processes?",Encryption and Key Management,Certificate Management
+Are digital certificates used for authentication purposes subject to multi-factor authentication (MFA) requirements?,Encryption and Key Management,Certificate Management
+"Does the organization use certificate pinning to prevent man-in-the-middle (MITM) attacks, as recommended by CIS Control 7.4?",Encryption and Key Management,Certificate Management
+Are digital certificates used for code signing purposes protected against unauthorized access and modification?,Encryption and Key Management,Certificate Management
+Does the organization perform regular audits of its certificate management processes to ensure compliance with policies and standards?,Encryption and Key Management,Certificate Management
+Is there a designated role responsible for overseeing certificate management activities within the organization?,Encryption and Key Management,Certificate Management
+"How are digital certificates used for securing email communications (e.g., S/MIME) managed?",Encryption and Key Management,Certificate Management
+Are digital certificates used for securing web servers configured with appropriate cipher suites and protocols?,Encryption and Key Management,Certificate Management
+Does the organization use a certificate management platform or tool to automate and streamline certificate lifecycle management?,Encryption and Key Management,Certificate Management
+How does the organization manage digital certificates used for securing cloud services and infrastructure?,Encryption and Key Management,Certificate Management
+Are digital certificates used for securing VPN connections and remote access properly managed?,Encryption and Key Management,Certificate Management
+Does the organization have a process for securely archiving and destroying expired or revoked digital certificates?,Encryption and Key Management,Certificate Management
+How are digital certificates used for securing APIs managed and monitored?,Encryption and Key Management,Certificate Management
+Are digital certificates used for securing IoT devices and embedded systems properly provisioned and managed?,Encryption and Key Management,Certificate Management
+Does the organization have a training program for personnel involved in certificate management activities?,Encryption and Key Management,Certificate Management
+Is certificate management integrated with the organization's vulnerability management program?,Encryption and Key Management,Certificate Management
+"How does the organization ensure compliance with industry-specific certificate requirements (e.g., PCI DSS, HIPAA)?",Encryption and Key Management,Certificate Management
+Are digital certificates used for securing database connections properly managed and rotated?,Encryption and Key Management,Certificate Management
+Does the organization have a process for auditing the use of wildcard certificates?,Encryption and Key Management,Certificate Management
+How does the organization manage digital certificates issued by external certificate authorities?,Encryption and Key Management,Certificate Management
+Are there controls in place to prevent the issuance of unauthorized or rogue certificates?,Encryption and Key Management,Certificate Management
+Is certificate enrollment automated to avoid manual intervention and associated security risks?,Encryption and Key Management,Certificate Management
+Does the organization use a code signing certificate for internal software development processes?,Encryption and Key Management,Certificate Management
+Are security keys associated with certificates protected using strong access controls and physical security?,Encryption and Key Management,Certificate Management
+Is the validity period for newly issued certificates aligned with the least privilege principle and industry best practices?,Encryption and Key Management,Certificate Management
+Do you have a process to handle expired certificates to avoid disruption of services?,Encryption and Key Management,Certificate Management
+Does your certificate management solution generate alerts for weak signature algorithms like SHA-1?,Encryption and Key Management,Certificate Management
+"Is a certificate lifecycle documented from creation, renewal, to archival and/or destruction?",Encryption and Key Management,Certificate Management
+"Are there documented procedures for certificate compromise, including steps for immediate revocation and re-issuance?",Encryption and Key Management,Certificate Management
+Are access controls implemented to limit access to the certificate store and related key material?,Encryption and Key Management,Certificate Management
+Do you implement certificate revocation mechanisms (CRL/OCSP) for timely notification of compromised certificates?,Encryption and Key Management,Certificate Management
+How are certificate backups handled and protected against unauthorized access or corruption?,Encryption and Key Management,Certificate Management
+Do you enforce strong password policies for protecting access to the Certificate Authority (CA) system?,Encryption and Key Management,Certificate Management
+Do you periodically review and update the Certificate Policy (CP) and Certification Practice Statement (CPS)?,Encryption and Key Management,Certificate Management
+How do you manage certificates for internal services that do not have a direct trust relationship with public CAs?,Encryption and Key Management,Certificate Management
+Are regular vulnerability scans performed on the Certificate Authority (CA) infrastructure?,Encryption and Key Management,Certificate Management
+Do you utilize Hardware Security Modules (HSMs) for key generation and storage within the certificate infrastructure?,Encryption and Key Management,Certificate Management
+Are logs from the certificate management system regularly monitored for suspicious activity?,Encryption and Key Management,Certificate Management
+Do you audit the actions performed by Certificate Authority (CA) administrators?,Encryption and Key Management,Certificate Management
+Does the certificate management process integrate with the organization's change management process?,Encryption and Key Management,Certificate Management
+How do you ensure that only trusted Root CAs are present in the trusted root store of endpoints?,Encryption and Key Management,Certificate Management

@@ -1,0 +1,201 @@
+question,category,subcategory
+"Does the organization have a documented Data Governance Policy that defines data ownership, roles, and responsibilities related to data governance and classification?",Data Governance,Data Governance and Classification
+"Is there a defined process for identifying and classifying data based on its sensitivity, criticality, and legal/regulatory requirements (e.g., public, confidential, restricted)?",Data Governance,Data Governance and Classification
+"Does the data classification scheme align with relevant standards like ISO 27001, NIST 800-53, and industry best practices?",Data Governance,Data Governance and Classification
+"How frequently is the data classification policy reviewed and updated to reflect changes in business requirements, regulations, and threat landscape?",Data Governance,Data Governance and Classification
+"Are employees trained on the organization's data classification policy and procedures, including the proper handling and protection of different data types?",Data Governance,Data Governance and Classification
+"Is there a central data catalog or inventory that documents the organization's data assets, their location, classification, and ownership?",Data Governance,Data Governance and Classification
+"Are data owners identified and accountable for the appropriate classification, security, and management of their respective data assets?",Data Governance,Data Governance and Classification
+Does the organization have a process for regularly auditing data classification accuracy and compliance with the Data Governance Policy?,Data Governance,Data Governance and Classification
+"Are there specific access controls in place based on data classification (e.g., only authorized personnel can access confidential data)?",Data Governance,Data Governance and Classification
+Are data retention and disposal policies aligned with data classification and legal/regulatory requirements?,Data Governance,Data Governance and Classification
+How does the organization ensure consistent data classification across different systems and applications?,Data Governance,Data Governance and Classification
+Is there a defined process for handling exceptions to the data classification policy?,Data Governance,Data Governance and Classification
+How are personally identifiable information (PII) and other sensitive data types specifically identified and classified?,Data Governance,Data Governance and Classification
+Does the organization use automated tools or technologies to assist with data classification and discovery?,Data Governance,Data Governance and Classification
+"Are data classification markings or labels consistently applied to data assets (e.g., metadata tags, watermarks)?",Data Governance,Data Governance and Classification
+Is there a process for re-evaluating data classification when data is transferred between systems or shared with third parties?,Data Governance,Data Governance and Classification
+Does the organization conduct data flow diagrams to understand where sensitive data resides and how it moves throughout the environment?,Data Governance,Data Governance and Classification
+How is data classification integrated into the software development lifecycle (SDLC) to ensure data is properly classified from creation?,Data Governance,Data Governance and Classification
+"Are there specific security controls implemented to protect highly sensitive or regulated data types, such as encryption or data masking?",Data Governance,Data Governance and Classification
+How does the organization address data sovereignty and residency requirements when classifying and managing data?,Data Governance,Data Governance and Classification
+Is there a defined process for data breach notification that considers the classification of the breached data?,Data Governance,Data Governance and Classification
+How are data quality considerations integrated into the data governance and classification framework?,Data Governance,Data Governance and Classification
+"Does the organization have a data dictionary that defines data elements, their meaning, and data quality rules?",Data Governance,Data Governance and Classification
+How are structured and unstructured data handled differently in the data classification process?,Data Governance,Data Governance and Classification
+Are data security roles and responsibilities clearly defined and assigned within the data governance framework?,Data Governance,Data Governance and Classification
+Does the organization have a designated Data Governance Officer or team responsible for overseeing data governance activities?,Data Governance,Data Governance and Classification
+How does the organization handle legacy data that may not be properly classified?,Data Governance,Data Governance and Classification
+Are there specific data classification requirements for data stored in cloud environments?,Data Governance,Data Governance and Classification
+How are data classification policies enforced across different departments and business units?,Data Governance,Data Governance and Classification
+Is there a process for measuring the effectiveness of the data governance and classification program?,Data Governance,Data Governance and Classification
+How are data privacy principles incorporated into the data governance and classification framework?,Data Governance,Data Governance and Classification
+Does the organization perform regular risk assessments to identify potential vulnerabilities related to data classification and protection?,Data Governance,Data Governance and Classification
+Are there specific procedures for handling data subject access requests (DSARs) based on data classification?,Data Governance,Data Governance and Classification
+"How does the organization ensure compliance with data protection regulations such as GDPR, CCPA, and HIPAA through data classification?",Data Governance,Data Governance and Classification
+Is there a documented process for managing data access requests based on the data classification?,Data Governance,Data Governance and Classification
+How does the organization handle the classification of data used in artificial intelligence (AI) and machine learning (ML) models?,Data Governance,Data Governance and Classification
+Are there specific data classification guidelines for research and development data?,Data Governance,Data Governance and Classification
+How are data encryption keys managed in relation to data classification?,Data Governance,Data Governance and Classification
+Does the organization have a policy regarding the use of personal devices for accessing classified data?,Data Governance,Data Governance and Classification
+How are data classification requirements communicated to third-party vendors and service providers?,Data Governance,Data Governance and Classification
+Is there a process for monitoring data access logs to detect unauthorized access to classified data?,Data Governance,Data Governance and Classification
+How does the organization handle the declassification of data that is no longer considered sensitive?,Data Governance,Data Governance and Classification
+Are there specific data classification requirements for data stored in backup and disaster recovery systems?,Data Governance,Data Governance and Classification
+How does the organization ensure the integrity of data classification markings and labels?,Data Governance,Data Governance and Classification
+Is there a process for tracking changes to data classification assignments?,Data Governance,Data Governance and Classification
+How does the organization address data quality issues that may arise from inaccurate data classification?,Data Governance,Data Governance and Classification
+Are there specific data classification guidelines for data stored in data warehouses and data lakes?,Data Governance,Data Governance and Classification
+How does the organization handle the classification of metadata associated with data assets?,Data Governance,Data Governance and Classification
+Is there a process for reviewing and approving data classification exceptions?,Data Governance,Data Governance and Classification
+How are data classification metrics used to improve the data governance program?,Data Governance,Data Governance and Classification
+Does the organization have a data ethics framework that aligns with the data governance and classification policies?,Data Governance,Data Governance and Classification
+Does the organization have a documented data retention and deletion policy?,Data Governance,Data Retention and Deletion
+"Is the data retention and deletion policy aligned with legal, regulatory, and business requirements?",Data Governance,Data Retention and Deletion
+"Does the data retention and deletion policy cover all types of data, including structured, unstructured, and metadata?",Data Governance,Data Retention and Deletion
+Are data retention periods defined based on data classification and business needs?,Data Governance,Data Retention and Deletion
+Does the organization have a process to identify and classify data based on its sensitivity and value?,Data Governance,Data Retention and Deletion
+Does the organization have a process to review and update data retention periods regularly?,Data Governance,Data Retention and Deletion
+Are data retention schedules clearly communicated to relevant stakeholders?,Data Governance,Data Retention and Deletion
+Does the organization have a process to securely dispose of data at the end of its retention period?,Data Governance,Data Retention and Deletion
+"Does the data disposal process comply with applicable regulations and standards, such as NIST SP 800-88?",Data Governance,Data Retention and Deletion
+"Are data disposal methods appropriate for the sensitivity of the data being disposed of (e.g., purging, wiping, destruction)?",Data Governance,Data Retention and Deletion
+Are data disposal methods documented and consistently applied?,Data Governance,Data Retention and Deletion
+"Does the organization maintain a record of data disposal activities, including the date, method, and data disposed of?",Data Governance,Data Retention and Deletion
+Is there a process for handling data that is subject to legal hold or litigation?,Data Governance,Data Retention and Deletion
+Does the organization have a process for identifying and managing orphaned data?,Data Governance,Data Retention and Deletion
+Are employees trained on data retention and deletion policies and procedures?,Data Governance,Data Retention and Deletion
+Is there a process for monitoring compliance with data retention and deletion policies?,Data Governance,Data Retention and Deletion
+Are regular audits conducted to verify adherence to data retention and deletion policies and procedures?,Data Governance,Data Retention and Deletion
+Does the organization have a process for responding to data breaches or incidents involving data that should have been deleted?,Data Governance,Data Retention and Deletion
+Does the data retention and deletion policy address the use of cloud services?,Data Governance,Data Retention and Deletion
+Are data retention and deletion requirements communicated to cloud service providers?,Data Governance,Data Retention and Deletion
+Does the organization have a process for securely deleting data stored in cloud environments?,Data Governance,Data Retention and Deletion
+Does the data retention and deletion policy address the use of third-party service providers?,Data Governance,Data Retention and Deletion
+Are data retention and deletion requirements included in contracts with third-party service providers?,Data Governance,Data Retention and Deletion
+Does the organization have a process for verifying that third-party service providers are securely deleting data?,Data Governance,Data Retention and Deletion
+Does the organization's data retention and deletion policy comply with ISO 27001 controls related to information disposal and media handling?,Data Governance,Data Retention and Deletion
+Does the organization's data retention and deletion policy comply with NIST SP 800-53 controls related to media sanitization and information retention?,Data Governance,Data Retention and Deletion
+Does the organization's data retention and deletion policy align with CIS Control 4: Controlled Access Based on the Need to Know?,Data Governance,Data Retention and Deletion
+Are there specific procedures for the secure disposal of physical media containing sensitive data?,Data Governance,Data Retention and Deletion
+Does the data retention policy address the management of backups and archives?,Data Governance,Data Retention and Deletion
+How often are backups tested to ensure data can be restored?,Data Governance,Data Retention and Deletion
+Are backups securely stored and protected from unauthorized access?,Data Governance,Data Retention and Deletion
+Does the organization use data masking or anonymization techniques to reduce the risk of data breaches during retention?,Data Governance,Data Retention and Deletion
+Is there a process for securely deleting or overwriting data on decommissioned systems?,Data Governance,Data Retention and Deletion
+Does the organization have a process for managing data subject access requests (DSARs) related to data deletion?,Data Governance,Data Retention and Deletion
+How does the organization ensure that personal data is deleted when a data subject exercises their right to erasure (GDPR Article 17)?,Data Governance,Data Retention and Deletion
+Does the data retention and deletion policy address the retention and disposal of log data?,Data Governance,Data Retention and Deletion
+"Are log data retention periods defined based on legal, regulatory, and security requirements?",Data Governance,Data Retention and Deletion
+Are log data securely stored and protected from unauthorized access and modification?,Data Governance,Data Retention and Deletion
+Does the organization have a process for archiving data that is no longer actively used but needs to be retained for compliance or business reasons?,Data Governance,Data Retention and Deletion
+Are archived data securely stored and protected from unauthorized access?,Data Governance,Data Retention and Deletion
+Does the organization have a process for periodically reviewing and disposing of archived data?,Data Governance,Data Retention and Deletion
+Does the data retention and deletion policy address the use of mobile devices and removable media?,Data Governance,Data Retention and Deletion
+Are there controls in place to prevent sensitive data from being stored on mobile devices or removable media?,Data Governance,Data Retention and Deletion
+Are mobile devices and removable media encrypted?,Data Governance,Data Retention and Deletion
+Does the organization have a process for remotely wiping data from lost or stolen mobile devices?,Data Governance,Data Retention and Deletion
+Is there a process for securely disposing of mobile devices and removable media?,Data Governance,Data Retention and Deletion
+Are there exception handling processes documented for data requiring retention longer than the standard policy dictates?,Data Governance,Data Retention and Deletion
+Is there a data owner or steward responsible for enforcing the data retention and deletion policy?,Data Governance,Data Retention and Deletion
+Are data deletion requests tracked and audited?,Data Governance,Data Retention and Deletion
+Is there a process for escalating non-compliance with the data retention and deletion policy?,Data Governance,Data Retention and Deletion
+Does the organization have a documented data security policy that defines responsibilities and acceptable use of data?,Data Governance,Data Security
+"Does the organization classify data based on sensitivity, criticality, and legal/regulatory requirements?",Data Governance,Data Security
+Is there a data loss prevention (DLP) program in place to monitor and prevent sensitive data from leaving the organization's control?,Data Governance,Data Security
+Are data access controls based on the principle of least privilege and role-based access control (RBAC)?,Data Governance,Data Security
+"Are sensitive data repositories (databases, file shares, etc.) regularly audited to ensure appropriate access controls are in place?",Data Governance,Data Security
+"Are encryption mechanisms used to protect sensitive data at rest and in transit, adhering to industry-standard cryptographic algorithms?",Data Governance,Data Security
+Does the organization have a key management policy and process for managing cryptographic keys throughout their lifecycle?,Data Governance,Data Security
+"Is data masking or tokenization used to protect sensitive data in non-production environments (e.g., development, testing)?",Data Governance,Data Security
+"Are database security measures, such as vulnerability scanning and hardening, implemented to protect data from unauthorized access and attacks?",Data Governance,Data Security
+"Does the organization have a process for securely deleting or destroying data when it is no longer needed, in accordance with retention policies?",Data Governance,Data Security
+"Are data retention policies defined and enforced to comply with legal, regulatory, and business requirements?",Data Governance,Data Security
+"Are regular backups of critical data performed and stored securely, with a documented recovery process in place?",Data Governance,Data Security
+Is data integrity monitored to detect unauthorized modifications or corruption?,Data Governance,Data Security
+Does the organization have a documented incident response plan that addresses data security breaches?,Data Governance,Data Security
+"Are employees trained on data security policies and procedures, including phishing awareness and secure data handling practices?",Data Governance,Data Security
+Are third-party vendors assessed for their data security practices before being granted access to sensitive data?,Data Governance,Data Security
+Are contracts with third-party vendors reviewed to ensure they include appropriate data security clauses and compliance requirements?,Data Governance,Data Security
+"Is data security regularly monitored and reviewed through vulnerability assessments, penetration testing, and security audits?",Data Governance,Data Security
+Is there a process for reporting and addressing data security vulnerabilities in a timely manner?,Data Governance,Data Security
+Are data security metrics tracked and reported to management to demonstrate the effectiveness of security controls?,Data Governance,Data Security
+"Does the organization comply with relevant data protection regulations, such as GDPR, CCPA, or HIPAA?",Data Governance,Data Security
+Is there a data privacy officer or designated individual responsible for overseeing data privacy and security compliance?,Data Governance,Data Security
+Is there a process for conducting privacy impact assessments (PIAs) for new projects or initiatives that involve processing personal data?,Data Governance,Data Security
+"Are data subject rights, such as the right to access, rectify, and erase personal data, respected and facilitated?",Data Governance,Data Security
+Is there a process for obtaining and managing consent for the collection and use of personal data?,Data Governance,Data Security
+"Are data security controls aligned with industry standards and best practices, such as ISO 27001, NIST SP 800-53, or CIS Controls?",Data Governance,Data Security
+Does the organization participate in threat intelligence sharing initiatives to stay informed about emerging data security threats?,Data Governance,Data Security
+Are data security controls regularly reviewed and updated to address evolving threats and vulnerabilities?,Data Governance,Data Security
+Does the organization have a process for managing and securing sensitive data stored in cloud environments?,Data Governance,Data Security
+Are cloud service providers (CSPs) assessed for their data security practices before being selected?,Data Governance,Data Security
+Are data security roles and responsibilities clearly defined and assigned within the organization?,Data Governance,Data Security
+Is there a data governance committee or steering group responsible for overseeing data security and privacy policies?,Data Governance,Data Security
+Does the organization have a formal data breach notification policy and process?,Data Governance,Data Security
+Are data security events and incidents logged and monitored for suspicious activity?,Data Governance,Data Security
+Is there a process for conducting forensic investigations of data security breaches?,Data Governance,Data Security
+"Does the organization have a data inventory that identifies the types, locations, and owners of sensitive data?",Data Governance,Data Security
+Are data security policies and procedures regularly reviewed and updated to reflect changes in the organization's business and technology environment?,Data Governance,Data Security
+Is there a process for managing and securing data stored on mobile devices?,Data Governance,Data Security
+Are employees required to use strong passwords and multi-factor authentication (MFA) to access sensitive data?,Data Governance,Data Security
+Does the organization have a process for securely disposing of electronic devices that contain sensitive data?,Data Governance,Data Security
+Are data security controls tested regularly to ensure they are effective?,Data Governance,Data Security
+Is there a process for managing and securing data stored in databases?,Data Governance,Data Security
+Are database access logs regularly reviewed to detect unauthorized access?,Data Governance,Data Security
+Are database vulnerabilities regularly scanned and remediated?,Data Governance,Data Security
+Does the organization have a data security training program for employees?,Data Governance,Data Security
+Are employees required to complete data security training on a regular basis?,Data Governance,Data Security
+Is the data security training program tailored to the specific roles and responsibilities of employees?,Data Governance,Data Security
+Are employees trained on how to identify and report data security incidents?,Data Governance,Data Security
+Does the organization have a data security awareness campaign to promote secure data handling practices?,Data Governance,Data Security
+"Does the organization maintain a documented data privacy policy that aligns with applicable legal and regulatory requirements (e.g., GDPR, CCPA, HIPAA)?",Data Governance,Privacy and Compliance
+"Are data privacy roles and responsibilities clearly defined and assigned within the organization (e.g., Data Protection Officer)?",Data Governance,Privacy and Compliance
+"Does the organization conduct regular privacy impact assessments (PIAs) for new projects or initiatives that involve the processing of personal data, as per GDPR Article 35 or similar requirements?",Data Governance,Privacy and Compliance
+"Is there a process in place to identify and document the legal basis for processing personal data (e.g., consent, contract, legitimate interest) as required by data protection regulations?",Data Governance,Privacy and Compliance
+"Does the organization obtain explicit consent from individuals before collecting and processing their personal data, where consent is the legal basis for processing, as per GDPR Article 7 or similar requirements?",Data Governance,Privacy and Compliance
+"Are individuals provided with clear and transparent information about how their personal data is collected, used, and shared, in accordance with privacy notice requirements?",Data Governance,Privacy and Compliance
+"Does the organization have a mechanism for individuals to exercise their data subject rights (e.g., right to access, rectification, erasure, data portability) as outlined in data protection regulations?",Data Governance,Privacy and Compliance
+Is there a documented process for responding to and resolving data subject requests in a timely and compliant manner?,Data Governance,Privacy and Compliance
+"Does the organization have procedures in place to ensure that personal data is accurate, complete, and up-to-date?",Data Governance,Privacy and Compliance
+"Is personal data stored and processed in a manner that ensures its security, integrity, and confidentiality, as required by data protection regulations?",Data Governance,Privacy and Compliance
+"Does the organization implement appropriate technical and organizational measures to protect personal data against unauthorized access, disclosure, alteration, or destruction, in line with ISO 27001, NIST SP 800-53, and CIS Controls?",Data Governance,Privacy and Compliance
+"Does the organization encrypt sensitive personal data both at rest and in transit, using strong encryption algorithms and key management practices?",Data Governance,Privacy and Compliance
+"Are access controls implemented to restrict access to personal data to authorized personnel only, based on the principle of least privilege?",Data Governance,Privacy and Compliance
+Does the organization regularly monitor and audit access to personal data to detect and prevent unauthorized access or data breaches?,Data Governance,Privacy and Compliance
+"Are data retention policies and procedures in place to define how long personal data is retained, based on legal and regulatory requirements and business needs?",Data Governance,Privacy and Compliance
+"Does the organization have procedures for securely disposing of personal data when it is no longer needed, in accordance with data protection regulations?",Data Governance,Privacy and Compliance
+"Is there a process for identifying and managing data breaches, including reporting breaches to data protection authorities and affected individuals as required by law?",Data Governance,Privacy and Compliance
+Does the organization maintain a data breach response plan that outlines the steps to be taken in the event of a data breach?,Data Governance,Privacy and Compliance
+"Are employees and contractors trained on data privacy principles and best practices, including their responsibilities for protecting personal data?",Data Governance,Privacy and Compliance
+Does the organization conduct regular security awareness training to educate employees about privacy risks and how to mitigate them?,Data Governance,Privacy and Compliance
+"Does the organization have a process for vetting and managing third-party vendors who process personal data on its behalf, including conducting due diligence and entering into data processing agreements (DPAs)?",Data Governance,Privacy and Compliance
+Are data processing agreements (DPAs) in place with third-party vendors to ensure that they comply with data protection regulations and protect personal data?,Data Governance,Privacy and Compliance
+Does the organization conduct regular audits of third-party vendors to assess their compliance with data protection requirements?,Data Governance,Privacy and Compliance
+"Is personal data transferred to countries outside the European Economic Area (EEA) or other jurisdictions with adequate data protection laws, in compliance with applicable data transfer mechanisms (e.g., Standard Contractual Clauses, Binding Corporate Rules)?",Data Governance,Privacy and Compliance
+"Does the organization comply with cross-border data transfer requirements, such as using appropriate safeguards to protect personal data when transferred internationally?",Data Governance,Privacy and Compliance
+Is there a process for reviewing and updating data privacy policies and procedures on a regular basis to ensure they remain compliant with evolving legal and regulatory requirements?,Data Governance,Privacy and Compliance
+Does the organization conduct regular internal audits to assess its compliance with data privacy policies and procedures?,Data Governance,Privacy and Compliance
+"Does the organization have a process for tracking and monitoring changes in data privacy laws and regulations, and for adapting its practices accordingly?",Data Governance,Privacy and Compliance
+"Does the organization maintain records of its processing activities, as required by GDPR Article 30 or similar provisions?",Data Governance,Privacy and Compliance
+Are data processing activities documented and readily available for review by data protection authorities or other stakeholders?,Data Governance,Privacy and Compliance
+"Does the organization use privacy-enhancing technologies (PETs) such as anonymization, pseudonymization, and differential privacy to protect personal data?",Data Governance,Privacy and Compliance
+Are PETs implemented appropriately to minimize the risk of re-identification of individuals?,Data Governance,Privacy and Compliance
+"Does the organization have a process for handling sensitive personal data (e.g., health data, biometric data) in accordance with specific regulatory requirements?",Data Governance,Privacy and Compliance
+Are specific controls implemented to protect sensitive personal data against unauthorized access or disclosure?,Data Governance,Privacy and Compliance
+"Does the organization comply with industry-specific privacy regulations, such as HIPAA for healthcare data or GLBA for financial data?",Data Governance,Privacy and Compliance
+Are data governance practices in place to ensure that data is managed and used responsibly and ethically?,Data Governance,Privacy and Compliance
+"Does the organization have a framework for addressing ethical considerations related to the use of data, including fairness, transparency, and accountability?",Data Governance,Privacy and Compliance
+Is there a process for assessing and mitigating potential biases in algorithms and artificial intelligence systems that process personal data?,Data Governance,Privacy and Compliance
+Does the organization have a policy on the use of cookies and other tracking technologies on its website and online services?,Data Governance,Privacy and Compliance
+"Are users informed about the use of cookies and given the opportunity to consent to their use, where required?",Data Governance,Privacy and Compliance
+Does the organization have a process for obtaining and managing cookie consent?,Data Governance,Privacy and Compliance
+Is there a process for ensuring that personal data collected through mobile apps is processed in accordance with data protection regulations?,Data Governance,Privacy and Compliance
+Are mobile app permissions reviewed and minimized to collect only the necessary data?,Data Governance,Privacy and Compliance
+"Does the organization comply with ePrivacy regulations, such as the ePrivacy Directive or the proposed ePrivacy Regulation, regarding electronic communications?",Data Governance,Privacy and Compliance
+Are marketing communications sent to individuals only with their explicit consent?,Data Governance,Privacy and Compliance
+Does the organization have a process for managing unsubscribe requests and ensuring that individuals are removed from mailing lists when they opt out?,Data Governance,Privacy and Compliance
+Does the organization monitor for and respond to any privacy-related complaints or concerns raised by individuals or other stakeholders?,Data Governance,Privacy and Compliance
+Are complaints handled in a timely and transparent manner?,Data Governance,Privacy and Compliance
+Does the organization engage with privacy advocacy groups and other stakeholders to promote responsible data practices?,Data Governance,Privacy and Compliance
+Does the organization have a process for regularly reviewing and updating its privacy program to ensure that it remains effective and aligned with evolving best practices?,Data Governance,Privacy and Compliance

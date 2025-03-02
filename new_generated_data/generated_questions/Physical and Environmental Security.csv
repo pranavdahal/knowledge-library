@@ -1,0 +1,201 @@
+question,category,subcategory
+Does the facility have clearly defined and documented security perimeters?,Physical and Environmental Security,Facility Security
+"Are physical access control systems, such as key cards or biometric scanners, implemented at facility entry points?",Physical and Environmental Security,Facility Security
+Are there documented procedures for controlling and monitoring visitor access to the facility?,Physical and Environmental Security,Facility Security
+Is there a process for verifying the identity of individuals requesting access to the facility?,Physical and Environmental Security,Facility Security
+"Are physical security controls in place to prevent unauthorized entry to sensitive areas within the facility (e.g., data centers, server rooms)?",Physical and Environmental Security,Facility Security
+Is the facility equipped with an alarm system that monitors for unauthorized entry and other security events?,Physical and Environmental Security,Facility Security
+Is the alarm system regularly tested to ensure its functionality?,Physical and Environmental Security,Facility Security
+Are surveillance cameras (CCTV) installed at strategic locations to monitor facility activity?,Physical and Environmental Security,Facility Security
+Are CCTV recordings regularly reviewed and retained in accordance with a documented retention policy?,Physical and Environmental Security,Facility Security
+Is the facility perimeter adequately lit to deter unauthorized access and enhance surveillance?,Physical and Environmental Security,Facility Security
+Are windows and doors secured to prevent forced entry?,Physical and Environmental Security,Facility Security
+Are external entrances equipped with doorbells or intercoms to control access?,Physical and Environmental Security,Facility Security
+Are there documented procedures for managing keys and access cards?,Physical and Environmental Security,Facility Security
+Are lost or stolen keys and access cards promptly deactivated and replaced?,Physical and Environmental Security,Facility Security
+Is there a process for conducting background checks on personnel who have access to the facility?,Physical and Environmental Security,Facility Security
+Are security awareness trainings provided to personnel regarding physical security best practices?,Physical and Environmental Security,Facility Security
+Are emergency evacuation plans in place and regularly practiced?,Physical and Environmental Security,Facility Security
+Are fire suppression systems installed and maintained in accordance with applicable regulations and standards?,Physical and Environmental Security,Facility Security
+Are there designated fire exits that are clearly marked and unobstructed?,Physical and Environmental Security,Facility Security
+Are fire extinguishers readily available and personnel trained in their use?,Physical and Environmental Security,Facility Security
+Are there procedures for handling hazardous materials stored on-site?,Physical and Environmental Security,Facility Security
+"Is the facility protected against environmental hazards such as flooding, earthquakes, or extreme weather events?",Physical and Environmental Security,Facility Security
+Are critical systems and equipment protected from power outages with backup generators or uninterruptible power supplies (UPS)?,Physical and Environmental Security,Facility Security
+"Are environmental monitoring systems in place to detect and alert to temperature, humidity, or water leaks?",Physical and Environmental Security,Facility Security
+Are data centers and server rooms equipped with appropriate cooling systems?,Physical and Environmental Security,Facility Security
+Are cable management systems in place to prevent tripping hazards and ensure proper airflow?,Physical and Environmental Security,Facility Security
+Is there a process for securely disposing of sensitive documents and media?,Physical and Environmental Security,Facility Security
+Is there a policy prohibiting the use of personal electronic devices in sensitive areas of the facility?,Physical and Environmental Security,Facility Security
+Are there designated areas for smoking and eating to prevent damage or contamination of sensitive equipment?,Physical and Environmental Security,Facility Security
+Is the facility regularly inspected for security vulnerabilities?,Physical and Environmental Security,Facility Security
+Are security incidents reported and investigated in a timely manner?,Physical and Environmental Security,Facility Security
+Does the facility have a dedicated security team or designated security personnel?,Physical and Environmental Security,Facility Security
+Are the roles and responsibilities of security personnel clearly defined?,Physical and Environmental Security,Facility Security
+Are there documented procedures for responding to security incidents and emergencies?,Physical and Environmental Security,Facility Security
+"Is the facility compliant with all applicable local, state, and federal regulations related to physical security?",Physical and Environmental Security,Facility Security
+Are regular audits conducted to assess the effectiveness of physical security controls?,Physical and Environmental Security,Facility Security
+Is there a process for documenting and addressing audit findings?,Physical and Environmental Security,Facility Security
+Are physical security policies and procedures reviewed and updated periodically?,Physical and Environmental Security,Facility Security
+Are service providers who access the facility subject to security requirements and background checks?,Physical and Environmental Security,Facility Security
+Are contracts with service providers reviewed to ensure they address physical security responsibilities?,Physical and Environmental Security,Facility Security
+Is there a process for tracking and managing assets within the facility?,Physical and Environmental Security,Facility Security
+Are assets tagged and inventoried to prevent theft or loss?,Physical and Environmental Security,Facility Security
+Are high-value assets stored in secured areas?,Physical and Environmental Security,Facility Security
+Are there procedures for securely transporting sensitive assets within and outside the facility?,Physical and Environmental Security,Facility Security
+Are there designated loading docks and receiving areas for deliveries?,Physical and Environmental Security,Facility Security
+Is there a process for inspecting deliveries to prevent unauthorized items from entering the facility?,Physical and Environmental Security,Facility Security
+Are employees trained on how to identify and report suspicious activity?,Physical and Environmental Security,Facility Security
+Are there communication channels in place for reporting security concerns?,Physical and Environmental Security,Facility Security
+Are there procedures for handling bomb threats or other security emergencies?,Physical and Environmental Security,Facility Security
+Is there a crisis management plan in place to address major disruptions or disasters?,Physical and Environmental Security,Facility Security
+Are temperature and humidity levels in data centers and server rooms continuously monitored to prevent equipment failure?,Physical and Environmental Security,Environmental Controls
+"Do environmental control systems (e.g., HVAC) have backup power sources to ensure continuous operation during power outages?",Physical and Environmental Security,Environmental Controls
+"Is there a documented procedure for responding to environmental control system failures (e.g., HVAC malfunction, water leak)?",Physical and Environmental Security,Environmental Controls
+Are environmental monitoring systems integrated with alerting mechanisms to notify relevant personnel of out-of-range conditions?,Physical and Environmental Security,Environmental Controls
+"Are fire suppression systems (e.g., sprinklers, gaseous suppression) regularly inspected and maintained according to applicable standards (e.g., NFPA)?",Physical and Environmental Security,Environmental Controls
+Is there a water leak detection system in place for areas housing critical IT infrastructure?,Physical and Environmental Security,Environmental Controls
+"Are procedures in place to prevent and mitigate the impact of water damage from leaks, floods, or other sources?",Physical and Environmental Security,Environmental Controls
+"Are electrical power systems (e.g., UPS, generators) regularly tested and maintained to ensure reliable power supply?",Physical and Environmental Security,Environmental Controls
+Is there surge protection in place for electrical systems to protect equipment from power surges and spikes?,Physical and Environmental Security,Environmental Controls
+Is there an uninterruptible power supply (UPS) system to provide temporary power during power outages?,Physical and Environmental Security,Environmental Controls
+Are emergency power-off (EPO) switches readily accessible and clearly labeled in critical areas?,Physical and Environmental Security,Environmental Controls
+Are environmental control systems physically secured to prevent unauthorized access or tampering?,Physical and Environmental Security,Environmental Controls
+Are HVAC systems regularly inspected and cleaned to prevent dust and debris buildup that could lead to equipment overheating?,Physical and Environmental Security,Environmental Controls
+Is there a documented plan for relocating critical IT infrastructure in the event of a prolonged environmental disruption?,Physical and Environmental Security,Environmental Controls
+"Are environmental control systems compliant with relevant regulatory requirements (e.g., environmental protection laws, building codes)?",Physical and Environmental Security,Environmental Controls
+"Are there procedures in place for the proper disposal of hazardous materials used in environmental control systems (e.g., refrigerants, batteries)?",Physical and Environmental Security,Environmental Controls
+Is there an established temperature range and humidity level for the servers rooms and are they compliant with the manufacturer recommendations?,Physical and Environmental Security,Environmental Controls
+Do you have a record of preventative maintenance activities performed for environmental control systems?,Physical and Environmental Security,Environmental Controls
+Are personnel trained on how to respond to environmental emergencies and operate environmental control systems?,Physical and Environmental Security,Environmental Controls
+Do environmental control systems logs regularly reviewed for anomalies and suspicious activity?,Physical and Environmental Security,Environmental Controls
+Is the fire suppression system appropriate for the type of equipment and materials present in the protected area?,Physical and Environmental Security,Environmental Controls
+Is the air filtration system adequate to remove dust and particles that could damage sensitive equipment?,Physical and Environmental Security,Environmental Controls
+Are environmental sensors calibrated regularly to ensure accurate readings?,Physical and Environmental Security,Environmental Controls
+Is there a mechanism to prevent condensation from forming on sensitive equipment?,Physical and Environmental Security,Environmental Controls
+Is there a policy to monitor the consumption of water and electricity from each environment facility?,Physical and Environmental Security,Environmental Controls
+Are there any regulations followed regarding the disposal of E-waste?,Physical and Environmental Security,Environmental Controls
+Is there an inspection process for the physical environmental controls regularly?,Physical and Environmental Security,Environmental Controls
+Are the electrical cable management processes compliant with industry standards to avoid the heat generation?,Physical and Environmental Security,Environmental Controls
+Does the organization have processes for checking the physical facility regularly for physical intrusion and theft or tampering?,Physical and Environmental Security,Environmental Controls
+Is there a log available for who performed the facility inspection?,Physical and Environmental Security,Environmental Controls
+Does the organization have the proper controls in place to prevent any data loss or leakage from the physical environment?,Physical and Environmental Security,Environmental Controls
+Is there a procedure to report environmental control failure immediately?,Physical and Environmental Security,Environmental Controls
+Are there security alarms for any water leaks or intrusion attempts on the environmental control facilities?,Physical and Environmental Security,Environmental Controls
+Does the organization retain the logs of all activities in the environmental control facility?,Physical and Environmental Security,Environmental Controls
+Are the organizations compliant with the temperature standards to operate systems with maximum efficiency?,Physical and Environmental Security,Environmental Controls
+Are the security and environment control policies and guidelines reviewed and updated regularly?,Physical and Environmental Security,Environmental Controls
+Is there a policy to monitor the consumption of energy in an efficient way to reduce carbon footprint?,Physical and Environmental Security,Environmental Controls
+Is there a mechanism to detect flooding in low-level areas with an automatic disconnection of the power supply?,Physical and Environmental Security,Environmental Controls
+Are there measures that can prevent the entry of rodents and insects inside the premises?,Physical and Environmental Security,Environmental Controls
+Have you performed a Business Impact Analysis (BIA) on critical environmental controls to determine Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs)?,Physical and Environmental Security,Environmental Controls
+"Are heating, ventilation, and air conditioning (HVAC) systems designed and maintained to prevent the introduction of contaminants?",Physical and Environmental Security,Environmental Controls
+Is there a designated individual or team responsible for the oversight and maintenance of environmental controls?,Physical and Environmental Security,Environmental Controls
+Are there documented procedures for investigating and resolving environmental incidents?,Physical and Environmental Security,Environmental Controls
+Do environmental control systems undergo periodic vulnerability assessments and penetration testing?,Physical and Environmental Security,Environmental Controls
+"Does your organization have a written policy regarding environmental controls, including acceptable temperature ranges and humidity levels?",Physical and Environmental Security,Environmental Controls
+Are backup generators tested under load to ensure they can meet the power demands of critical systems during an outage?,Physical and Environmental Security,Environmental Controls
+Are power distribution units (PDUs) monitored for power consumption and load balancing?,Physical and Environmental Security,Environmental Controls
+Does the organization implement measures to reduce energy consumption in data centers and other facilities?,Physical and Environmental Security,Environmental Controls
+Is there a process for decommissioning and disposing of obsolete environmental control equipment in an environmentally responsible manner?,Physical and Environmental Security,Environmental Controls
+Does the Environmental Management systems meet ISO 14001 standards?,Physical and Environmental Security,Environmental Controls
+Does the organization have a documented policy for physical access management?,Physical and Environmental Security,Physical Access Management
+"Are physical access control systems, such as card readers or biometric scanners, regularly tested and maintained?",Physical and Environmental Security,Physical Access Management
+Are physical access logs reviewed periodically for suspicious activity or anomalies?,Physical and Environmental Security,Physical Access Management
+"Is there a process in place to grant, modify, and revoke physical access privileges?",Physical and Environmental Security,Physical Access Management
+"Are visitors required to sign in and out, and are they escorted while on the premises?",Physical and Environmental Security,Physical Access Management
+Are physical access badges required for entry to secure areas?,Physical and Environmental Security,Physical Access Management
+"Is there a documented procedure for issuing, managing, and deactivating physical access badges?",Physical and Environmental Security,Physical Access Management
+Are physical access rights based on the principle of least privilege?,Physical and Environmental Security,Physical Access Management
+Are background checks conducted on personnel requiring physical access to sensitive areas?,Physical and Environmental Security,Physical Access Management
+Are employees trained on physical security awareness and procedures?,Physical and Environmental Security,Physical Access Management
+Are emergency exits clearly marked and accessible?,Physical and Environmental Security,Physical Access Management
+Are emergency procedures posted and readily available?,Physical and Environmental Security,Physical Access Management
+Is there a process for managing physical keys and lock combinations?,Physical and Environmental Security,Physical Access Management
+Are external doors and windows secured to prevent unauthorized entry?,Physical and Environmental Security,Physical Access Management
+Are security cameras strategically placed to monitor access points and sensitive areas?,Physical and Environmental Security,Physical Access Management
+Are security camera recordings regularly reviewed and archived?,Physical and Environmental Security,Physical Access Management
+Is there a process for handling lost or stolen physical access badges?,Physical and Environmental Security,Physical Access Management
+"Are physical access control systems integrated with other security systems, such as alarm systems or video surveillance?",Physical and Environmental Security,Physical Access Management
+Is there a designated security personnel responsible for physical access management?,Physical and Environmental Security,Physical Access Management
+Are physical security audits conducted periodically to assess the effectiveness of access controls?,Physical and Environmental Security,Physical Access Management
+Does the organization perform a risk assessment for physical access vulnerabilities at least annually?,Physical and Environmental Security,Physical Access Management
+Are temporary physical access badges clearly distinguishable from permanent badges?,Physical and Environmental Security,Physical Access Management
+Is there a policy prohibiting the sharing of physical access badges?,Physical and Environmental Security,Physical Access Management
+Are there procedures in place to prevent tailgating or piggybacking into secure areas?,Physical and Environmental Security,Physical Access Management
+Does the organization have a documented procedure for responding to physical security breaches?,Physical and Environmental Security,Physical Access Management
+Are service providers or contractors with physical access required to adhere to the organization's physical security policies?,Physical and Environmental Security,Physical Access Management
+Is there a documented process for controlling and monitoring access to data centers or server rooms?,Physical and Environmental Security,Physical Access Management
+Are entry points to the facility monitored during and after business hours?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems backed up to ensure continuous operation in case of power outage?,Physical and Environmental Security,Physical Access Management
+Is there a process for verifying the identity of individuals requesting physical access?,Physical and Environmental Security,Physical Access Management
+Are physical access privileges automatically revoked upon termination of employment?,Physical and Environmental Security,Physical Access Management
+"Are there physical barriers in place to deter unauthorized access, such as fences or gates?",Physical and Environmental Security,Physical Access Management
+Are physical access points regularly inspected for signs of tampering or damage?,Physical and Environmental Security,Physical Access Management
+Are there defined security zones with different levels of access control within the facility?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems configured to prevent replay attacks?,Physical and Environmental Security,Physical Access Management
+Are physical access logs correlated with other security logs to identify potential security incidents?,Physical and Environmental Security,Physical Access Management
+Is there a process for escalating physical security incidents to the appropriate personnel?,Physical and Environmental Security,Physical Access Management
+"Are physical security controls aligned with industry best practices and regulatory requirements (e.g., ISO 27001, NIST SP 800-53)?",Physical and Environmental Security,Physical Access Management
+Is the physical access management policy reviewed and updated at least annually?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems protected from physical damage or tampering?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems protected by uninterruptible power supplies (UPS)?,Physical and Environmental Security,Physical Access Management
+Are physical access requests documented and approved by authorized personnel?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems integrated with the organization's identity management system?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems regularly tested for vulnerabilities?,Physical and Environmental Security,Physical Access Management
+Is there a documented process for managing access to sensitive information stored in physical form?,Physical and Environmental Security,Physical Access Management
+Are storage areas for sensitive information physically secured?,Physical and Environmental Security,Physical Access Management
+Is there a documented process for the secure disposal of physical media containing sensitive information?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems regularly audited for compliance with policies and procedures?,Physical and Environmental Security,Physical Access Management
+Is there a documented plan for emergency evacuation in case of a physical security incident?,Physical and Environmental Security,Physical Access Management
+Are physical access control systems configured to prevent unauthorized access to network infrastructure?,Physical and Environmental Security,Physical Access Management
+"Are equipment security policies and procedures documented and readily available to relevant personnel (e.g., ISO 27001 A.11.1.1)?",Physical and Environmental Security,Equipment Security
+"Is there a designated owner for each piece of equipment, responsible for its security and maintenance (NIST SP 800-53 CM-8)?",Physical and Environmental Security,Equipment Security
+"Are physical inventories of all hardware assets (e.g., servers, workstations, networking devices) maintained and regularly updated (CIS Control 1)?",Physical and Environmental Security,Equipment Security
+Are equipment inventories reconciled periodically to detect missing or unauthorized devices (ISO 27001 A.8.1.1)?,Physical and Environmental Security,Equipment Security
+"Are removable media devices (e.g., USB drives, external hard drives) inventoried and controlled to prevent unauthorized use or data leakage (NIST SP 800-53 MP-7)?",Physical and Environmental Security,Equipment Security
+"Are physical security measures (e.g., locks, alarms, surveillance) in place to protect equipment from theft or damage (CIS Control 14)?",Physical and Environmental Security,Equipment Security
+"Are access control mechanisms (e.g., keycards, biometric scanners) implemented to restrict physical access to areas where critical equipment is stored (ISO 27001 A.11.1.2)?",Physical and Environmental Security,Equipment Security
+Are security cameras strategically positioned to monitor access to equipment storage areas (NIST SP 800-53 PE-6)?,Physical and Environmental Security,Equipment Security
+"Is there a log of physical access to areas where sensitive equipment is located, and is it regularly reviewed (CIS Control 6)?",Physical and Environmental Security,Equipment Security
+Are visitors to equipment areas required to sign in and out and be escorted by authorized personnel (ISO 27001 A.11.1.3)?,Physical and Environmental Security,Equipment Security
+"Are equipment rooms and data centers protected against environmental hazards such as fire, flood, and extreme temperatures (CIS Control 14)?",Physical and Environmental Security,Equipment Security
+"Are fire suppression systems (e.g., sprinklers, fire extinguishers) regularly inspected and maintained in equipment areas (NIST SP 800-53 PE-1)?",Physical and Environmental Security,Equipment Security
+Are temperature and humidity levels in equipment rooms monitored to prevent overheating or moisture damage (ISO 27001 A.11.2.1)?,Physical and Environmental Security,Equipment Security
+Are power supplies for critical equipment protected against power outages with backup generators or uninterruptible power supplies (UPS) (CIS Control 14)?,Physical and Environmental Security,Equipment Security
+Are all network cables securely routed and protected from damage or tampering (NIST SP 800-53 PE-9)?,Physical and Environmental Security,Equipment Security
+"Are security measures in place to prevent unauthorized access to network cabling (e.g., locked conduits, cable trays) (ISO 27001 A.11.2.2)?",Physical and Environmental Security,Equipment Security
+"Is there a process for securely disposing of obsolete or malfunctioning equipment, including data sanitization (CIS Control 14)?",Physical and Environmental Security,Equipment Security
+Are hard drives and other storage media wiped or physically destroyed before disposal to prevent data breaches (NIST SP 800-53 MP-6)?,Physical and Environmental Security,Equipment Security
+Is a certificate of destruction obtained for disposed equipment containing sensitive data (ISO 27001 A.8.3.2)?,Physical and Environmental Security,Equipment Security
+"Are employees trained on equipment security policies and procedures, including proper handling, storage, and disposal (CIS Control 14)?",Physical and Environmental Security,Equipment Security
+Is security awareness training provided to employees on identifying and reporting suspicious activity related to equipment (ISO 27001 A.7.2.2)?,Physical and Environmental Security,Equipment Security
+Are background checks conducted on personnel with access to sensitive equipment (NIST SP 800-53 PS-3)?,Physical and Environmental Security,Equipment Security
+Are non-disclosure agreements (NDAs) in place for personnel with access to confidential information stored on equipment (ISO 27001 A.7.1.1)?,Physical and Environmental Security,Equipment Security
+Is there a process for reporting and investigating equipment-related security incidents (CIS Control 14)?,Physical and Environmental Security,Equipment Security
+Are security incident response plans regularly tested and updated to address equipment-related threats (ISO 27001 A.16.1.1)?,Physical and Environmental Security,Equipment Security
+Are security events related to equipment logged and monitored for suspicious activity (NIST SP 800-53 AU-2)?,Physical and Environmental Security,Equipment Security
+Are vulnerability assessments and penetration testing conducted on critical equipment to identify security weaknesses (CIS Control 7)?,Physical and Environmental Security,Equipment Security
+Are identified vulnerabilities in equipment remediated in a timely manner (ISO 27001 A.12.6.1)?,Physical and Environmental Security,Equipment Security
+Are security patches and updates applied to equipment operating systems and firmware on a regular basis (NIST SP 800-53 SI-2)?,Physical and Environmental Security,Equipment Security
+Is there a configuration management process in place to ensure consistent security settings across all equipment (CIS Control 5)?,Physical and Environmental Security,Equipment Security
+Are baseline configurations established and enforced for all types of equipment (ISO 27001 A.12.1.1)?,Physical and Environmental Security,Equipment Security
+Is change management process followed for equipment upgrades and modifications (NIST SP 800-53 CM-3)?,Physical and Environmental Security,Equipment Security
+Is equipment regularly inspected for physical damage or tampering (ISO 27001 A.11.2.7)?,Physical and Environmental Security,Equipment Security
+Are there procedures in place to address unauthorized software or hardware installed on equipment (CIS Control 3)?,Physical and Environmental Security,Equipment Security
+"Are remote access to equipment secured with strong authentication methods (e.g., multi-factor authentication) (NIST SP 800-53 IA-2)?",Physical and Environmental Security,Equipment Security
+Are the vendor-supplied default passwords for equipment changed immediately after installation (ISO 27001 A.12.6.2)?,Physical and Environmental Security,Equipment Security
+Is the equipment properly grounded to protect against electrical surges and static discharge (CIS Control 14)?,Physical and Environmental Security,Equipment Security
+Is equipment placed in secure locations that minimize the risk of unauthorized access or environmental damage (ISO 27001 A.11.1.4)?,Physical and Environmental Security,Equipment Security
+Are power cables and network cables properly secured to prevent accidental disconnection (NIST SP 800-53 PE-9)?,Physical and Environmental Security,Equipment Security
+"Is there a policy on acceptable use of organization-provided equipment, detailing what is permitted and restricted?",Physical and Environmental Security,Equipment Security
+Are laptops and mobile devices secured with full disk encryption (CIS Control 3)?,Physical and Environmental Security,Equipment Security
+Are security settings on equipment configured to minimize the attack surface (ISO 27001 A.12.1.2)?,Physical and Environmental Security,Equipment Security
+Are hardware security modules (HSMs) used to protect cryptographic keys stored on equipment (NIST SP 800-53 SC-12)?,Physical and Environmental Security,Equipment Security
+"Are procedures in place to manage and secure equipment taken off-site (e.g., laptops used by remote workers) (ISO 27001 A.6.2.2)?",Physical and Environmental Security,Equipment Security
+Are loaner equipment tracked and monitored for potential security risks (CIS Control 1)?,Physical and Environmental Security,Equipment Security
+Is the equipment maintained according to the manufacturer's specifications to ensure proper operation and security (ISO 27001 A.12.4.1)?,Physical and Environmental Security,Equipment Security
+Are the warranty terms and conditions for equipment reviewed to understand the manufacturer's support obligations (NIST SP 800-53 CA-7)?,Physical and Environmental Security,Equipment Security
+Are service providers with access to equipment subject to security assessments and contractual agreements (ISO 27001 A.15.1.1)?,Physical and Environmental Security,Equipment Security
+Is the security posture of service providers regularly monitored to ensure compliance with security requirements (NIST SP 800-53 CA-2)?,Physical and Environmental Security,Equipment Security
+"Is there a process for managing end-of-life equipment, including data sanitization and secure disposal or repurposing (CIS Control 14)?",Physical and Environmental Security,Equipment Security

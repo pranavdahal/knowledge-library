@@ -1,0 +1,13 @@
+pandas
+openpyxl
+google-generativeai
+python-dotenv
+scikit-learn
+sentence-transformers
+plotly
+streamlit
+torch
+tqdm
+joblib
+neo4j
+plotly
