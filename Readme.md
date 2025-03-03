@@ -72,8 +72,17 @@ You can set up this project using either a conda environment or a Python virtual
    ```
 
 3. Run the Docker container:
+
+   You can pass environment variables to the Docker container using the `-e` flag:
+
    ```bash
-   docker run -p 8501:8501 -d knowledge-library
+   docker run -p 8501:8501 -e NEO4J_PASSWORD=value1 -e NEO4J_URL=value2 -e NEO4J_USERNAME=value3 -d knowledge-library
+   ```
+
+   Alternatively, you can use an environment file:
+
+   ```bash
+   docker run -p 8501:8501 --env-file .env -d knowledge-library
    ```
 
    The application will be available at http://localhost:8501 in your web browser.
