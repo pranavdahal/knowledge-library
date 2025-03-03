@@ -6,8 +6,6 @@ import json
 import datetime
 from dateutil import parser
 
-import warnings
-warnings.filterwarnings("ignore")
 
 st.set_page_config(page_title="Home", layout="wide")
 

@@ -6,7 +6,6 @@ import plotly.graph_objects as go
 
 from knowledge_graph import KnowledgeGraph
 
-
 st.set_page_config(page_title="Compliance Mapping Dashboard", layout="wide")
 
 @st.cache_data
@@ -250,8 +249,10 @@ if len(gaps_df) > 0 and 'domain' in gaps_df.columns:
     )
     
     st.plotly_chart(fig, use_container_width=True)
+elif len(gaps_df) == 0:
+    st.success("All controls have sufficient coverage!")
 else:
-    st.info("No gaps found in the selected compliance standard or domain information is missing.")
+    st.info("Domain information is missing.")
 
 # if len(gaps_df) > 0:
 #     st.warning(f"{len(gaps_df)} controls have insufficient coverage")
@@ -271,11 +272,6 @@ else:
 #         )
 #         st.plotly_chart(fig)
     
-# else:
-#     st.success("All controls have sufficient coverage!")
-
-    
-
 st.markdown('---')
 st.subheader("Mapping Density Analysis")
 
@@ -339,3 +335,29 @@ if not density_df.empty:
                     len(density_df[density_df['mapping_count'] >= st.session_state.coverage_threshold]))
 else:
     st.info("No controls found in the selected compliance standard.")
+
+
+st.sidebar.markdown("---")
+if st.sidebar.button("Export to Excel", type='primary', use_container_width=True):
+    import io
+    from io import BytesIO
+
+    @st.dialog("Export Excel File")
+    def export_excel_dialog():
+        buffer = BytesIO()
+        
+        with pd.ExcelWriter(buffer, engine='openpyxl') as writer:
+            gaps_df.to_excel(writer, index=False, sheet_name='Gaps Analysis')
+        
+        buffer.seek(0)
+        
+        st.write("Your file is ready!")
+        
+        st.download_button(
+            label="Download", 
+            data=buffer,
+            file_name="gaps_analysis.xlsx", 
+            mime="application/vnd.ms-excel", 
+            type='primary'
+        )
+    export_excel_dialog()
