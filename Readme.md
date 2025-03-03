@@ -1,17 +1,34 @@
 # Q&A Knowledge Library
 
-A Python application with Streamlit UI.
+A Q&A Knowledge Library application with Streamlit UI.
 
 ## Prerequisites
 - Python 3.9 or higher
 - pip or conda package manager
-- Docker (optional, for containerized deployment)
-
+- Docker (optional, for containerized deployment) (preferred)
 ## Installation Instructions
 
 You can set up this project using either a conda environment or a Python virtual environment.
 
-### Option 1: Using Conda
+### Option 1: Using Docker Compose
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pranavdahal/knowledge-library.git
+   cd knowledge-library
+   ```
+
+2. Build and start the containers:
+   ```bash
+   docker compose up --build -d
+   ```
+
+3. To stop containers:
+   ```bash
+   docker compose down
+   ```
+
+### Option 2: Using Conda (Run Locally)
 
 1. Clone the repository:
    ```bash
@@ -30,7 +47,7 @@ You can set up this project using either a conda environment or a Python virtual
    pip install -r requirements.txt
    ```
 
-### Option 2: Using Python Virtual Environment
+### Option 3: Using Python Virtual Environment
 
 1. Clone the repository:
    ```bash
@@ -58,7 +75,7 @@ You can set up this project using either a conda environment or a Python virtual
    pip install -r requirements.txt
    ```
 
-### Option 3: Using Docker
+### Option 4: Using Docker for streamlit and neo4j cloud
 
 1. Clone the repository:
    ```bash
@@ -99,18 +116,16 @@ NEO4J_USERNAME=your_value_here
 
 Replace `your_value_here` with the appropriate values.
 
-### For Docker
+<br>
 
-You can pass environment variables to the Docker container using the `-e` flag:
-
-```bash
-docker run -p 8501:8501 -e VARIABLE_1=value1 -e VARIABLE_2=value2 -e VARIABLE_3=value3 -d knowledge-library
+### Neo4J local Setup (using Docker)
+Pull the image of neo4j from dockerhub and run your container.
 ```
-
-Alternatively, you can use an environment file:
-
-```bash
-docker run -p 8501:8501 --env-file .env -d knowledge-library
+docker run -d \
+  --name neo4j \
+  --publish 7474:7474 --publish 7687:7687 \
+  -e NEO4J_AUTH=neo4j/test1234 \
+  neo4j
 ```
 
 ## Running the Application
